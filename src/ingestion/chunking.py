@@ -1,1 +1,0 @@
-# Stratégie de segmentation

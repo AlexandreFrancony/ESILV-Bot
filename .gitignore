@@ -8,3 +8,4 @@ vectorstore/
 *.egg-info/
 dist/
 build/
+logs/

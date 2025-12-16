@@ -3,7 +3,6 @@ ESILV Smart Assistant - Agent Skeleton
 ========================================
 This file contains the blueprint for all 5 core agents.
 
-Author: Alexandre Francony
 Date: 2025-12-16
 """
 

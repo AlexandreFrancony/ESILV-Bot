@@ -11,3 +11,18 @@ and collect user information. A recorded demo video or live presentation require
 4) **Evaluation Notebook**: Notebook demonstrating query examples, accuracy metrics, and
 latency plots.
 5) **Slide Deck** (10-15 slides)
+
+# Fresh start
+To start fresh, delete the existing virtual environment folder (e.g., `venv/` or `env/`), then create a new one using:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt
+```
+
+After this, you'll need to build your data throught the scrapper and chunker again.
+```bash
+python src/ingestion/scraper.py
+python src/ingestion/chunker.py
+python src/ingestion/indexer.py # answer n when asked
+```
