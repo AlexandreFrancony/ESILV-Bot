@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 After this, you'll need to build your data throught the scrapper and chunker again.
 ```bash
-python src/ingestion/scraper.py
+python src/ingestion/pdf_loader.py
 python src/ingestion/chunker.py
 python src/ingestion/indexer.py # answer n when asked
 ```
