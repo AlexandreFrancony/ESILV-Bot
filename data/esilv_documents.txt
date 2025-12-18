@@ -1,36 +1,2993 @@
-ESILV Smart Assistant - Scraped Documents
-Generated: 2025-12-16T17:22:54.568066
+ESILV Smart Assistant - Extracted Documents
+Generated: 2025-12-18T22:03:48.602496
+
+================================================================================
+SOURCE: ESILV Brochure PDF
+SCRAPED: 2025-12-18T22:03:48.602496
 ================================================================================
 
 
+--- Page 1 ---
+I I
+PARIS NANTES MONTPELLIER
+Ingénieur
+généraliste
+120 15 60
++ +
+PARTENAIRES MAJEURES DOUBLES
+INTERNATIONAUX DONT 14 EN ALTERNANCE DIPLÔMES
+
+--- Page 2 ---
+Diplôme ingénieur ESILV
+GRADE DE MASTER
+I
+P23 Ingénierie financière
+I
+P24 Actuariat
+I
+P25 Fintech
+I
+P26 Objets connectés et Cybersécurité
+I
+P27 Data et Intelligence Artificielle
+I
+P28 Cloud computing et Cybersécurité
+I P29 Ingénierie logicielle et IA
+I P30 Modélisation et Mécanique numérique
+I
+P31 Industrie et Robotique
+I
+P32 Conception mécanique et Industrie durable
+I
+P33 Aérospatial et Défense
+I
+P34 Énergie et Villes durables
+I
+P35 MedTech et Santé
+I
+P36 Éco-innovation
+I
+P37 Creative technology
+3
+EÉNNA
+2
+EÉNNA
+1
+EÉNNA
+Tronc commun Généraliste & Numérique
+Stage d’ouverture au monde professionnel (2 à 3 mois)
+Tronc commun Sciences & Technologies
+Tronc commun Sciences & Technologies
+Formation d'ingénieur sous statut étudiant puis apprenti (FISEA)
+contrat de 2 ans.
+Formation d'ingénieur sous statut apprenti (FISA)
+contrat de 3 ans.
+International (échange académique en 3e et 5e année).
+Les cursus sont donnés à titre indicatif et peuvent évoluer d’une année sur l’autre.
+I
+02 ESILV DE VINCI ENGINEERING SCHOOL
+5
+EÉNNA
+&
+4
+EÉNNA
+ECNANIF
+EUQITAMROFNI
+EUQINACÉM
+DOOG
+ROF
+HCET
+)5
+eénna
+ne
+siom
+6(
+rueinégni
+egatS
+/
+)4
+eénna
+ne
+siom
+5(
+euqinhcet
+egatS
+I
+VLME
+reganaM-rueinégnI
+emôlpiD
+elbuoD
+24P
+CURSUS
+Complément
+de formation (1 mois)
+ReStart
+BAC GÉNÉRAL CPGE, MP,
+PASS, LAS
+(SPÉCIALITÉS PC, PSI, PT,
+L1, CPGE
+SCIENTIFIQUES) BUT, L2, L3,
+1ÈRE ANNÉE STI2D BTS
+
+--- Page 3 ---
+Une forte dimension
+Bienvenue à l’ESILV, l’école d’ingénieurs du Pôle Léonard
+généraliste, une ouverture
+de Vinci située au cœur de Paris La Défense, à Nantes et
+à Montpellier. L’ESILV forme des ingénieurs généralistes
+à l’international et une
+et experts en modélisation des systèmes complexes
+et en data pour l’innovation dans des secteurs en fort
+pédagogie projets aboutie.
+développement. La formation comprend une ouverture
+à l’international et une pédagogie “projets” aboutie.
+Les diplômés de l’ESILV s’illustrent dans de nombreux
+secteurs d’activité par leurs compétences numériques
+pluridisciplinaires, scientifiques et managériales, mais
+aussi leur engagement en faveur du développement
+durable et leur sens de l’éthique.
+Étudier à l’ESILV, c’est être acteur de sa propre
+formation, au milieu d’entreprises qui s’impliquent
+largement dans la pédagogie de l’école. Les
+occasions sont nombreuses de construire et
+d’enrichir son parcours durant le cursus : projets
+technologiques, majeures, parcours, international,
+doubles diplômes, stages ou alternance en
+entreprise…
+L’école, autant que son réseau international et son
+réseau d’entreprises partenaires, sont présents
+pour accompagner chaque étudiant dans ses choix
+et dans les temps forts de sa formation d’ingénieur.
+L’ESILV et les deux autres écoles du Pôle Léonard
+de Vinci - l’EMLV (école de Management) et l’IIM
+(école de création digitale) - partagent des valeurs
+communes, le numérique, la transversalité et les
+"soft skills".
+Pascal Pinot
+Directeur de l’ESILV
+L’ESILV a été habilitée, dès 2003, par la Commission des Titres d’Ingénieur (CTI)
+à délivrer le titre d’Ingénieur Diplômé de l’École Supérieure d’Ingénieurs
+Léonard de Vinci. Le contrôle des formations d’ingénieurs par la CTI confère
+des garanties de qualité, aussi bien sur la valeur des formations, que vis-à-vis
+des capacités professionnelles des diplômés.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 03
+
+--- Page 4 ---
+Pourquoi
+choisir l’ESILV ?
+Le choix d’une école d'ingénieur repose sur des critères objectifs : excellence académique,
+accréditations et labels, qualité du corps professoral, campus et équipements,
+relations entreprises, insertion professionnelle. L’ESILV ajoute à ces critères un cursus
+généraliste structuré autour de l’hybridation, de l’ouverture internationale et sociétale,
+et du développement complet de l’individu.
+4 600
+L’ESILV, une école d’ingénieurs
+généraliste post-bac et post-prépa
+au cœur des technologies
+numériques conférant le grade
+de master, bénéficiant étudiants
+d'accréditations et de labels
+français et internationaux.
+15
+majeures
+dont 14 accessibles en alternance
+dans 4 domaines : Finance / Informatique /
+Mécanique / Tech for good
+I
+04 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 5 ---
+2e
+école d’ingénieurs post-bac
+choisir l’ESILV ?
+47
+synthèse des classement 2025
+des écoles d’ingénieurs post-bac ,7K€
+source : blog l’Essentiel du Sup
+salaire moyen annuel brut
+avec primes en France + International
+60 120
++ +
+doubles diplômes (Master, MSc) universités partenaires
+en France et à l’international dans plus de 30 pays
+2 500 13
++
+entreprises partenaires mois minimum
+d’expérience en entreprise
+93% 41%
+d’embauche des diplômés dans une fonction
+en moins de 4 mois liée à l’international
+I
+DE VINCI ENGINEERING SCHOOL ESILV 05
+
+--- Page 6 ---
+I
+06 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 7 ---
+Make the
+difference
+L'ESILV bénéficie d’accréditations et de reconnaissances françaises et internationales.
+L'école est également associée à des organismes reconnus, chargés de promouvoir
+les formations d’ingénieurs et l’enseignement supérieur.
+L'ESILV est membre de la Organisme indépendant,
+Conférence des Grandes la Commission des Titres
+Le diplôme ESILV,
+Écoles, qui regroupe d'ingénieur évalue et
+conférant le titre
+plus de 247 grandes écoles améliore les formations
+d'ingénieur diplômé,
+françaises, dont 157 écoles d’ingénieur en France
+est délivré par
+d'ingénieurs. Toutes et à l’international. Elle
+un établissement habilité
+sont reconnues par l’État est membre des instances
+par l'État.
+et délivrent, comme l'ESILV, européennes d’accréditation
+un diplôme de niveau master et d’assurance qualité
+après cinq années d’études de l’enseignement supérieur.
+post-bac.
+Le label DD&RS distingue Établissement public chargé
+les établissements engagés Le Pôle Léonard de Vinci de la promotion de
+dans une démarche est membre résident l'enseignement supérieur
+de développement durable du Campus Cyber, un hub français à l'étranger et
+et de responsabilité de cybersécurité réunissant de l'accueil des étudiants
+sociétale. entreprises, services et des chercheurs étrangers
+Plus de 70 établissements de l'État, organismes en France, Campus France
+ont obtenu de formation, chercheurs encourage la mobilité
+cette reconnaissance. et associations au niveau internationale, gère des
+national et international. programmes de bourses et
+anime le réseau des alumni.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 07
+
+--- Page 8 ---
+Le Pôle Léonard de Vinci
+3 écoles de référence
+Au sein du Pôle Léonard de Vinci, les étudiants de l’ESILV évoluent aux côtés de ceux de l’EMLV
+et de l’IIM. Cette hybridation technologie-management-digital, unique dans l'enseignement
+supérieur, se traduit par des projets communs en innovation et en entrepreneuriat, un engagement
+partagé dans les soft skills et une dynamique collective portée par le sport et la vie associative.
+École d’ingénieurs École de management
+2e 3e
+Classement post-bac Classement post-bac
+1re en Île-de-France grade de Master
+Le Figaro Étudiant (2025) Le Parisien (2025)
+2e 3e
+Classement post-bac Classement post-bac
+L’Usine Nouvelle (2025) grade de Master
+Le Point (2025)
+3e 4e
+Classement post-bac Classement post-bac
+1re en Île-de-France grade de Master
+L’Étudiant (2025) Le Figaro Étudiant (2025)
+I
+08 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 9 ---
+11 000 3 500 27 000
+étudiants et apprenants alternants alumni
+(dont 22% d’internationaux)
+École de création numérique
+TOP
+10
+Un modèle
+Meilleures écoles
+de jeux vidéo au Monde
+unique en France
+GAMEducation (2024)
+La transversalité inter-écoles offre
+une expérience unique d’ouverture
+TOP
+interdisciplinaire et de développement
+10
+personnel aux étudiants de l’ESILV,
+de l’EMLV et de l’IIM.
+. Campus partagés
+Creative Schools production
+. Cours en communs,
+Excellence - 3D Animation
+semaines transverses,
+The Rookies (2023)
+hackathons
+. Doubles diplômes
+TOP
+et programmes hybrides
+40
+. Sport et activités
+associatives communes
+Animation School
+Rankings in Europe
+Animation Career Review (2024)
+I
+DE VINCI ENGINEERING SCHOOL ESILV 09
+
+--- Page 10 ---
+Une école
+CAMPUS DE L’ARCHE
+multicampus
+Paris-La Défense
+1er quartier d’affaires d'Europe, 500 entreprises françaises
+4e le plus attractif au monde et internationales
+70 000 étudiants 1 HUB et 5 lignes
+de transports en commun
+CAMPUS CYBER
+CAMPUS DES TERRASSES CAMPUS DU PARC (2026)
+I
+10 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 11 ---
+Nantes
+Un campus de 3 000 m2 Creative lab, studio À proximité immédiate Un campus de 3 000 m2
+dans le technopôle fond vert, Hub, d’autres grandes écoles au centre de Nantes
+Atlanpole espace de coworking
+CAMPUS DE LA CHANTRERIE CAMPUS NANTES CENTRE
+Montpellier
+Un campus À proximité de grands Rentrée 2026
+de 1 100 m2 établissements dans un campus
+d'enseignement supérieur flambant neuf
+CAMPUS EUROMEDECINE CAMPUS CASTELMED (2026)
+I
+DE VINCI ENGINEERING SCHOOL ESILV 11
+
+--- Page 12 ---
+Boostez votre
+employabilité
+La réussite dans les études supérieures ne repose pas seulement sur la qualité de la formation
+technique et professionnelle, elle implique également des qualités humaines et la capacité
+de nos étudiants à contribuer aux indispensables évolutions de la société et des entreprises.
+Compétences Projet Projet Employabilité
+comportementales professionnel personnel
+Une expérience
+collective qui prépare
+aux transitions
+L’hybridation pédagogique est l’un des moteurs
+du Pôle Léonard de Vinci. Les étudiants de l’ESILV
+apprennent à collaborer en équipes projet pluridisciplinaires,
+avec les futurs managers de l’EMLV et créatifs de l’IIM,
+comme ils le feraient en entreprise.
+Approches interdisciplinaires
+Perspectives internationales et sociétales
+Les 11 000 étudiants du Pôle Léonard de Vinci
+vivent la transversalité au quotidien, à travers
+des spécialisations métiers co-construites entre
+management, ingénierie et digital, des semaines
+transversales et projets interdisciplinaires, des
+hackathons sur des enjeux technologiques,
+sociétaux et internationaux.
+I
+12 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 13 ---
+Soft skills et
+développement personnel
+Les étudiants suivent un programme complet de formations
+soft skills et de développement personnel (prise de parole,
+gestion des émotions et du stress, créativité, confiance…) adapté
+aux évolutions du monde professionnel et aux attentes des
+recruteurs.
+Renforcez vos qualités et vos acquis personnels
+Exprimez votre personnalité
+Déployez de nouvelles compétences professionnelles
+La pédagogie soft skills est à la fois impliquante et
+interactive : jeux de rôle, travail en équipe-projet
+transversales inter-écoles, mises en situation, hackathons…
+S’engager pour les
+transitions de demain
+L’un des piliers du cursus ingénieur généraliste ESILV repose
+sur la capacité à comprendre et à agir face aux transitions
+sociétales et environnementales.
+Formation aux méthodes de l’intelligence collective,
+du design-thinking et de la gestion de projet agile
+Semaine de sensibilisation sur le campus (Green Week)
+Bootcamp interdisciplinaires sur des sujets
+environnementaux et sociétaux
+Hackathons (biodiversité, sobriété numérique…)
+Cordée Mona Lisa en faveur de l’égalité des chances
+Depuis 2018, l'ESILV forme ses étudiants à la Fresque
+du Climat. Un atelier ludique, instructif et créatif
+au cours duquel les élèves de 1re année, coachés par
+une soixantaine d’animateurs bénévoles, découvrent
+des solutions concrètes pour lutter contre les impacts
+négatifs liés au changement climatique.
+Répondre aux défis
+d’un monde en transition
+L’ESILV est membre du réseau Global Compact et
+du réseau international des écoles labellisées PRME,
+qui réunit 800 grandes écoles et institutions académiques
+dans plus de 80 pays (dont une quarantaine en France).
+I
+DE VINCI ENGINEERING SCHOOL ESILV 13
+
+--- Page 14 ---
+Excellence académique et recherche
+au cœur de la pédagogie
+L’excellence académique de l’ESILV, reconnue par l’État et accréditée par la Commission des Titres
+d’Ingénieur (CTI), repose sur un processus de sélection et un cursus exigeants. Elle est confortée
+par la présence de 550 enseignants-chercheurs, enseignants et intervenants professionnels,
+un laboratoire et un parcours recherche, deux instituts de référence offrant une expérience éducative
+unique aux élèves-ingénieurs autour de l’innovation.
+Des accréditations reconnues
+L’ESILV est accréditée par la Commission des
+Titres d’Ingénieur (CTI), garantissant la qualité
+et la reconnaissance de ses diplômes en France
+et à l’international. Elle est membre de la
+Conférence des Grandes Écoles (CGE), un gage
+d’excellence académique et d’ouverture sur
+le monde professionnel. L'ESILV bénéficie
+également de différents labels plus spécialisés
+(SecNumEdu, Medicen, DD-RS…) qui attestent
+de son engagement envers les enjeux
+Un processus de sélection
+technologiques et sociétaux actuels.
+et un cursus exigeants
+L’admission à l’ESILV se fait sur
+concours ou dossier, sélectionnant
+des profils motivés avec un bon niveau
+technique. Le cursus, structuré en
+5 ans, allie sciences fondamentales,
+spécialisations techniques et projets
+concrets. Les étudiants sont
+accompagnés vers l’excellence grâce
+à des évaluations régulières, une
+pédagogie axée sur l’autonomie
+et l’innovation, et des périodes
+en entreprises de longue durée.
+Favoriser la recherche et l'innovation
+L’innovation est au cœur de la pédagogie et de la
+recherche à l’ESILV. Outre la présence du Centre de
+Recherche De Vinci Research Center (DVRC), les élèves
+bénéficient d’une infrastructure moderne, équipée des
+dernières technologies (salle de marchés Bloomberg,
+FabLab, VR Lab, De Vinci Innovation Center, laboratoires
+technologiques…). Ils apprennent en expérimentant
+autour de projets technologiques innovants.
+I
+14 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 15 ---
+550
+Des enseignants-chercheurs et
+un corps professoral d’excellence enseignants chercheurs,
+Le corps professoral de l’ESILV se distingue par sa enseignants et intervenants
+diversité : enseignants, enseignants-chercheurs
+professionnels
+et professionnels en activité. Ces experts, issus
+du monde industriel ou de la recherche,
+apportent une double expertise alliant théorie
+et pratique. Leur formation et leur expérience
+permettent d’enrichir les cours des dernières
+avancées technologiques et scientifiques.
+Deux instituts pour
+des compétences d'avenir
+L’ESILV s'appuie sur deux instituts phares :
+l’Institut For Futures Technologies (IFT)
+dédié aux technologies émergentes, et
+l’Institut des Crypto-Actifs (ICA) centré sur
+les innovations financières et blockchain.
+Ces instituts offrent aux étudiants des
+formations pointues et un accès privilégié
+à des experts et entreprises leaders.
+Ils préparent ainsi les futurs ingénieurs
+aux enjeux technologiques et économiques
+de demain tout en renforçant leur
+employabilité.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 15
+
+--- Page 16 ---
+Prépa
+25%
+intégrée
+soft skills
+50%
+sciences
+25%
+Les + de la Prépa
+intégrée ESILV
+technologies
+English Track
+possibilité de suivre
+Bases scientifiques & techniques solides les cours en anglais
+(selon le niveau
+Contrôle continu
+en Terminale)
+Travaux Dirigés et Travaux Pratiques
+en petits groupes, soutien et encadrement
+Pédagogie par projets (scientifiques
+et techniques) Un socle diversifié
+Transversalité des cours avec les futurs
+managers (EMLV) et créatifs (IIM)
+Le cycle préparatoire intégré se distingue des classes
+Sport obligatoire préparatoires classiques par une plus grande variété
+des matières enseignées…
+Cursus aménagé pour les sportifs
+Cours (algèbre, analyse, statistiques, algorithmique,
+et musiciens de haut niveau
+environnement système, bases de données, programmation
+Stage "Ouverture au monde professionnel" objet, mécanique, électricité, thermodynamique,
+matériaux…)
+Projets scientifiques et techniques / travaux pratiques
+Disciplines transversales soft skills, méthodologie de travail
+personnel, langues, outils de la communication…
+Gestion de projets
+en équipe mixte
+Les étudiants de 1re et 2e années réalisent des projets communs
+aux trois écoles (ESILV, EMLV, IIM) en équipes mixtes, encadrés
+par un professeur permanent. Vous serez amenés à développer
+les compétences et aptitudes propres à la gestion de projets
+ainsi que votre capacité à travailler ensemble et à comprendre
+le fonctionnement d’une organisation.
+I
+16 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 17 ---
+2 3
+à
+mois de stage
+pour se familiariser
+avec l’entreprise
+La prépa intégrée est proposée
+Année 1
+sur les campus de Paris La Défense,
+Montpellier et Nantes : cursus,
+MODULES COURS enseignements, pédagogie et diplôme
+sont identiques sur les trois campus.
+. Complément informatique
+Complément
+. Complément mathématiques
+de formation
+. Complément physique
+. Outils mathématiques
+. Algèbre
+. Fonctions et suites numériques Année 2
+Mathématiques . Dérivation et intégration
+. Espaces vectoriels
+. Probabilités : variables aléatoires
+. Colles
+MODULES COURS
+. Électricité
+. Thermodynamique
+Physique . Électronique . Analyse à plusieurs variables
+& Sciences . Mécanique générale . Réduction d'endomorphismes
+de l'ingénieur . Électronique et systèmes numériques . Séries
+. TP mesures physiques Mathématiques . Espaces euclidiens
+. Colles
+. Introduction aux statistiques
+. Architecture
+. Probabilités
+. Programmation C#
+Informatique . Calcul intégral
+. Algorithmes et tableaux
+. Systèmes et réseaux
+. Systèmes automatiques et asservissements
+. Projet PIX 1 . Transferts thermiques
+. Technologie de fabrication Physique . Résistance des matériaux
+Projet . Améliorer son efficacité individuelle & Sciences . Mécanique des fluides
+et collective de l'ingénieur . Techniques expérimentales
+. Se comprendre et comprendre autrui . Systèmes électroniques
+. Énergie
+. Développement durable
+. LV2 . Algorithmique et programmation
+. English language & culture orientée objet
+Soft skills . Éthique quotidienne et professionnelle . Complexité
+. Hackathon A1 Informatique . Problème scientifique informatique
+. OrthographiQ . Algorithmique et graphes
+. Sport . Structures de données
+. Conception de bases de données
+. Projet PIX 2
+. Accompagnement soft skills
+Projet . Les relations humaines dans la coopération
+“Je ne voulais pas me lancer dans deux d'équipe
+. Machine Design et prototypage rapide
+années de prépa intense puis stresser pour
+des concours. En choisissant la prépa . Green IT
+. LV2
+intégrée de l’ESILV, j’étais sûr d’obtenir . English for Academic Purposes
+. Répondre aux attentes du recruteur
+mon diplôme en travaillant régulièrement.” Soft skills . Design Thinking au service de la créativité
+. Éthique des technologies et du numérique
+. International week
+Antoine . Hackathon A2
+. Sport
+Promo 2024
+I
+DE VINCI ENGINEERING SCHOOL ESILV 17
+
+--- Page 18 ---
+I
+PARIS NANTES
+Cycle
+ingénieur
+1 2
+année ans
+de tronc commun de spécialisation via les
+majeures et les parcours
+Année 3
+Consolidez vos connaissances scientifiques et techniques
+Développez vos premières compétences professionnelles
+Faites le plein de Choisissez votre majeure
+compétences et construisez votre
+professionnalisantes projet professionnel
+Gestion de projets, statistiques, analyse numérique, Cycle de conférences et séminaires
+programmation orientée objet, gestion financière . Carrière d’un ingénieur
+de l’entreprise . Mixité et égalité professionnelle
+. Construire son réseau professionnel
+Implication individuelle, pédagogie par projets,
+. Éthique de l’ingénieur
+pédagogie active en petits groupes
+Choix de la majeure
+Modules d'ouverture sectorielle pour s'orienter
+. Présentation des enjeux, compétences, secteurs
+d’activité et métiers
+. Ateliers questions / réponses
+. Témoignages d’alumni et élèves-ingénieurs en dernière année
+Choix d'un parcours
+. Approfondissement de votre majeure ou ouverture
+vers d'autres compétences transverses
+. Tables rondes avec des enseignants référents
+I
+18 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 19 ---
+20%
+du programme est constitué
+de cours transversaux
+soft skills, ouverture internationale,
+sport obligatoire
+Année 3
+Accueil personnalisé pour
+MODULES COURS
+les élèves intégrés en 3e année
+. Programmation
+Complément de formation axé sur les . Probabilités et statistiques
+fondamentaux (informatique, statistiques, Complément . Techniques de fabrication
+de formation . Mécanique des fluides
+physique) . Atelier Outils digitaux
+. Sensibilisation aux violences sexistes et sexuelles
+Ouverture sur des compétences pratiques
+(mécatronique) . Éco-conception
+. Optimisation et recherche opérationnelle
+Parcours fabrication exploitant les ressources . Systèmes complexes
+Sciences pour . Calcul des structures simples
+du Pôle Léonard de Vinci (FabLab)
+l'ingénieur . Conception et simulation des systèmes
+mécaniques
+. Traitement du signal
+. Mécanique des fluides et transferts d'énergie
+. Méthodes numériques
+. Statistiques
+Mathématiques . Équations aux dérivées partielles (EDP)
+. Intégration et analyse de Fourier
+. Probabilités numériques
+Internationalisation
+. Langage Python
+dès la 3e année . Bases de données et interopérabilité
+Informatique . Fondements de l'IA
+. Algorithmes d'apprentissage
+. Programmation orientée objet C/C++
+La dimension internationale est l’un des enjeux du cycle
+. Projet P2IP
+ingénieur. Dès la 3e année, les élèves-ingénieurs ont Projet . Savoir vendre ses idées
+l’opportunité de vivre des expériences internationales.
+. Responsabilité sociétale des entreprises
+Semestre académique d’échange
+. LV2
+De nombreuses destinations vous sont proposées . English for future engineers
+Soft skills
+pour un départ en 3e année : États-Unis, Espagne, . Sport
+et culture
+Irlande, Finlande, Lettonie, Canada, Corée, Chili… de l'ingénieur . Séminaire soft skills A3
+. Conférences et orientation
+Pour affirmer un profil très international, vous pourrez
+. Fondements de l'IA
+aussi repartir en 5e année, en particulier pour un double . Risques Cyber
+diplôme.
+Stage . Stage de découverte de l'entreprise
+I
+DE VINCI ENGINEERING SCHOOL ESILV 19
+
+--- Page 20 ---
+I
+PARIS NANTES
+Cycle
+ingénieur
+Années 4 & 5
+Construisez vos compétences
+Personnalisez vos études en affinant vos choix
+(majeures, international, stages, doubles diplômes…)
+Enseignements, projets, stages
+Année 4 Enseignement Année 5 Enseignement
+entièrement en anglais entièrement en anglais
+Entrez pleinement dans votre majeure. La 4e année, La 5e année vous place au cœur des enjeux et défis
+enseignée entièrement en anglais, vous permet de votre majeure et des secteurs d’activité associés.
+d’acquérir les fondamentaux de la majeure choisie Le projet PI2 A5 confronte chaque groupe d’élèves à des
+et de les développer dans le cadre du projet PI2 A4. problématiques innovantes et complètes, en partenariat avec
+Durant le stage technique de fin de 4e année une entreprise ou un laboratoire de recherche. Démontrez votre
+(4 à 5 mois), vous mettrez en œuvre vos apprentissages expertise et votre capacité à mener un projet de bout en bout.
+dans des missions complexes et techniques. Le stage de fin d’études (6 mois), qui constitue le plus
+souvent un stage de pré-embauche, finalise l’investissement
+des cinq années et prend la forme d’une véritable mission
+d’ingénieur en entreprise.
+ENSEIGNEMENTS TRANSVERSAUX : VISION STRATÉGIQUE
+MODULES COURS
+. Project PI2-A4 ENSEIGNEMENTS TRANSVERSAUX : VISION STRATÉGIQUE
+Project . Project methodology
+. Research methodology
+MODULES COURS
+. Ethics of engineers
+. English / FLE . Projet PI2-A5
+Project
+. MBTI . Thesis methodology
+Soft skills
+. Internship preparation
+. TOEIC/TOEFL preparation . Leadership seminar
+. Hackathon Soft skills . Marketing yourself
+Internship . Internship Internship . Internship
+ENSEIGNEMENTS DE MAJEURES (DÉTAIL PAGES 23 À 37) ENSEIGNEMENTS DE MAJEURES (DÉTAIL PAGES 23 À 37)
+I
+20 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 21 ---
+Des parcours multiples
+En 4e et 5e année, les élèves-ingénieurs
+peuvent réaliser leur cursus en
+apprentissage, approfondir leur majeure, Entreprise et insertion
+ou s’ouvrir à d’autres compétences
+via des parcours transversaux plus professionnelle
+spécialisés. Ces parcours spécifiques
+s'articulent autour d’enseignements
+dédiés. Les séminaires métiers en cycle ingénieur constituent un
+moment d’échanges entre les élèves-ingénieurs et les diplômés
+Les modules proposés vous permettront
+de l’école. Ceux-ci viennent partager leurs expériences sur
+de vous confronter aux enjeux industriels leur parcours et leurs métiers afin d’aider les futurs ingénieurs
+de demain : recherche, genAI, UX Design, à construire leur projet professionnel.
+innovation, quantique, entrepreneuriat… Conférences, tables rondes, masterclass, visites de site
+ponctuent le cursus et contribuent à votre professionnalisation.
+Les forums de recrutement (stages, alternance, alumni,
+Détail page 38 emplois…) auxquels participent chaque année plusieurs
+centaines d’entreprises sont autant d'occasions d’échanges
+directs avec de potentiels employeurs.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 21
+
+--- Page 22 ---
+DIPLÔME INGÉNIEUR ESILV
+15 14
+majeures accessibles en alternance
+Finance
+I
+Ingénierie financière
+23
+I
+Actuariat
+24
+I
+Fintech
+25
+Informatique
+I
+Objets connectés et Cybersécurité
+26
+I
+Data et Intelligence Artificielle
+27
+I
+Cloud computing et Cybersécurité
+28
+I
+Ingénierie logicielle et IA
+29
+Mécanique
+I
+Modélisation et Mécanique numérique
+30
+I
+Industrie et Robotique
+31
+I
+Conception mécanique et Industrie durable
+32
+I
+Aérospatial et Défense
+33
+Tech for good
+I
+Énergie et Villes durables
+34
+I
+MedTech et Santé
+35
+I
+Éco-innovation
+36
+I
+Creative technology*
+37
+* Accessible uniquement en formation initiale
+I
+22 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 23 ---
+ACCESSIBLE
+100%
+FINANCE EN ALTERNANCE
+PARIS EN ANGLAIS
+SUR 2 ANS (FISEA)
+MAJEURE
+Ingénierie Financière
+Enseignements
+Dotez-vous des compétences nécessaires
+pour comprendre et maîtriser la complexité
+des marchés financiers.
+MODULES COURS
+F amiliarisez-vous avec les nouvelles réglementations
+ANNÉE 4 bancaires
+A pprenez à gérer les risques liés aux activités financières
+. Advanced probability
+. Machine Learning M aîtrisez les logiciels et langages de programmation
+CORE
+. Statistical Risk Analysis and Game Theory utilisés dans l’industrie bancaire (Bloomberg, Matlab,
+. Computational modeling
+R, C++, C#, VBA, Python), ainsi que les mathématiques
+pour la finance
+. Advanced financial concepts and models
+. Time series econometrics
+. VBA
+TRACK FINANCE Métiers
+. Investment techniques
+& ASSURANCE*
+. Equity derivatives
+. Simulation methods
+. Advanced times series econometrics Risk manager, Trader, Analyste quantitatif, Structureur,
+Financial market data scientist, Analyste hedge-fund,
+Stratégiste, Gérant de portefeuille quantitatif, Ingénieur
+. C++ for finance
+. Market risk financier, Commando IT, IT quant.
+. Advanced statistics
+SPÉCIALISATION . Financial markets and instruments
+INGÉNIERIE . Python, Git, Linux #FinanceQuantitative
+FINANCIÈRE . Stochastic calculus
+. Derivatives pricing and hedging
+#Mathématiques
+. Machine learning and asset management
+. Commodities markets and models
+#Informatique
+ANNÉE 5
+#Machine Learning
+. Data protection management
+CORE #GestionDesRisques
+. Product Life-cycle Management (PLM)
+#FinanceDeMarché
+. Diffusion models
+TRACK FINANCE
+. Basel 3, credit risk and machine learning
+& ASSURANCE*
+. Advanced stochastic processes
+. Model risk
+. Algorithmic trading
+SPÉCIALISATION . FX market and models
+INGÉNIERIE . Data-related innovation in finance
+FINANCIÈRE . Model calibration
+. Advanced fixed-income with Bloomberg
+. Derivatives trading
+* hors alternance et parcours de spécialisation
+. Salle de marchés équipée de quinze terminaux Bloomberg.
+. Possibilité de passer la certification Bloomberg et de participer
+à des compétitions étudiantes internationales de trading.
+. Des enseignants-chercheurs au rayonnement international et riches
+d'une expérience professionnelle sur les marchés financiers.
+. Opportunité de mener un travail de recherche sous la tutelle d’un
+chercheur en mathématiques appliquées à la finance.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 23
+
+--- Page 24 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE FINANCE
+EN ANGLAIS PARIS
+SUR 2 ANS (FISEA)
+MAJEURE
+Actuariat
+Enseignements
+Assimilez les méthodes de gestion et de prévention
+du risque, de l’analyse des données et des
+techniques actuarielles.
+MODULES COURS
+Familiarisez-vous avec l'environnement juridique
+comptable et prudentiel ANNÉE 4
+Maitrisez les logiciels SAS, R, VBA et python
+. Advanced probability
+Maitrisez les piliers 1, 2 et 3 de la norme solvabilité 2 . Machine Learning
+CORE
+. Statistical Risk Analysis and Game Theory
+Domptez les outils de Data science et de Big Data . Computational modeling
+Concevez et mettez en œuvre les produits de demain
+. Advanced financial concepts and models
+. Time series econometrics
+Métiers TRACK FINANCE . VBA
+. Investment techniques
+& ASSURANCE*
+. Equity derivatives
+. Simulation methods
+. Banque et Assurance : actuaire (tarification, provisionnement,
+. Advanced times series econometrics
+inventaire, réassurance, ALM, santé et prévoyance,
+retraite), souscripteur, responsable des risques… . Insurance law and regulations
+. Introduction to Actuarial Science
+. Finance et Gestion : risk manager, responsable IFRS17,
+. Generalized linear models
+responsable gestion actif-passif, analyste financier, salle . General accounting
+de marché (Front-Middle-Back)… . Economy
+. Conferences
+. Audit et conseil : auditeur interne ou financier, contrôleur SPÉCIALISATION
+. Financial principles and markets
+des assurances, contrôleur ACPR, consultant IFRS17, ACTUARIAT . Reserving
+consultant en entreprise, consultant en institutionnel… . Stochastic calculus
+. Life insurance
+. Autres fonctions : data scientist, chargé d'études
+. Asset liability management
+statistiques, R&D, compensation et benefits, direction RH, . Non-life insurance
+marketing ou commerciale… . Solvency 2
+ANNÉE 5
+#Statistiques #DataScience
+. Data protection management
+CORE
+#MachineLearning . Product Life-cycle Management (PLM)
+#Simulation #Modélisation . Diffusion models
+TRACK FINANCE
+. Basel 3, credit risk and machine learning
+& ASSURANCE*
+. Advanced stochastic processes
+#GestionDesRisques
+. Non-life insurance II
+#Finance #IA
+. Pension
+. Economic scenario generators
+#Assurance #Consulting SPÉCIALISATION . Reinsurance
+ACTUARIAT . IFRS9/IFRS 17
+. Insurance Compatibility
+. Law
+. Deep learning and Data Visualisation
+* hors alternance et parcours de spécialisation
+. Le métier d’actuaire est régulièrement classé dans le top 10
+des meilleurs métiers au monde.
+. Programme de la formation conforme au core syllabus de l'institut
+des actuaires.
+. Double diplôme d'ingénieurs généraliste-actuaire IA avec plusieurs
+établissements partenaires (Dauphine, ISUP, EURIA, DUAS).
+. Triple diplôme d'ingénieur généraliste-actuaire-manager avec l'EMLV.
+I
+24 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 25 ---
+ACCESSIBLE
+100%
+FINANCE EN ALTERNANCE
+PARIS EN ANGLAIS
+SUR 2 ANS (FISEA)
+MAJEURE
+Fintech
+Enseignements
+Maîtrisez les technologies indispensables
+pour évoluer et innover dans les entreprises
+de la Fintech.
+MODULES COURS
+Apprenez à concevoir et administrer des solutions
+ANNÉE 4 blockchain
+Développez des applications financières innovantes
+. Advanced probability
+. Machine Learning Apprivoisez les modèles économiques et financiers
+CORE
+. Statistical Risk Analysis and Game Theory des banques et assurances
+. Computational modeling
+Appréhendez les enjeux et technologies des
+. Scrum certification cryptomonnaies
+. Software engineering and development
+TRACK COMPUTER . Rust Development Maîtrisez les algorithmes de machine learning
+SCIENCE* . NoSQL et d’analyse de données
+. Containerization Technologies
+. Trusted AI
+Métiers
+. Cryptocurrencies Market
+. Blockchain Programming
+. Rust Programming Développeur Blockchain, Architecte Blockchain, Trader
+. Symmetric-key algorithm de cryptomonnaies, Data analyst, scientist, Chef de projet
+SPÉCIALISATION
+FINTECH . Operating systems assurtech, Consultant cryptomonnaie, Ingénieur R&D,
+. Decentralized Finance
+Développeur d’applications bancaires, Ingénieur sécurité
+. Public-key cryptography
+. Web Development et cryptographie.
+. Machine Learning for Fintech
+#BlockChain
+ANNÉE 5
+#Finance
+. Data protection management
+CORE
+. Product Life-cycle Management (PLM)
+#Bitcoin
+. Security use cases
+TRACK COMPUTER . Graph and mining #Informatique
+SCIENCE*
+. Gen AI prompting and copilot
+#Cryptographie
+. Cryptofinance
+. Lightning Network
+. Monnaies Numériques
+SPÉCIALISATION . Mobile Development
+FINTECH . Proof of Stake
+. Zero Knowledge Proofs
+. Payment overview
+. Security and performance of smart contracts
+* hors alternance et parcours de spécialisation
+. Salle de marchés équipée
+de quinze terminaux Bloomberg.
+. Possibilité de passer la certification
+Bloomberg ainsi que le Bloomberg
+Aptitude Test.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 25
+
+--- Page 26 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE INFORMATIQUE
+EN ANGLAIS PARIS
+SUR 3 ANS (FISA)
+MAJEURE
+Objets connectés
+et Cybersécurité
+Enseignements
+Appréhendez la conception et le développement
+d’objets ou de services connectés, de systèmes
+sécurisés et intégrez-les dans les écosystèmes
+MODULES COURS
+d’entreprise.
+Pensez la sécurité, par défaut, dans toute démarche ANNÉE 4
+d’innovation
+. Advanced probability
+Concevez et déployez des services et architectures IoT . Machine Learning
+CORE
+. Statistical Risk Analysis and Game Theory
+Définissez et menez des politiques de sécurité
+. Computational modeling
+Maîtrisez la conception et l’intégration de solutions
+de cybersécurité . Scrum certification
+. Software engineering and development
+TRACK COMPUTER . Rust Development
+Métiers SCIENCE* . NoSQL
+. Containerization Technologies
+. Trusted AI
+Ingénieur Hard&Soft IOT, Chef de projet produits connectés,
+Ingénieur Sécurité, Responsable de la sécurité des systèmes . HW Virtualization & Trust
+. Securing Embedded Software
+d’information (RSSI), Consultant en gestion des risques,
+. OS Architecture
+Développeur IoT, Analyste et auditeur sécurité, Ingénieur SPÉCIALISATION . Cybersecurity Landscape
+OBJETS
+technologies mobiles, Architect IOT sécurisé. . Network Architecture
+CONNECTÉS ET
+. OS Hardenning
+CYBERSÉCURITÉ
+. Network Hardenning
+#CyberSécurité . Connectivity Issues in IoT
+. Cybersecurity Deepening
+#GestionDesRisques
+ANNÉE 5
+#ObjetsConnectés #IA
+. Data protection management
+CORE
+#Réseaux&Connectivité . Product Life-cycle Management (PLM)
+#CyberRésilience TRACK COMPUTER . Security use cases
+. Graph and mining
+SCIENCE*
+. Gen AI prompting and copilot
+#RGPD
+. IoT Security Architecture
+#SecurityByDesign SPÉCIALISATION . Governance Risk and Compliance
+OBJETS . Cyber Resilience & Crisis Management
+CONNECTÉS ET . IoT Pentesting
+CYBERSÉCURITÉ . Industrial Security
+. Social engineering and cognitive warfare
+* hors alternance et parcours de spécialisation
+. Formation labelisée SecNumEdu par l’Agence nationale
+de la sécurité des systèmes d'information (ANSSI).
+. L’ESILV a développé une véritable culture makers-hackers
+et Do It Yourself dans ses associations et projets
+étudiants (DaVinci Bot, Digiteam, DaVinciCode).
+I
+26 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 27 ---
+ACCESSIBLE
+100%
+INFORMATIQUE EN ALTERNANCE
+PARIS EN ANGLAIS
+SUR 3 ANS (FISA)
+MAJEURE
+Data et Intelligence
+Artificielle
+Enseignements
+Devenez spécialiste de la donnée depuis sa collecte,
+sa modélisation et son stockage jusqu’à son analyse
+et son interprétation.
+MODULES COURS
+Conduisez, développez et managez des projets
+ANNÉE 4 informatiques
+Concevez et déployez des solutions Big Data
+. Advanced probability
+. Machine Learning Apprivoisez les technologies de développement
+CORE
+. Statistical Risk Analysis and Game Theory et des frameworks Big Data
+. Computational modeling
+Maîtrisez les algorithmes et outils de data science
+. Scrum certification et de visualisation de données
+. Software engineering and development
+TRACK COMPUTER . Rust Development Concevez et mettez en œuvre des solutions
+SCIENCE* . NoSQL d’Intelligence Artificielle
+. Containerization Technologies
+. Trusted AI
+Métiers
+. Advanced programming in data science
+. Mathematics for Deep Learning
+. Green AI (responsable, frugal) Data scientist, Data engineers, Data officer, Chef de projet
+SPÉCIALISATION
+. AI Algorithms Big Data, Développeur Big Data, Consultant analytics et
+DATA
+& INTELLIGENCE . Neural Networks and Deep Learning visualisation, Ingénieur IA.
+. Advanced Deep Learning
+ARTIFICIELLE
+. Web datamining & semantics
+. ML OPS
+. Information Retrieval and NLP #IA #BigData
+ANNÉE 5 #MachineLearning
+. Data protection management #DataScience
+CORE
+. Product Life-cycle Management (PLM)
+#Cloud #Informatique
+. Security use cases
+TRACK COMPUTER
+. Graph and mining
+SCIENCE*
+. Gen AI prompting and copilot
+. Advanced machine learning and Gen AI
+. Machine learning for Computer Vision
+SPÉCIALISATION . Big data ecosystem and processing
+DATA with Spark
+& INTELLIGENCE . Explainability AI
+ARTIFICIELLE . BI Pipeline
+. Advanced expertise in machine learning
+. Big data structure
+* hors alternance et parcours de spécialisation
+. Les projets d’intelligence artificielle et de valorisation de la donnée
+seront centraux pour tous les secteurs économiques et industriels dans
+les années à venir.
+. Nos enseignants-chercheurs sont impliqués dans des chaires de recherche
+et projets partenariaux d’innovation avec de grandes entreprises du secteur.
+. Les élèves bénéficient d’enseignements d’excellence en phase avec
+le marché et ses évolutions futures.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 27
+
+--- Page 28 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE INFORMATIQUE
+EN ANGLAIS PARIS
+SUR 3 ANS (FISA)
+MAJEURE
+Cloud Computing
+et Cybersécurité
+EEnnsseeiiggnneemmeennttss
+Confrontez-vous aux enjeux de cybersécurité
+et de cloud computing auxquels font face toutes
+les entreprises.
+MODULES COURS
+Conduisez, développez et managez des projets
+informatiques ANNÉE 4
+Maîtrisez la conception de l’intégration de solutions
+. Advanced probability
+de cybersécurité
+. Machine Learning
+CORE
+Contrôlez les environnements d’exécution de solutions . Statistical Risk Analysis and Game Theory
+. Computational modeling
+logicielles
+Pensez la sécurité, par défaut, dans toute démarche . Scrum certification
+d’innovation . Software engineering and development
+TRACK COMPUTER . Rust Development
+SCIENCE* . NoSQL
+Métiers . Containerization Technologies
+. Trusted AI
+Ingénieur cybersécurité, Développeur Full Stack, . Object Oriented Development
+Ingénieur DevSecOps, Ingénieur Cloud, Intégrateur . Infrastructure Technology
+SPÉCIALISATION . Mobile Devices
+de solutions de sécurité.
+CLOUD . Cybersecurity Landscape
+COMPUTING ET . Operating systems
+CYBERSÉCURITÉ . Code Deployment
+. Advanced Infrastructure
+#Cloud
+. Forensic
+#IA
+ANNÉE 5
+#CyberSécurité
+. Data protection management
+CORE
+#DevSecOps . Product Life-cycle Management (PLM)
+. Security use cases
+TRACK COMPUTER
+. Graph and mining
+SCIENCE*
+. Gen AI prompting and copilot
+. Advanced Network Security
+SPÉCIALISATION . Cloud Orchestration
+CLOUD . Cloud Data Structure
+COMPUTING ET . PenTest
+CYBERSÉCURITÉ . Governance Risk and Compliance
+. Cyber Resilience & Crisis Management
+* hors alternance et parcours de spécialisation
+. Formation labélisée SecNumEdu par l'agence nationale
+de la sécurité des systèmes d'information (ANSSI).
+. Enseignements alignés sur les fortes attentes du marché.
+Tous les cours de la majeure Cloud Computing et
+Cybersécurité sont exclusivement orientés sur le cloud, le
+développement, la sécurité et l'opérationnel (DevSecOps).
+I
+28 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 29 ---
+ACCESSIBLE
+100%
+INFORMATIQUE EN ALTERNANCE
+NANTES EN ANGLAIS
+SUR 3 ANS (FISA)
+MAJEURE
+Ingénierie logicielle et IA
+Enseignements
+Devenez référent sur les enjeux d’intelligence artificielle :
+développement, maintien, sécurité et régulation
+Maitrisez l’infrastructure sur laquelle s’appuient
+MODULES COURS
+les programmes informatique clients (Cloud, Ops)
+et assurez-en la sécurité
+ANNÉE 4
+Développez votre expertise dans la conception
+. Advanced probability d’applications web, mobile
+. Machine Learning
+CORE Appliquez les enjeux de développement durable
+. Statistical Risk Analysis and Game Theory
+. Computational modeling dans la conception, le développement et le maintien
+des systèmes d’informations
+. Scrum certification Concevez des outils de gestion des données
+. Software engineering and development
+et de visualisation pour en exploiter le contenu
+TRACK COMPUTER . Rust Development
+SCIENCE* . NoSQL sous forme d’information
+. Containerization Technologies
+. Trusted AI
+Métiers
+. Infrastructure Technology
+. Mobile development with flutter
+Data scientist, Data engineer, Tech Lead, Consultant
+. Neural Networks and Deep Learning
+. Business Intelligence and dataviz analytics et visualisation, Machine Learning Engineer,
+SPÉCIALISATION
+. Introduction to Cybersecurity Software engineer éco-responsable, Consultant numérique
+INGÉNIERIE
+LOGICIELLE & IA . Scrapping and NLP responsable, DataOps, MLOps, Référent Infrastructure,
+. Advanced infrastructure
+Ingénieur R&D en IA.
+. Planetary challenges: Economy, Ecology
+and resources
+. Robust software
+#IA
+* hors alternance et parcours de spécialisation
+#MachineLearning
+#DevOps
+#DataScience
+. Formez-vous à la conception logicielle
+et à l’intelligence artificielle, dans
+un contexte de hausse des exigences
+du développement durable
+et de diminution des ressources
+énergétiques et matérielles.
+. Répondez aux besoins des entreprises
+dans le domaine de l’intelligence
+artificielle, de la gestion des données
+et de la maitrise des infrastructures.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 29
+
+--- Page 30 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE MÉCANIQUE
+EN ANGLAIS PARIS
+SUR 3 ANS (FISA)
+MAJEURE
+Modélisation et
+Mécanique Numérique
+Enseignements
+Concevez, développez et dimensionnez de
+nouveaux produits et systèmes complexes,
+en particulier dans l’aéronautique et l’automobile.
+MODULES COURS
+Modélisez et simulez les comportements de structures,
+de fluides et leurs interactions ANNÉE 4
+Modélisez et optimisez des systèmes multi-physiques
+. Advanced probability
+Maîtrisez la simulation scientifique et les logiciels . Machine Learning
+CORE
+industriels . Statistical Risk Analysis and Game Theory
+. Computational modeling
+Métiers . Dynamics of vehicles and powertrains
+systems
+TRACK . Sustainable innovation
+Ingénieur conception, Ingénieur d’affaires, Ingénieur ENGINEERING . Building stress analysis and design
+SCIENCES* . Image processing
+mesure / test et contrôle, Ingénieur bureau d’études, Chef
+. Applications of AI
+de projet procédés de fabrication, Ingénieur aéronautique, . Thermochemistry
+Ingénieur calcul scientifique, Ingénieur modélisation,
+Ingénieur en mécanique des fluides.
+. Fluid Mechanics
+. Continuum Mechanics
+. Systems and Control
+#Automobile SPÉCIALISATION . Probabilistic and reliability methods
+MODÉLISATION . Finite Element Analysis
+#Mathématiques ET MÉCANIQUE . MasterClass CATIA
+NUMÉRIQUE . Computational Solid Mechanics
+. Computation Fluid Dynamics (CFD)
+#Simulation . Materials and behavior
+. Supply chain
+#Bureaudétudes
+ANNÉE 5
+#Modélisation
+. Data protection management
+CORE
+. Product Life-cycle Management (PLM)
+TRACK . Material accounting
+ENGINEERING . Industrial Design
+SCIENCES* . Sustainable Automobile Engineering
+. Composite materials
+. Flight mechanics and avionics
+. Logiciels de simulation numérique : SPÉCIALISATION . Aeroelasticity
+MODÉLISATION
+3DEXPERIENCE, CATIA, Abaqus, EnSight, ET MÉCANIQUE . Multiscale Modeling and Simulation
+. Fracture mechanics
+Suite logicielle ANSYS, HyperWorks, NUMÉRIQUE . Digital twins
+Suite logicielle ALTAIR, plateforme Salomé, . Nanomaterials
+MATLAB…
+* hors alternance et parcours de spécialisation
+. Accédez aux outils d’analyse et de
+production pour l’énergie, les matériaux,
+la dynamique des fluides, les composites,
+la production et l’usinage.
+. Chaire d’enseignement avec ALTAIR sur
+Convergence de simulation, d’Intelligence
+Artificielle et de Calculs Haute Performance.
+I
+30 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 31 ---
+ACCESSIBLE
+100%
+MÉCANIQUE EN ALTERNANCE
+PARIS EN ANGLAIS
+SUR 3 ANS (FISA)
+MAJEURE
+Industrie et Robotique
+Enseignements
+Implémentez et gérez des systèmes industriels
+modernes intégrant nativement les outils
+et technologies de la révolution digitale.
+MODULES COURS
+Maîtrisez la chaîne et les méthodes de production (Lean…)
+ANNÉE 4
+Concevez et dimensionnez l’organisation globale d’un
+système industriel : modélisation, conception des systèmes
+. Advanced probability
+de production industrielle automatisés et robotisés
+. Machine Learning
+CORE
+. Statistical Risk Analysis and Game Theory Maîtrisez les technologies numériques (usage de la
+. Computational modeling
+maquette numérique, virtualisation, réalité augmentée,
+Internet des objets, IA, impression 3D)
+. Data Analytics
+. Augmented and Virtual Reality
+TRACK CYBER
+. Robotics
+PHYSICAL Métiers
+. Embedded Artifical Intelligence
+HUMAN SYSTEMS*
+. Computer Vision
+. Finite element methods
+Ingénieur production, Responsable qualité et maintenance,
+Ingénieur en risques industriels, Chef de projet process
+. Hardware Software Interface
+et méthodes, Ingénieur R&D, Ingénieur impression 3D,
+. Model-based systems Engineering
+. Production and industrial management Ingénieur robotique, Chef de projet transformation digitale,
+. Supply Chain Management Ingénieur maintenance prédictive.
+SPÉCIALISATION . Artificial intelligence in industry: IoT
+INDUSTRIE . Mobile Robots
+ET ROBOTIQUE . Industrial Automation
+#Impression3D #IA
+. Robot Operating System (ROS2)
+. Industrial Operations Management
+. Mechatronic Systems #Agilité #Innovation
+. Robot dynamics & control
+#TransformationDigitale
+ANNÉE 5
+#Robotique #Cobotique
+. Data protection management
+CORE #Mécatronique
+. Product Life-cycle Management (PLM)
+TRACK CYBER . Additive Manufacturing #IndustrieConnectée
+PHYSICAL . Digital Twins
+HUMAN SYSTEMS* . Digital simulation of ergonomics
+. Autonomous Embedded Systems
+SPÉCIALISATION . Connected Factory
+INDUSTRIE . Industrial Data Management
+ET ROBOTIQUE . Multidisciplinary Design Optimization
+. Safety and Security
+* hors alternance et parcours de spécialisation
+. Projets de recherche et développement sur les thématiques
+de l’industrie 4.0 : Intelligence artificielle au service de
+l’usinage pour l’aéronautique et l’automobile, matériaux
+intelligents, fabrication additive, maîtrise des technologies
+d’impression 3D.
+. En partenariat avec de grands groupes industriels (Dassault
+Systèmes, Arcelormittal, Altran / Capgemini Engineering).
+I
+DE VINCI ENGINEERING SCHOOL ESILV 31
+
+--- Page 32 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE MÉCANIQUE
+EN ANGLAIS NANTES
+SUR 3 ANS (FISA)
+MAJEURE
+Conception mécanique
+et Industrie durable
+Enseignements
+Créez, développez et produisez des systèmes
+mécaniques innovants et performants répondant
+aux besoins industriels tout en intégrant les
+MODULES COURS
+impératifs du développement durable. Préparez-vous
+à relever les défis de l’innovation responsable.
+ANNÉE 4
+Implantée à Nantes, cette majeure bénéficie
+d’un tissu industriel dynamique dans les secteurs . Advanced probability
+. Machine Learning
+de l’aéronautique (Airbus), du naval (Naval Group, CORE
+. Statistical Risk Analysis and Game Theory
+Chantiers de l’Atlantique), composites, énergies . Computational modeling
+marines et logistique portuaire.
+. CAO et processus de conception mécanique
+. Analyse cinématique et conception de mécanismes
+Concevoir, dimensionner et optimiser des systèmes . Dimensionnement de structures
+mécaniques innovants . M atériaux et procédés (métaux, composites, recyclés)
+. Bases de l’industrie 4.0 et 5.0
+Intégrer l’écoconception et l’économie circulaire SPÉCIALISATION . Gestion de projet et innovation durable
+dans le cycle de vie des produits . Projet de conception appliqué (aéronautique, naval,
+composites)
+Maîtriser les procédés et matériaux durables (métaux . Data analytics pour la production
+recyclés, composites biosourcés, fabrication additive) . Économie circulaire et écoconception produit
+. Management industriel et supply chain durable
+Exploiter les outils numériques de l’industrie 4.0 et 5.0
+(PLM, ERP, MES, digital twin, IoT) ANNÉE 5
+Piloter la transformation digitale et durable des systèmes
+industriels CORE . Data protection management
+. Product Life-cycle Management (PLM)
+Collaborer avec des acteurs pluridisciplinaires et industriels
+. Dimensionnement avancé (fatigue, fiabilité,
+tolérancement)
+Métiers . Conception et optimisation topologique
+. Ingénierie de produit par rétro-conception
+. Fabrication additive et conception pour procédés
+Ingénieur conception mécanique, Ingénieur bureau d’études / sobres
+SPÉCIALISATION . Industrialisation durable et procédés avancés
+R&D, Ingénieur calcul et optimisation, Responsable
+. Conception durable des systèmes navals et
+écoconception / RSE, Ingénieur procédés et industrialisation aéronautiques
+durable, Chef de projet transformation industrielle, Ingénieur . Energies marines et systèmes portuaires durables
+supply chain durable, Ingénieur PLM / digital twin. . PLM et transformation digitale
+. Digital twins et maintenance prédictive
+. Évaluation d’impact environnemental (ACV, ISO)
+#EcoConception
+#EconomieCirculaire
+#IndustrieDuFutur OUTILS ET LOGICIELS
+. Conception / simulation : 3DEXPERIENCE, CATIA,
+#Industrie4_0
+SolidWorks, Siemens NX, Creo, Abaqus, ANSYS,
+#Industrie5_0 Altair HyperWorks
+. Fabrication / procédés : Autodesk Fusion 360,
+#ExcellenceOpérationnelle
+Mastercam, Magics (impression 3D)
+#Naval . Industrie du futur : 3DEXPERIENCE Platform,
+Siemens Teamcenter, SAP, MES
+#Aeronautique
+EXCELLENCE OPÉRATIONNELLE
+#Composites
+Acquisition de méthodes et pratiques visant
+#ÉnergiesMarines à améliorer les performances de l’entreprise
+à tous les niveaux (conception, production,
+qualité, supply chain, innovation, management).
+I
+32 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 33 ---
+ACCESSIBLE
+100%
+MÉCANIQUE EN ALTERNANCE
+PARIS EN ANGLAIS
+SUR 3 ANS (FISA)
+MAJEURE
+Aérospatial et Défense
+Enseignements
+Plongez au cœur des enjeux technologiques
+et stratégiques du spatial et de la défense.
+Cette majeure forme des ingénieurs capables
+MODULES COURS
+de concevoir, modéliser et piloter des systèmes
+complexes dans les domaines du spatial et de
+ANNÉE 4
+la sécurité. Elle associe sciences fondamentales,
+. Advanced probability simulation numérique et compréhension des enjeux
+. Machine Learning
+CORE stratégiques liés à la gouvernance des infrastructures
+. Statistical Risk Analysis and Game Theory
+. Computational modeling spatiales et de défense.
+. Atmosphere and space Concevoir et simuler des systèmes spatiaux (lanceurs,
+. Orbital mechanics satellites, missions complètes)
+. Propulsion of rockets
+. Propulsion of airplanes Analyser et modéliser numériquement la mécanique des
+. Communications structures et la dynamique orbitale
+. Computational fluid dynamics of flight
+SPÉCIALISATION . Structural mechanics for space systems Maîtriser les systèmes embarqués : électronique,
+. Cyber-defense - Governance of space informatique et contrôle d’attitude
+systems
+. Defense in aerospace, doctrines, systems Gérer des projets stratégiques dans les domaines spatiaux
+and capabilities et défense
+. Project management in defense
+Comprendre les enjeux de gouvernance et de sécurité spatiale
+(régulation, résilience, protection des infrastructures critiques)
+ANNÉE 5
+Métiers
+. Data protection management
+CORE
+. Product Life-cycle Management (PLM)
+Ingénieur spatial civil ou militaire, Ingénieur propulsion
+. Propulsion in space
+et lanceurs, Ingénieur gouvernance et sécurité spatiale,
+. Attitude control and flight systems
+. Conception of flight systems Ingénieur systèmes embarqués, Chef de projet systèmes
+. Embedded electronics and informatics complexes, Ingénieur robotique et systèmes autonome.
+. Unmanned flight & immersive technologies
+SPÉCIALISATION
+. Regulation, ethics and safety of operations
+. System design with Systems Tool Kit #Spatial #Défense
+. Design of space missions
+. Robotics in aerospace and defense
+#Simulation
+. Launchers and satellites
+#GouvernanceSpatiale
+#Innovation
+OUTILS ET LOGICIELS
+. Logiciels de simulation numérique : ANSYS
+Fluent, Abaqus, Matlab/Simulink.
+. Conception et intégration systèmes : CATIA,
+Solidworks, Systems Tool Kit (STK), Altair.
+. Environnements immersifs : simulateurs de vol,
+réalité augmentée et réalité virtuelle.
+. Plateformes de gouvernance et de défense
+spatiale : outils de modélisation stratégique et de
+sécurité des systèmes.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 33
+
+--- Page 34 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE TECH FOR GOOD
+EN ANGLAIS PARIS
+SUR 3 ANS (FISA)
+MAJEURE
+Énergie et Villes Durables
+Enseignements
+Agissez sur la transition énergétique en vous
+formant à la conception, au développement
+et à la gouvernance des systèmes énergétiques,
+MODULES COURS
+bâtiments intelligents et villes durables.
+Concevez et mettez en œuvre des solutions d’énergie ANNÉE 4
+renouvelable
+. Advanced probability
+Modélisez le cycle de vie d’un bâtiment ou d’une ville . Machine Learning
+CORE
+. Statistical Risk Analysis and Game Theory
+Maîtrisez les enjeux techniques, sociétaux
+. Computational modeling
+et économiques de la transition énergétique
+Dimensionnez et pilotez des systèmes de production . Dynamics of vehicles and powertrains
+et de distribution d’énergie systems
+TRACK . Sustainable innovation
+ENGINEERING . Building stress analysis and design
+SCIENCES* . Image processing
+Métiers
+. Applications of AI
+. Thermochemistry
+Ingénieur efficacité énergétique, BIM Project Manager,
+Ingénieur fluides et environnement, Chargé de projet EnR, . Fluid Mechanics
+. Energetic efficiency & Smart Metering
+Chef de projet énergies renouvelables, Ingénieur R&D
+. Decarbonisation and Energy Mix
+systèmes embarqués, Chef de projets certifications . Nuclear Energy
+environnementales, Data Analyst photovoltaïque, Ingénieur . Solar Energy
+consultant mobilité électrique, Chargé de missions RSE. SPÉCIALISATION . Wind Energy
+ÉNERGIE ET . Masterclass Transformation of Territories
+VILLES DURABLES and Smart Cities
+. IoT for smart buildings
+#Transitionénergétique
+. Building Thermal Simulation
+. BIM
+#IOT #BIM . Masterclass Smart Buildings
+. Hydroelectricity
+#ÉnergieRenouvelable
+ANNÉE 5
+#SmartCity
+. Data protection management
+#DéveloppementDurable CORE . Product Life-cycle Management (PLM)
+TRACK . Material accounting
+ENGINEERING . Industrial Design
+SCIENCES* . Sustainable Automobile Engineering
+. Energy Storage Systems
+. Ecodistrict
+. Environmental Regulation RE2020
+SPÉCIALISATION
+. Sustainable Projects :
+ÉNERGIE ET
+Low Tech & Social Economy
+VILLES DURABLES
+. Life Cycle Analysis
+. Eco-conception of buildings
+. Masterclass Energy market
+* hors alternance et parcours de spécialisation
+. Inscrivez-vous dans les grands projets de développement
+durable des territoires.
+. Alliez l’innovation et les technologies dans un projet
+professionnel éthique tourné vers la durabilité de nos
+sociétés en transformant nos usages par le numérique.
+I
+34 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 35 ---
+ACCESSIBLE
+100%
+TECH FOR GOOD EN ALTERNANCE
+PARIS EN ANGLAIS
+SUR 3 ANS (FISA)
+MAJEURE La labellisation MEDICEN est une reconnaissance
+d’excellence dans le domaine des technologies de
+la santé qui ouvre aux étudiants des opportunités
+MedTech
+uniques de stages, projets collaboratifs et
+insertion professionnelle auprès des acteurs
+majeurs du secteur de la Santé.
+et Santé
+Enseignements
+Évoluez comme ingénieur dans l’écosystème
+pluridisciplinaire de la technologie pour la santé.
+MODULES COURS Concevez, développez et évaluez des dispositifs
+médicaux (DM) complexes
+ANNÉE 4 Maîtrisez la modélisation et les méthodes numériques
+en santé
+. Advanced probability Gérez des projets dans le domaine de la santé
+. Machine Learning
+CORE
+. Statistical Risk Analysis and Game Theory Gérer et traiter des données de santé
+. Computational modeling
+Dominez les normes et réglementations en santé
+. Data Analytics
+. Augmented and Virtual Reality
+TRACK CYBER Métiers
+. Robotics
+PHYSICAL
+. Embedded Artifical Intelligence
+HUMAN SYSTEMS*
+. Computer Vision
+. Finite element methods Ingénieur télémédecine et IoT, Chef de projet système
+d’information santé, Ingénieur biostatisticien, Chef de projet
+. Internet of Things data santé, Ingénieur R&D, chef de produit DM, Ingénieur
+. Biology fundamentals qualité et réglementations, Ingénieur développement
+. Health, autonomy and biotechnology: produits et procédés, Ingénieur conception de dispositifs
+economy and organisation
+médicaux, Data scientist life science, ingénieur d'application.
+. Sensors and optoelectronics
+SPÉCIALISATION . Modeling biological systems
+MEDTECH ET SANTÉ . Control Theory
+. Ethics, quality and regulation #Humain
+. Applied data analysis
+. Telehealth & Health information systems #Dispositifs médicaux
+. Experimental methodology and biostatistics
+. Medical digital workflow
+#Mécatronique
+ANNÉE 5 #Data
+. Data protection management #IA
+CORE
+. Product Life-cycle Management (PLM)
+#Santé connectée
+TRACK CYBER . Additive Manufacturing
+PHYSICAL . Digital Twins
+HUMAN SYSTEMS* . Digital simulation of ergonomics
+. HMI and sensory engineering
+. Neuroengineering
+SPÉCIALISATION
+. Connected objects and IoT for human health
+MEDTECH ET SANTÉ
+. Medical computer vision & image processing
+. Materials and implants
+* hors alternance et parcours de spécialisation
+Des prototypes distingués dans les grands concours
+nationaux et menant à la création de start-ups : orthèse
+connectée, exosquelette, interface cerveau-machine,
+dispositifs améliorant la performance pour sportifs
+de hauts niveaux, Alzheimer, EMG haute densité,
+bracelet connecté, IA, handicap, aide à la rééducation…
+I
+DE VINCI ENGINEERING SCHOOL ESILV 35
+
+--- Page 36 ---
+ACCESSIBLE
+100%
+EN ALTERNANCE TECH FOR GOOD
+EN ANGLAIS NANTES
+SUR 3 ANS (FISA)
+MAJEURE
+Éco-innovation
+Enseignements
+Développez des solutions innovantes, durables et
+économes, adaptées aux contextes à faibles ressources
+Maîtrisez les méthodes permettant de gérer des projets
+MODULES COURS
+complexes dans des environnements contraints en
+optimisant les ressources disponibles
+ANNÉE 4
+Optimisez les processus de fabrication et de distribution
+dans des environnements limités en infrastructures . Advanced probability
+. Machine Learning
+Créez des modèles économiques viables pour des CORE
+. Statistical Risk Analysis and Game Theory
+start-ups de rupture ou des projets sur des marchés . Computational modeling
+émergents et à faible revenu
+Maîtrisez les technologies émergentes à faible coût . Open data science and analytics
+. Human centred design
+(IoT, énergies renouvelables) pour les intégrer dans TRACK
+. Planetary Challenges 1: Economy,
+des solutions adaptées aux besoins locaux Ecology and Resources
+Acquérez des compétences en ethnographie et design
+participatif pour comprendre les besoins des utilisateurs . Hardware and Fabrication Fundamentals 1
+. Computer Sciences Fundamentals
+et concevoir des produits adaptés aux contextes locaux
+. Governance and Economy of Sustainability
+SPÉCIALISATION . Creative Design Methodologies
+ÉCO-INNOVATION . Product Development: Quickstarter
+Métiers . Biomaterials and new materials
+. Hardware and Fabrication Fundamentals 2
+. Computer Sciences Fundamentals
+Ingénieur R&D en innovation frugale, Chef de projet
+en développement durable, Entrepreneur social, Consultant
+ANNÉE 5
+en innovation, Ingénieur biomatériaux, Responsable cycle
+de vie, Ingénieur hardware durable, Chercheur en innovation
+. Data protection management
+sociale et durable. CORE . Product Life-cycle Management (PLM)
+. Sustainable development Policy
+#EcoInnovation TRACK . Sustainable impacts assessment
+. Climate Change and Impact Mitigation
+#ConceptionDurable
+. Eco-Innovation Research Project
+#InnovationFrugale SPÉCIALISATION . Marketing Strategies and Business Development
+. Frugalité Numérique
+ÉCO-INNOVATION
+. Efficient code (RUST)
+#EntrepreneuriatSocial
+. Form Hardware to AI : Sensing climate change
+. Une approche interdisciplinaire
+intégrant des compétences
+techniques, économiques et sociales.
+. Prototypage et importante
+immersion sur le terrain.
+I
+36 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 37 ---
+100%
+TECH FOR GOOD
+PARIS EN ANGLAIS
+MAJEURE
+Creative Technology
+Enseignements
+Inventez les interactions de demain, à la croisée
+MODULES COURS des arts, des sciences et des technologies.
+Explorez l’interaction humain-machine à travers les
+ANNÉE 4
+technologies émergentes (IA, XR, interfaces tangibles,
+affective computing, low-tech…)
+SCIENCES, . How To Make (Almost) Anything
+ENGINEERING . Computer Sciences Fundamentals Concevez et réalisez des prototypes créatifs alliant
+& DESIGN . DBL ou HIO ou AI/CG
+informatique, électronique, design et arts numériques
+. QuickStarter Développez des projets transdisciplinaires, à la frontière
+RESEARCH,
+. Applied Research - Technogical Expedition de la recherche, de l’entrepreneuriat et de la création
+INNOVATION &
+MANUFACTURING . Innovation Project artistique
+. Defense
+Expérimentez une pédagogie constructionniste
+CREATIVE . Scientific Research et anti-disciplinaire : apprendre en faisant, apprendre
+METHODOLOGY . Pitch & Talk en explorant
+& RESEARCH . Visual Arts Communication
+PRACTICE . Creative Technologies Methodology Préparez-vous à inventer des usages et des métiers
+encore inconnus dans un monde en constante
+ANNÉE 5 transformation
+. Media Digital Technologies
+SCIENCES, Métiers
+. Product Life-cycle Management
+ENGINEERING
+. Data Protection Management
+& DESIGN
+. DBL ou HIO ou AI/CG
+Creative Technologist, Entrepreneur, Ingénieur en interaction
+BUSINESS & . Innovation Management et innovation, Designer-chercheur, R&D créative, Consultant
+COMMUNICATION . Marketing Strategy en innovation, Artiste-ingénieur numérique, Explorateur de
+nouvelles technologies.
+RESEARCH, . Master Thesis Preparation
+INNOVATION & . Defense
+MANUFACTURING . Innovation Project #HumanComputerInteraction
+#CreativeTechnology
+#Research
+#Entrepreneurship
+#DigitalArts
+#EmergingTech
+#MITSpirit
+#Prototyping
+. Une équipe enseignante et de recherche issue
+de parcours internationaux d’excellence.
+. Plusieurs membres de l’équipe sont affiliés
+au Massachusetts Institute of Technology (MIT).
+. Des collaborations avec des leaders mondiaux
+- Entreprises : Google, Qualcomm
+- Recherche : MIT Media Lab, Max Planck Institute
+I
+DE VINCI ENGINEERING SCHOOL ESILV 37
+
+--- Page 38 ---
+Les parcours
+En 4e et 5e années, vous pourrez choisir entre un parcours de spécialisation (enseigné en anglais)
+ouvrant sur diverses compétences transverses (8 choix possibles à Paris et 3 à Nantes) ou
+le parcours d’approfondissement de votre majeure (4 parcours dédiés à Paris, enseignés en anglais
+à l'exception du parcours Souveraineté numérique & Défense). Ces parcours ne sont pas accessibles
+aux élèves-ingénieurs en apprentissage, en entreprise sur ces périodes de cours.
+8 parcours de spécialisation
+PARIS pour les campus de Paris
+Parcours Parcours
+Recherche Business engineering
+En immersion au sein de l’équipe de recherche, vous aurez Ce parcours, dispensé par l’EMLV, a pour ambition de vous
+à gérer un projet confié par les enseignants chercheurs apporter les compétences commerciales et managériales
+du De Vinci Research Center. Une expérimentation idéale (stratégie de développement, négociation, gestion de grands
+si vous envisagez un doctorat ou une carrière dans le comptes) pour exercer le métier de business developer.
+département R&D d’une grande entreprise.
+Ancrez votre savoir dans des expériences
+Stimulez votre esprit de recherche concrètes : business games et projets
+et relevez des défis scientifiques. avec des entreprises partenaires.
+Parcours
+Start-up / Entreprendre
+Vous avez soif d’entreprendre et portez déjà un projet ?
+Bénéficiez d’un accompagnement, découvrez la
+méthodologie ainsi que l’écosystème de la création
+d’entreprise et entrez progressivement dans une démarche
+entrepreneuriale.
+Menez de front votre propre projet
+en multipliant les rencontres avec
+des startupers et des professionnels.
+I
+38 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 39 ---
+Parcours Parcours
+HPC-AI Quantum science
+Vous avez à cœur de maîtriser les outils de simulation Ce parcours est porté par le département informatique
+numérique en combinant l’intelligence artificielle et le HPC de l'ESILV. Il ne se limite pas à l’informatique quantique,
+(High-performance computing) ? Entreprenez ce parcours mais intègre également des enseignements en
+en partenariat avec Altair. mathématiques et en mécanique quantiques. Le parcours
+s’inscrit dans le prolongement de la masterclass en
+informatique quantique élaborée avec ATOS, ainsi que
+des cours de mécanique quantique, de mathématiques
+et d’informatique quantique dispensés en 3e année.
+Les outils de simulation numérique, d’analyse
+de données, d’intelligence artificielle, de
+calcul HPC et de cloud computing n’auront
+plus de secret pour vous. Abordez les aspects physiques et
+algorithmiques de l’approche quantique
+et développez avec les principaux
+frameworks du marché.
+Parcours
+UX Design
+Ce parcours, en partenariat avec l’IIM, place le design
+au cœur des nouvelles technologies pour concevoir
+des objets connectés, des services ou des applications
+centrés sur l’expérience utilisateur, inspirés des nouveaux
+usages des consommateurs.
+Mettez vos apprentissages
+en application à travers la
+création d’un objet numérique.
+Parcours Parcours
+GenAI Souveraineté numérique et Défense*
+Ce parcours, conçu avec le soutien d’entreprises, offre Ce parcours forme les étudiants aux enjeux stratégiques
+une vision complète de l’intelligence artificielle générative. du numérique en se concentrant sur trois piliers : la résilience
+Au-delà des aspects techniques et applicatifs, il abordera des infrastructures et systèmes, le droit et les régulations
+également les enjeux éthiques et de souveraineté. numériques, ainsi que le renseignement et l’intelligence
+L’engagement pour une IA de confiance n’est pas économique face aux menaces informationnelles. Il prépare
+une option, mais le fondement même de l'enseignement les futurs professionnels à surmonter les défis technologiques,
+proposé aux étudiants. juridiques et géopolitiques, soulignant l’importance de
+maîtriser les outils numériques et d’affirmer l’indépendance
+technologique comme enjeux stratégiques majeurs.
+* parcours enseigné en français
+I
+DE VINCI ENGINEERING SCHOOL ESILV 39
+
+--- Page 40 ---
+4 parcours en approfondissement
+PARIS pour les campus de Paris
+Parcours Parcours
+Computer science Quantitative finance
+Ce parcours allie développement logiciel avancé, langages Le parcours "Quantitative finance" forme les étudiants
+modernes, bases de données de nouvelle génération aux techniques quantitatives et à la programmation,
+et containerisation. Il prépare les étudiants à concevoir indispensables pour appréhender le contrôle des risques
+des solutions robustes et évolutives. Une place centrale financiers, la modélisation actuarielle et la gestion
+est donnée à l’intelligence artificielle de confiance, de portefeuille. Le cadre réglementaire et les défis liés
+pour répondre aux attentes des entreprises et aux défis au développement durable seront un fil rouge de la plupart
+éthiques de demain. des enseignements.
+Parcours Parcours
+Engineering science Cyber physical human systems
+Avec le parcours "Engineering science", vous explorez Ce parcours forme des ingénieurs à l’interaction entre
+comment la technologie peut améliorer notre quotidien et l’humain et les technologies. Il intègre la data analytics,
+répondre aux grands défis de demain. Entre intelligence la réalité augmentée et virtuelle, la robotique et l’IA
+artificielle, innovation durable et ingénierie des systèmes, embarquée.
+ce parcours vous prépare à concevoir des solutions utiles, S’y ajoutent la vision par ordinateur, la fabrication
+responsables et tournées vers la société. additive et les jumeaux numériques. Ce parcours prépare
+aux enjeux de l’industrie du futur.
+I
+40 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 41 ---
+3 parcours de spécialisation
+NANTES pour les campus de Nantes
+Parcours Parcours
+Research & Innovation Smart mobility
+Le parcours "Recherche & Innovation" prépare les Le parcours "Smart mobility" forme des ingénieurs capables
+étudiants à la recherche académique et au doctorat autant de concevoir et d’optimiser les systèmes de transport face
+qu’à des carrières dans les départements Recherche aux défis énergétiques, numériques et environnementaux.
+& Développement des grandes entreprises et dans Il combine une approche technique, stratégique et managériale,
+les startups de pointe. Durant sa 4e et/ou 5e année, couvrant l’ingénierie des infrastructures et des véhicules, la
+l’élève-chercheur travaille sur un projet de recherche gestion des flux ainsi que l’intégration de mobilités innovantes
+proposé par des enseignants-chercheurs du De Vinci (partagées, électriques, autonomes, connectées).
+Research Center. En immersion dans l’équipe de recherche,
+il est accompagné pour acquérir les compétences clés
+liées à la recherche : gérer un projet de R&D, construire
+un état de l’art scientifique, mener des études
+expérimentales, maîtriser la communication scientifique.
+Parcours
+Sustainable finance & Insurance
+Le parcours "Sustainable finance & Insurance" forme
+les étudiants aux techniques quantitatives et à
+la programmation, indispensables pour appréhender
+le contrôle des risques financiers, la modélisation
+actuarielle et la gestion de portefeuille. Le cadre
+réglementaire et les défis liés au développement durable
+seront un fil rouge de l'ensemble des enseignements.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 41
+
+--- Page 42 ---
+DOUBLE DIPLÔME INGÉNIEUR-MANAGER PARIS
+3e
+Le Point, Le Parisien
+(2025)
+Ingénieur-Manager
+un double diplôme de référence
+Vous vous intéressez à l’économie, au marketing, au management, à l’innovation et
+à la gestion de l'entreprise ? Vous avez l’ambition d’occuper des postes à forte dimension
+managériale ? Vous imaginez lancer une start-up et avez la fibre entrepreneuriale ?
+Le double diplôme Ingénieur-Manager vous offre l'opportunité de devenir ingénieur ESILV,
+d'acquérir une double compétence ainsi que le diplôme en management de l'EMLV délivrant
+le grade de master.
+Élargissez le champ de vos
+Formez-vous aux fondamentaux du management
+en complément des enseignements scientifiques compétences pour accompagner
+et techniques de l’ESILV.
+. Un double cursus transversal sur le même campus.
+les mutations liées à la
+. Une équipe pédagogique rompue à l’encadrement
+des élèves-ingénieurs et des élèves managers.
+. De multiples projets vous permettent de travailler transformation numérique.
+en équipe pluridisciplinaire comme vous le ferez demain
+en entreprise.
+. Des poursuites d’études facilitées dans les meilleurs
+Mastères Spécialisés.
+. Un accélérateur de carrière.
+. L’opportunité de vous démarquer et de vous faire
+. Cursus en 5 ans
+remarquer par les recruteurs à la recherche de profils
+hybrides.
+. 2 à 3h (en moyenne)
+de cours par semaine
+I
+42 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 43 ---
+DOUBLES DIPLÔMES FRANCE
+Enrichir son parcours
+avec des formations d’excellence
+Les doubles diplômes proposés par l'ESILV, en partenariat avec d’autres écoles
+ou universités françaises, permettent aux étudiants de compléter ou d’élargir
+leur champ d’expertise initial.
+Liste soumise à modifications éventuelles
+I
+DE VINCI ENGINEERING SCHOOL ESILV 43
+
+--- Page 44 ---
+Ouvrez-vous
+au monde
+L’ESILV parie sur l’ouverture internationale pour nourrir votre projet personnel et professionnel
+et forger votre sensibilité multiculturelle à travers des expériences multiples à l’étranger.
+Des programmes
+internationaux
+. Semestre d’échange académique
+dans l’une des universités
+partenaires du Pôle Léonard de Vinci
+(3e année et/ou 5e année)
+. Stage en entreprise à l’étranger
+(4e ou 5e année)
+. 4e et 5e années 100% en anglais
+. English track : 1re, 2e et 3e année
+100% en anglais
+Des opportunités
+multiculturelles
+variées
+. Plus de 120 partenaires académiques
+internationaux dans 37 pays
+. International week sur les Campus
+de Paris et Nantes
+. Bourses à la mobilité, dispositif Erasmus+
+Votre cursus
+100% en anglais
+. English track : les 3 premières années
+100% en anglais, en option et dépendant
+du niveau d'anglais en terminale
+. 4e et 5e années 100% en anglais
+pour toutes les majeures
+. Pour une immersion immédiate
+dans un environnement international
+I
+44 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 45 ---
+120 100% 20%
++
+universités partenaires des élèves effectuent des élèves de 5e année
+dans 37 pays un semestre à l’étranger réalisent un double
+diplôme à l'étranger
+Doubles diplômes
+internationaux
+.
+Étudiez une année à l’étranger
+. +50 accords de doubles diplômes
+(Master, DESS, MSc) en Europe
+et dans le monde
+. Obtenez le diplôme de l’ESILV L’ESILV accueille plus de 1 000 étudiants
+internationaux venant de plus de 90 pays,
+et celui de l’université accueillante et de visiting professors sur ses campus.
+RETROUVEZ NOS DOUBLES DIPLÔMES ET CERTIFICATS INTERNATIONAUX SUR ESILV.FR/INTERNATIONAL
+I
+DE VINCI ENGINEERING SCHOOL ESILV 45
+
+--- Page 46 ---
++120 destinations académiques
+aux quatre coins de la planète
+60%
+12%
+16
+%
+Europe
+États-Unis,
+Asie
+Canada
+5%
+Afrique,
+Moyen-Orient
+5%
+2%
+Océanie
+Amérique
+Latine
+Échange universitaire : quels bénéfices ?
+Gagnez en autonomie
+Développez vos compétences linguistiques
+Découvrez une autre culture
+Ouvrez-vous des perspectives de carrière à l’international
+I
+46 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 47 ---
+ALBANIE FINLANDE RÉPUBLIQUE DE CORÉE
+. University Aleksander Moisio of Durres . Savonia University of Applied Sciences . Chung-Ang University
+ALLEMAGNE . University of Vaasa . Hanyang University
+. Furtwangen University . Laurea University of Applied Sciences . Keimyung University (KMU)
+. Reutlingen University HONGRIE . Seoul National University of Science
+. Rhine-Waal University of Applied Sciences . Budapest University of Technology and Technology
+. Rosenheim Technical University of Applied and Economics . Sungkyunkwan University
+Sciences . University of Debrecen . Konkuk University
+. University of Bamberg INDE RÉPUBLIQUE TCHÉQUE
+. Christian-Albrechts-Universität zu Kiel . National Institute of Technology Puducherry . Czech Technical University in Prague
+AUSTRALIE IRLANDE . Tomas Bata University in Zlin
+. Griffith University . Dorset College . VSB - Technical University of Ostrava
+. Murdoch University . Dublin City University ROUMANIE
+. RMIT University . Griffith College Dublin . University of Babes-Bolyai in Cluj-Napoca
+. Swinburne University of Technology . Politehnica Bucharest
+ISLANDE
+. University of Newcastle . Lucian Blaga University of Sibiu
+. Reykjavik University
+. Adelaide University . Universitatea 'Politehnica' din Timisoara
+. University of Technology Sydney ITALIE ROYAUME-UNI
+. Bari Polytechnical University
+AUTRICHE . Cranfield University
+. Milano Polytechnical University
+. MCI - Management Center Innsbruck . The University of Sunderland
+. Torino Polytechnical University
+BELGIQUE . University of Cagliari SLOVAQUIE
+. Ecole Pratique des Hautes Ecoles . University of Messina . Technical University of Kosice
+Commerciales (EPHEC) . University of Padova . University of Zilina
+. University of Liège . University of Pavia SLOVÉNIE
+. Haute École de la Province de Liège (HEPL) . University of Pisa . University of Primorska
+BULGARIE . University of Salento SUÈDE
+. Varna University of Management . University of Trento . Blekinge Institute of Technology
+CANADA LETTONIE . Jonkoping University
+. Université du Québec à Chicoutimi . Riga Technical University . Linnaeus University
+. Université Laval LITUANIE . Mälardalen university
+. Université du Québec en Outaouais . Vilnius Gediminas Technical University . University of Skövde
+CHILI (Vilnius Tech) SUISSE
+Océanie . Mayor University LUXEMBOURG . Lucerne University of Applied Sciences and Arts
+CHINE . L'Université du Luxembourg . OST University of Applied Sciences
+. Beijing Jiaotong University MACÉDOINE DU NORD of Eastern Switzerland
+. Nanjing University of Aeronautics . South East European University . ZHAW, Engineering School
+and Astronautics . University of Applied Sciences Northwestern
+. Shanghai Normal University MALAISIE Switzerland (FHNW)
+. Asian Pacific University of Technology
+DANEMARK and Innovation TAÏWAN
+. Aalborg University . University of Kuala Lumpur (UniKL) . National Central University
+. National Taipei University
+ÉGYPTE . University of Putra Malaysia
+. Southern Taiwan University of Science
+. The American University in Cairo MAROC and Technology
+ESPAGNE . International University of Rabat
+THAÏLANDE
+. European University of Madrid (Rabat Business School)
+. Kasetsart University
+. University of Vic MÉXIQUE
+. Polytechnic University of Cartagena . Monterrey Institute of Technology TUNISIE
+. University of Girona and Higher Education (ITESM) . Ecole Polytechnique Internationale Privée
+de Tunis
+ESTONIE . Occidental Institute of Technology
+. Tallin University of Technology and Higher Education URUGUAY
+. University of Tartu . Panamerican University . Montevideo University
+ÉTATS-UNIS NORVÈGE VIÊT NAM
+. Georgia Institute of Technology . Norwegian University of Life Sciences . FPT University
+. Illinois Institute of Technology POLOGNE . University of Science and Technology of Hanoi
+. Pace University . Poznan University of Technology
+. University of California Santa Cruz Silicon . University of Economics and Human Sciences
+Valley Extension in Warsaw
+. University of Louisiana at Lafayette
+PORTUGAL
+. University of Virginia's College at Wise
+. ISCTE IUL - Lisbon University Institute
+. California State University, Long Beach
+. Polytechnic Institute of Bragança
+. Boston University
+. University of Porto Liste non exhaustive
+. Catholic University of Portugal et soumise à modifications éventuelles
+I
+DE VINCI ENGINEERING SCHOOL ESILV 47
+
+--- Page 48 ---
+Des projets concrets
+sur les 5 ans du cursus
+Tout au long de votre cursus, vous multiplierez les projets technologiques
+afin de stimuler vos compétences et capacités de futur ingénieur.
+Les élèves de 1re et 2e années réalisent des Projets
+Formez-vous par le projet d’Imagination et d’eXploration (PIX).
+En 2e année, ils sont amenés à développer une idée
+Renforcez et structurez vos apprentissages
+originale de manière à présenter, en fin de projet,
+Répondez à des problématiques techniques un prototype sur des thèmes actuels de la société.
+et des enjeux sociétaux À travers le Projet d’Innovation à Impact Positif (P2IP),
+les élèves de 3e année se confrontent au monde
+Développez vos soft skills* réel et challengent leurs idées auprès de professionnels
+via des concours.
+* Travail en équipe, gestion de projet, techniques de communication,
+En 4e et 5e années, les élèves réalisent un Projet
+leadership, sociabilité, organisation, autonomie, prise de recul,
+esprit critique, adaptabilité, curiosité… d'Innovation Industriel (PI2) qu’ils doivent valoriser grâce
+à des partenariats avec des entreprises ou des associations,
+des publications de recherche, brevets, concours,
+contribution au savoir…
+PIX 1 PIX 2 P2IP PI24 PI25
+Projet d'imagination Projet d'imagination Projet d'innovation Projet d'innovation Projet d'innovation
+et d'exploration 1 et d'exploration 2 à impact positif industriel 4 industriel 5
+Année 1 Année 2 Année 3 Année 4 Année 5
+Réaliser Développer Créer Collaborer Augmenter
+un système une idée jusqu'à une start-up avec une entreprise sa visibilité auprès
+mécanique complet la preuve de concept à impact positif ou un laboratoire des entreprises
+de recherche
+DÉCOUVREZ LES PROJETS EN LIGNE SUR ESILV.FR
+I
+48 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 49 ---
+Le fonctionnement de l’équipe,
+facteur clé de la performance
+de votre projet
+1
+Les équipes projets bénéficient d’un suivi technique
+et d’un accompagnement soft skills.
+En 1re et 2e années, les élèves sont accompagnés dans la gestion
+de leurs équipes en mode MOA/MOE. En 4e et 5e années,
+projet technologique
+ils sont formés au modèle du MBTI, qu’ils utilisent tout au long
+par année de leur projet pour analyser leur comportement individuel
+et leur fonctionnement en équipe.
+Pix 2 - Structure anti-sismique / 2024-2025
+PIX 1 - Aérorouleur / 2024-2025
+Exemples de projets réalisés en 4e et 5e années du cycle ingénieur
+Cybersécurité Finance Énergie & Développement durable
+. Cybersécurité de l’industrie 4.0 . Machine Learning for Rating . Leviers d’actions pour optimiser
+. Développement d’un scénario and Default Prediction les consommations énergétiques
+de cyberattaque sur CyberRange . Valorisation des tranches de CLO . Idiba Foods : agriculture résiliente face
+. Outillage RedTeam (Keylogger) Callable (titre de créance collatéralisé) aux changements climatiques
+. RedTeam - Deep fake . Analyse des dynamiques de l’emploi . Projets "Nouvelles Énergies"
+. Outil d’évaluation de conformité dans la finance à Hong Kong
+et de maturité cyber . Signaux homogènes et hétérogènes
+Logiciels, plateformes & outils
+dans une stratégie de suivi de tendance
+. Portage web d’un simulateur retraite . App store sécurisé pour Windows
+Intelligence artificielle & Data
+et Mac
+. Analyse des User Stories par l’IA . Plateforme mesurant la disponibilité
+Automobile & systèmes embarqués
+générative à base de micro PC
+. Application Web d’analyse des . Maquette d’une chaîne de production . Rédaction automatisée du rapport
+risques climatiques + données INSEE de voitures d’autopsie
+. City Data : plateforme de visualisation . Informations interceptées via protocole
+de données urbaines OBD d’une voiture
+RETROUVEZ TOUS LES PROJETS PAR THÈME ET ANNÉE EN LIGNE SUR ESILV.FR
+I
+DE VINCI ENGINEERING SCHOOL ESILV 49
+
+--- Page 50 ---
+Votre employabilité
+notre priorité
+Stages, alternance, sessions de recrutement en France et à l’international, conférences,
+forums, rencontres métiers, visites… l’ESILV multiplie les interactions avec les entreprises
+et favorise l’insertion professionnelle de ses diplômés.
+Comité de perfectionnement
+Les entreprises membres du comité de perfectionnement de l’ESILV (Axa, BNP Paribas, Capgemini, CEA, Dassault
+Systèmes, Direction Générale de l'Armement, EY, IBM, Ministère des Armées, Orange, PWC, Société Générale, Sopra Steria,
+Stellantis…) orientent les priorités et axes de formation de l’école dans le but de favoriser l’insertion professionnelle
+et le recrutement des élèves-ingénieurs.
+Une expérience significative en entreprise
+Année 2 Année 4 Année 5
+Stage d’ouverture au monde Stage technique (4 à 5 mois) Stage ingénieur de fin d’études (6 mois)
+professionnel (2 à 3 mois)
+Mettez en pratique vos premières Mettez en application vos
+Découvrez l’entreprise connaissances techniques compétences professionnelles
+Préparez-vous au métier d’ingénieur Préparez votre insertion en entreprise
+FÉV. MARS AVRIL MAI JUIN JUIL. AOÛT SEPT.
+Année 5 6 mois de stage
+Année 4 4 à 5 mois de stage
+Année 2 2 à 3 mois de stage
+Possibilité de réaliser des stages optionnels supplémentaires en fin d'année 1 et d'année 3, en France ou à l'International.
+I
+50 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 51 ---
+2 500 14 12 000 93%
+entreprises majeures offres (stages, d’embauche en
+partenaires en alternance alternance) / an moins de 4 mois
+L’ESILV organise de nombreux
+moments d’échanges et
+de rencontres dans l’année
+entre étudiants, entreprises
+et alumni au travers de forums,
+workshops, conférences métiers
+pour l’alternance, les stages
+ou le 1er emploi.
+La direction des
+Relations Entreprises
+Acteur de la pédagogie
+Les stages et l’alternance favorisent la réflexion
+Comité de perfectionnement,
+de l’étudiant sur ses choix d’orientation.
+chaires de recherche, hackathons.
+Accélérateur de projets
+Incubateur de start-ups, Fablab,
+ateliers, projets technologiques.
+Partage d’expertise
+Mécénat de compétences,
+conférences métiers, visites
+(Fablab, salles de marchés…).
+Carrière et recrutement
+Forum entreprises, forum
+alternance, forum alumni,
+échanges et évènements
+internationaux.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 51
+
+--- Page 52 ---
+Devenez ingénieur
+par l’alternance
+Vous êtes prêts à vous engager sur une fonction et des missions dans une même entreprise
+sur trois ans, ou sur deux ans en admission parallèle ? Optez pour une formation rémunérée,
+ancrée sur la pratique professionnelle, à l’issue du cycle préparatoire.
+SEPTEMBRE JANVIER AVRIL JUIN AOÛT
+5 3 SEMAINES À L’ESILV / 2 SEMAINES EN ENTREPRISE TEMPS PLEIN EN ENTREPRISE
+FISEA : Contrat
+d'apprentissage 4 3 SEMAINES À L’ESILV / 2 SEMAINES EN ENTREPRISE ENTREPRISE
+de 2 ans
+FISA : Contrat
+d'apprentissage FISA : 3 SEMAINES À L’ESILV / 2 SEMAINES EN ENTREPRISE ENTREPRISE
+de 3 ans 3
+FISEA : 5 JOURS À TEMPS PLEIN À L'ESILV
+Une pédagogie adaptée
+Consolidez vos bases en mathématiques, informatique,
+sciences de l’ingénieur, langues, culture générale,
+soft skills (1re année du cycle ingénieur)
+Pédagogie inductive (basée sur l’étude de cas)
+Développez des compétences métiers
+Travail en équipe, conduite de projets
+(2e et 3e années du cycle ingénieur)
+80% des enseignements réalisés sous forme
+Réalisez une mobilité à l'international
+de Travaux Dirigés, Travaux Pratiques, projets
+de 9 semaines minimum
+Construisez votre projet professionnel
+FISA / FISEA
+contrat d’apprentissage Forums Recrutement
+de deux ou trois ans Les forums de recrutement alternance
+(organisés entre mars et juin) sont des moments
+de rencontres privilégiés entre candidats
+. FISA : formation d'ingénieur sous statut apprenti.
+admissibles et partenaires entreprises.
+Un contrat de 3 ans, 11 majeures disponibles
+Ils sont à l’origine de près d’un contrat
+dont 3 à Nantes.
+d’apprentissage sur deux pour nos étudiants.
+. FISEA : formation d'ingénieur sous statut étudiant (1 an)
+puis apprenti. Un contrat de deux ans, pour les 3 majeures
+Finance à Paris.
+I
+52 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 53 ---
+L’équipe des Relations Entreprises accompagne
+les étudiants dans leurs démarches et les met en relation
+avec des entreprises nationales et internationales.
+Elle collecte et diffuse aussi des offres de contrats
+en alternance.
+Pourquoi
+choisir
+En pratique
+l’alternance
+Un contrat d’apprentissage
+à l’ESILV ? sur trois ans (FISA)
+ou deux ans (FISEA)*
+Un contrat à durée déterminé est conclu
+entre l’entreprise, l’apprenti et le CFA.
+Il couvre l’intégralité de la formation.
+Le diplôme d’ingénieur généraliste
+de l’ESILV
+Financement du coût
+Des spécialités au cœur des enjeux de la formation
+technologiques et sociétaux L’étudiant n’a pas de frais de scolarité
+à régler : l’entreprise signataire finance
+L'international pour tous les élèves apprentis
+l’intégralité du coût de la formation.
+Un accompagnement personnalisé
+dans la recherche d'entreprises Statut de l’apprenti
+Une alternance progressive adaptée L’apprenti a le statut de salarié. Il perçoit
+une rémunération calculée en fonction
+à la pédagogie et à l’entreprise
+de son âge et de son niveau d’études
+(entre 43% et 78% du SMIC).
+* Pour les majeures Ingénierie financière, Actuariat
+et Fintech sur deux ans (années 4 et 5)
+I
+DE VINCI ENGINEERING SCHOOL ESILV 53
+
+--- Page 54 ---
+Votre campus
+connecté
+Chaque campus offre un environnement de formation innovant adapté au déploiement
+des pédagogies collaboratives et à l’hybridation des connaissances.
+Toutes nos salles sont équipées
+Des espaces de coworking modulables ouverts à tous (étudiants,
+de technologies dernière génération.
+alternants, intervenants, formateurs, entreprises et partenaires…)
+Learning center
+Creative Space Salle Bloomberg
+Une bulle créative pour travailler seul ou en équipe
+(matériel d’idéation et écran géant à disposition).
+I
+54 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 55 ---
+L’écosystème numérique
+de l’ESILV favorise l’acquisition
+des compétences clés de demain :
+100 000
+collaborativité, communication,
+créativité, agilité, esprit critique.
+ressources en ligne
+Un large choix de ressources
+documentaires en ligne (e-books, Modules de cours, ressources complémentaires, quiz de
+presse généraliste, statistiques, études compréhension disponibles sur notre plateforme digitale.
+de marché, revues académiques…).
+De Vinci Learning
+Une expérience d’apprentissage innovante
+Réalité virtuelle et augmentée, generative AI, escape game,
+apprentissage par les pairs, suivi pédagogique en ligne, Mooc,
+Portail étudiant cours 100% digitalisés… Nous expérimentons chaque année de
+nouveaux outils pour rester à la pointe de la pédagogie digitale.
+Toute l’information liée à votre scolarité
+(agenda, cours à distance, replays…).
+I
+DE VINCI ENGINEERING SCHOOL ESILV 55
+
+--- Page 56 ---
+Plongez au cœur de
+l’innovation
+L'Institute for Future Technologies (IFT) est le pôle
+transdisciplinaire et innovant du Pôle Léonard de Vinci.
+Ses méthodes d'apprentissage, inspirées du MIT Media
+Lab, revendiquent le radical learning, l'antidisciplinarité
+et l'intelligence collective.
+Réinventez Expérimentez Développez de
+le futur nouveaux produits
+Les étudiants ont à leur disposition
+un Fab Lab, qui leur offre l'accès innovants
+Les activités d'innovation de l'IFT à des technologies de pointe
+sont structurées en trois groupes (impression 3D, fabrication
+(Artificial lives, Resilient futures, électronique, réalités immersives L’IFT développe un ensemble de cursus
+Human learning) dirigés par des et mixtes), à l'intelligence artificielle, académiques de cycle Master manager,
+anciens ou chercheurs affiliés la biotech, la foodtech... ingénieur et designer autour des
+du MIT Media Lab. Elles inspirent Creative Technologies pour apprendre
+une culture de Makers et une vision à développer de nouveaux produits
+unique avec laquelle les étudiants innovants.
+façonnent et réinventent le futur.
+I
+56 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 57 ---
+Les activités d'innovation de l'IFT sont structurées Programmes académiques
+en trois groupes. Le groupe Artificial Lives développe
+des technologies omniprésentes centrées sur l'humain.
+Le groupe Resilient Futures développe des technologies Le programme académique de l'IFT offre une expérience
+durables et résilientes. Le groupe Human Learning éducative unique aux étudiants en ingénierie, en
+crée des outils qui favorisent la construction. conception numérique et en doctorat et vise à renforcer
+l'autonomie, l'initiative et la responsabilité des étudiants.
+Artificial Lives Laboratoires de fabrication
+Cet axe explore la conception de technologies centrées
+sur l’humain, intégrant design et ingénierie pour créer L'infrastructure de l'IFT est composée de laboratoires
+des interfaces et des machines capables de s’intégrer qui soutiennent la recherche active. Les étudiants ont
+de manière fluide dans notre quotidien. à disposition un Fab Lab doté de technologies de pointe,
+notamment l'impression 3D, l'électronique SMD
+. Interactions homme-machine
+et d'autres outils de fabrication. L'IFT dispose d'un
+Repenser les interfaces matérielles et logicielles grâce
+laboratoire de réalité croisée, d'un laboratoire de
+à l’IA, l’IoT et les réalités alternatives.
+biotechnologie, de dispositifs robotiques et de bancs
+. Swarm cobotics d'essai, ainsi que d'une ferme de serveurs IA.
+Développer des robots collaboratifs inspirés du vivant,
+capables de travailler en essaim et d’être pilotés par
+la voix, le geste ou la pensée.
+. Extended intelligence
+Accroître les capacités cognitives et sensorielles humaines
+(environnements virtuels enrichis, interfaces cerveau-
+machine…).
+Recherche intégrée
+Resilient Futures
+aux enseignements
+L’objectif est de concevoir des technologies durables
+Les équipes prennent part au programme
+qui répondent aux enjeux environnementaux et
+sociétaux. Cet axe privilégie une approche de design académique de l’ESILV et interviennent
+soutenable, reposant sur des principes d’utilité, tout au long de l’année, à l’occasion de
+d’accessibilité et de durabilité. workshops, masterclass et conférences.
+. Sustainable ecosystems Elles accompagnent les projets à fort
+Valoriser les processus naturels (agriculture urbaine, potentiel d’étudiants, de chercheurs,
+cultures indoor).
+d’associations ou de start-ups.
+. Traditional & digital craft
+Améliorer les outils traditionnels et développer
+de nouveaux procédés de fabrication résilients.
+HTTP://IFT.DEVINCI.FR
+. Organic materials & biomimicry
+Concevoir des matériaux durables et bio-inspirés
+(électronique soutenable, surfaces compostables,
+biologie de synthèse).
+Human Learning
+Cet axe vise à créer des outils qui favorisent la
+construction continue du savoir et des compétences,
+en intégrant le corps, les émotions et la créativité
+dans le processus d’apprentissage.
+. Embodiment
+Utiliser les capacités sensorielles et motrices du corps
+pour rendre l’apprentissage plus concret.
+. Creative expression
+Mobiliser les pratiques artistiques pour stimuler
+la créativité dans l’acquisition des connaissances.
+. Cross-cultural collaboration
+Favoriser l’apprentissage collaboratif et interculturel,
+en tenant compte de la diversité des identités, cultures
+et parcours de vie.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 57
+
+--- Page 58 ---
+Innover par
+la recherche
+L’innovation est au cœur de la pédagogie et de la recherche à l’ESILV. Outre
+la présence du centre de recherche De Vinci Research Center (DVRC), de
+l’Institut des Crypto-actifs et de l’Institute for Future Technologies, les élèves-
+ingénieurs bénéficient d’une infrastructure moderne, équipée des dernières
+technologies (salle de marchés Bloomberg, FabLab, De Vinci Innovation
+Center, serveur de calcul pour l'IA, lab technique pour l'expérimentation…).
+Laboratoire Recherche Chaires
+en partenariat d’enseignement
+Le laboratoire interdisciplinaire
+est structuré autour de trois axes et de recherche
+de recherche tournées vers le Le DVRC est membre actif des Pôles
+développement durable. de compétitivité Cap digital, Finance
+Le DVRC accueille et co-finance Innovation et de l’association Teratec sur Le DVRC développe une politique
+des stagiaires, des doctorants les supercalculateurs. L’ESILV est également de création de chaires d’enseignement
+et des post-doctorants. membre du Campus Cyber. Le centre et de recherche avec des partenaires
+de recherche est partie prenante dans industriels (Altair, Lynxter, Onepoint,
+des projets de recherche financés par l’État, Devoteam, Secure-IC, Konatic, Scalnyx,
+l’Europe ou cofinancés par des entreprises. CEA, IGN, AID…). Ces chaires participent
+RETROUVEZ LE DVRC EN LIGNE SUR
+Il est également membre des communautés directement au financement de la
+DEVINCI.FR/RESEARCH-CENTER
+savantes SIF, AFIA et SMAI. recherche.
+150
++
+La recherche profite
+enseignants
+aux élèves-ingénieurs
+chercheurs
+Poursuite d’études en thèses CIFRE
+ou académique au DVRC avec possibilité
+de financement.
+Parcours recherche (années 4 et 5)
+suivi par un enseignant-chercheur du DVRC.
+L’ESILV dispose d’équipements
+techniques pédagogiques Stages de recherche au DVRC
+de pointe, conçus pour être ou dans d’autres laboratoires.
+des outils au service de la Projets PI2 sur des sujets R&D et recherche
+dynamique des enseignements avec des laboratoires ou start-up high tech.
+et des projets étudiants et
+Séminaires par des chercheurs extérieurs.
+investit dans une plateforme
+technologique dédiée à Participation aux manifestations scientifiques
+la recherche expérimentale. organisées par l’ESILV.
+I
+58 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 59 ---
+Exemples de travaux co-publiés par
+des élèves-ingénieurs en parcours recherche
+Interfaces hommes / machines Santé et Industrie
+. C laire Lefez (2024) . I ris Kergozien (2024)
+SoftBioMorph: Fabricating Sustainable Shape-changing Alternatives to Global Best-Fit and Landmarks methods
+Interfaces using Soft Biopolymers Poster - Journée de la recherche en odontologie
+ACM Designing Interactive Systems Conference > Publié (Université Paris Cité) > Présenté
+Encadrant : Marc Teyssier Encadrant : Nicolas Lebon
+Co-auteurs : Madalina Nicolae, Anne Roudaut, . R ebecca Allport (2024)
+Samuel Huron, Jürgen Steimle Benefits of intraoral cobotic scanning in the dental
+CAD/CAM chain
+Poster – Journée de la recherche en odontologie
+Intelligence Artificielle (Université Paris Cité) > Présenté
+Encadrant : Nicolas Lebon
+. Q uentin Gabot (2024) Co-auteurs : Swaminath Venkateswaran, Floriane Laverne
+Tourism profile measure for data-driven tourism
+. R ebecca Allport (2025)
+segmentation
+Cobotized intra-oral digitization: a preliminary study
+International Journal of Machine Learning and Cybernetics,
+19e colloque national "Recherche et enseignement agiles
+> Publié
+pour une industrie soutenable" > Présenté
+Encadrant : Guillaume Guerard
+Encadrant : Nicolas Lebon
+Co-auteurs : Sonia Djebali
+Co-auteurs : Floriane Laverne
+. J ustine Engel & Vincent Ruzand (2024)
+Omics challenges in health and biology
+Congrès annuel de la Société Française de Recherche Bases de données et Systèmes
+Opérationnelle et d’Aide à la Décision > Publié
+Encadrant : Guillaume Guerard . W issal Benjira (2024)
+Co-auteurs : Sonia Djebali Modélisation des données ouvertes au service des ODD :
+. S aber Zahhar (2025) application aux événements sportifs en ville
+S. Zahhar, N. Mellouli and C. Rodrigues (2025) Extraction et Gestion des Connaissances - RNTI > Publié
+Leveraging Sentence-Transformers to Overcome Encadrant : Nicolas Travers
+Query-Document Vocabulary Mismatch in Information Co-auteurs : Faten Atigui, Bénédicte Bucher,
+Retrieval Malika Grim-Yefsah
+In International Conference on Web Information Systems . S teven Le Moal (2024)
+Engineering, Feb 2025, Doha, Qatar, 15463, 101–110 NeoSGG: A Scene Graph Generation Framework
+Encadrants : Nédra Mellouli et Christophe Rodrigues for Video-Surveillance Tasks
+27th International Conference on Extending Database
+Technology > Publié
+Durabilité et Jumeaux Numériques Encadrant : Nicolas Travers
+Co-auteurs : Pierre Lefebvre, Ahmed Azough
+. Thierry Melchior (2024)
+Agrivoltaics acceptability’s challenges
+AgriVoltaics Conf. Proc. > Publié
+Fabrication additive
+Encadrant : Guillaume Guerard
+Co-auteur : M. Seurin . C amille Gabot & Chloé Kernaleguen (2025)
+. A urélie Martin (2025) Toward optimizing the mechanical properties
+State of the art of smart vertical farming of 3D printed scaffolds
+Vulgarisation LinkedIn Pulse > Publié Vulgarisation LinkedIn Pulse > Publié
+Encadrant : Guillaume Guerard Encadrant : Guillaume Guerard
+I
+DE VINCI ENGINEERING SCHOOL ESILV 59
+
+--- Page 60 ---
+Transformez
+vos projets innovants
+Concrétisez vos idées les plus folles dans le cadre de projets technologiques innovants,
+tout en valorisant vos savoir-faire et savoir être lors de concours et d’événements.
+Vivez vos passions
+L’association de conception et de modélisation
+dans les associations aéronautique et spatiale du Pôle Léonard de
+Vinci, LéoFly, remporte le prix de la meilleure
+techniques mini-fusée de l’année avec la fusée nocturne
+décerné à Altair - C’Space 2023
+Vous rêvez de participer à la coupe de France de robotique ?
+D’inventer le bateau du futur alimenté par des énergies
+renouvelables ? De contribuer à des projets aéronautiques
+et de concevoir des fusées ? De construire un bolide
+100% électrique et de concourir à des courses automobiles
+(Shell Eco Marathon et Formula Student) ?
+Plusieurs associations du Pôle Léonard de Vinci, dont
+certaines sont accompagnées par l’Institut for Future
+Technologies (IFT), couvrent un large éventail de
+domaines et d’enjeux liés à l’ingénierie et offrent aux
+élèves ingénieurs de l’ESILV la possibilité de réaliser
+des projets complexes et innovants.
+DEVINCI
+FABLABW
+Vinci Eco Drive, l’association
+étudiante de sport et de
+construction automobile du Pôle HydroVinci, l’association navale du Pôle Léonard
+Léonard de Vinci, a pris part de Vinci développe des prototypes de bateaux
+à deux événements majeurs électriques éco-conçus et a participé en 2024
+en 2025 : le Challenge EcoGreen au Monaco Energy Boat Challenge, compétition
+et le Shell Eco Marathon. internationale dédiée au nautisme durable.
+I
+60 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 61 ---
++500
+Faites décoller
+entrepreneurs issus
+de l’ESILV, l’EMLV et l’IIM
+votre projet
+Envie d'entreprendre pendant tes études ?
+C’est possible avec De Vinci StartUp (DVSU).
+Un parcours transverse pour apprendre
+à entreprendre, pas à pas.
+Ouvert aux étudiants de l’ESILV et de l’EMLV, le parcours
+Entreprendre Startup initie à l’entrepreneuriat par Incubée au sein de De Vinci Startup,
+l’expérimentation. Structuré en trois étapes - Learn, Launch,
+Hive Robotics maintient un lien étroit
+Grow - il permet de passer de l’idée au projet concret,
+avec l’ESILV. Ses fondateurs Teddy
+en lien direct avec le cursus académique.
+Leclercq et Thomas Raynal, promo
+Idéation, modélisation, pitch, stratégie de marché…
+les fondamentaux sont explorés au travers d’ateliers, de 2021, partagent régulièrement leurs
+mises en situation et de cas réels, pour faire émerger une expériences avec les élèves-ingénieurs,
+posture entrepreneuriale tournée vers l’action et l’impact. encourageant la motivation et
+l’entrepreneuriat.
+Un incubateur pour faire
+décoller ta start-up
+DVSU est l’incubateur du Pôle Léonard de Vinci, ouvert
+aux étudiants et alumni des quatre écoles. Il propose un
+accompagnement humain et structurant pour transformer
+une idée en entreprise viable.
+Mentorat sur mesure, ateliers pratiques, espace de
+coworking, plateforme d’idéation, réseau d’experts et
+partenaires engagés : tout est réuni pour structurer, tester,
+financer et lancer ton projet dans un cadre stimulant.
+En mettant l’accent sur les technologies blockchain, la start-up
+Nefture, cofondée par Célim Starck, promo 2021 et Baptiste
+Florentin, promo 2023, est une plateforme de sécurité Web3
+qui protège les utilisateurs, les protocoles et les gestionnaires
+d'actifs contre les exploits et les menaces Web3.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 61
+
+--- Page 62 ---
+3 500 38 24
++
+étudiants disciplines ans de partenariat
+pratiquent le sport sportives avec la Fédération
+du Sport universitaire
+PLUS D'INFOS SUR LES DISCIPLINES ET LA PRATIQUE SPORTIVE SUR DEVINCI.FR
+Le sport
+levier de cohésion et de leadership
+Sport intégré au cursus académique
+Deux formules : initiation ou compétition FFSU*
+Pratique sportive notée reconnue et valorisée
+Le sport constitue une dimension essentielle de
+la formation d'ingénieur généraliste ESILV. Obligatoire
+durant les trois premières années, il se pratique en
+transversalité avec l’EMLV et l’IIM, favorisant la cohésion
+entre les trois écoles du Pôle. Près de 40 disciplines
+sont accessibles, de l’initiation à la compétition.
+Cette diversité permet aux étudiants de développer
+des compétences clés comme la résilience, la gestion
+du stress et l’esprit d’équipe, indispensables
+dans les environnements professionnels en mutation. Sports proposés en initiation
+En complément, la vie associative sportive offre de Athlétisme, Aviron, Badminton, Basket-Ball, Boxe Anglaise, Boxe
+multiples occasions d’engagement, avec des clubs Française, Escalade, Escrime, Fitness, FootBall, Gym au sol, Handball,
+et équipes étudiantes qui participent à des compétitions Hockey sur gazon, Judo, Karaté, Modern Jazz, Musculation, Natation,
+internes et externes. Pilates, Préparation physique, Roller, Rugby, Self Défense/Ju-Jitsu,
+Les campus sont équipés de salles de sport modernes, Tennis, Tennis de table, Ultimate, Urban soccer, Volley-Ball, Yoga.
+permettant une pratique régulière et encadrée. Intégré
+à la formation, le sport dépasse ainsi le simple cadre Sports proposés en compétition
+récréatif pour devenir un levier de leadership et une
+Athlétisme, Aviron, Badminton, Basket-ball, Boxe Anglaise, Boxe
+composante distinctive de l’expérience étudiante à l’ESILV.
+Française, Équitation, ESPORT, Escrime, Football Américain, Football,
+Handball, Judo, Karaté, Karting, Natation, Rugby, Tennis, Volley-Ball.
+I
+62 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 63 ---
+3e édition de la De Vinci Race les 26 et Varian Pasquet, médaille d’or en rugby à 7,
+27 avril 2025, compétition internationale Kylian Portal, médaille de bronze en para-natation
+d'aviron universitaire portée par les et Alex Portal, 3 médailles d’argent et 1 médaille
+étudiants de l'association Aviron De Vinci de bronze en para-natation aux JO de Paris 2024
+I
+DE VINCI ENGINEERING SCHOOL ESILV 63
+
+--- Page 64 ---
+64 350 7
+associations événements thématiques majeures
+par an (intégration, solidarité,
+business, sport, technologie,
+multimédia, art & culture)
+PLUS D'INFOS SUR LES ASSOCIATIONS SUR DEVINCI.FR
+Engagez-vous dans la
+vie associative
+étudiante
+Avec plus de 60 associations actives et près
+de 350 événements organisés chaque année,
+la vie étudiante du Pôle Léonard de Vinci est
+l’une des plus dynamiques de l’enseignement
+supérieur.
+Ouverte à tous les étudiants de l’ESILV, de l’EMLV
+et de l’IIM, elle se distingue par sa transversalité :
+chaque bureau associatif réunit des profils issus
+des trois écoles, favorisant la coopération entre
+managers, ingénieurs et créatifs. Les domaines
+couverts sont multiples - sport, culture, humanitaire,
+entrepreneuriat, innovation - et reflètent la diversité
+des engagements étudiants. Cette vitalité se traduit
+par de grands rendez-vous annuels comme la Participez aux activités
+DeVinci Run, la course de relai Paris-Nantes ou inter-écoles encadrées par
+les De Vinci Awards, qui valorisent esprit d’équipe, une équipe 100% dédiée
+créativité et engagement citoyen.
+Mettez en application les
+Encadrées et professionnalisées, les associations
+constituent un véritable terrain d’apprentissage : fondamentaux de la gestion
+elles renforcent les compétences en gestion et du management
+de projet, en communication et en leadership.
+Développez de nouvelles
+compétences (confiance,
+autonomie, leadership)
+Prenez part à des événements
+et challenges nationaux
+Élargissez votre réseau
+I
+64 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 65 ---
+Une expérience riche et épanouissante. Les associations sont transversales
+et accueillent des élèves des trois écoles du Pôle Léonard de Vinci. L’opportunité pour
+les futurs ingénieurs de collaborer avec des profils orientés créatif ou business.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 65
+
+--- Page 66 ---
+ADMISSIONS & CONCOURS
+Profils
++ Bac général
++ Bac STI2D (Avenir Bac)
++ Bac+1 scientifique et technique (Parcoursup et/ou Avenir Plus)
+Avenir Bac ouvre les portes de 7 écoles d’ingénieurs post-bac
++ CPGE MP, PC, PSI, MPI, PT (Avenir Prépas)
+(ECE, EIGSI, EPF, ESIGELEC, ESILV, ESITC, ESTACA).
++ Prépas ATS, TSI (Avenir Plus)
++ Nombre de places ESILV
++ Licence 1, 2 ou 3 (Avenir Plus)
+. CAMPUS PARIS
++ Master 1 scientifique et technique (Avenir Plus)
+Bac général : 395 (dont maths + spé scientifique : 390,
++ BUT scientifiques (Avenir Plus) : génie mécanique
+toutes autres combinaisons de spécialités : 5)
+et productique, informatique, mesures physiques, génie
+Bac STI2D : 25 / Bac+1 (en réorientation) : 40
+industriel et maintenance, génie électrique et informatique
+. CAMPUS NANTES
+industrielle, génie thermique et énergie, sciences
+Bac général : 85 / Bac+1 (en réorientation) : 10
+et génie des matériaux, réseaux et télécommunication,
+statistiques et informatique décisionnelle… . CAMPUS MONTPELLIER
+Bac général : 85 / Bac+1 (en réorientation) : 10
++ BTS scientifiques avec mention
+(uniquement pour la filière apprentissage) Inscriptions du 14 janvier au 12 mars 2026* sur www.parcoursup.fr
++ Épreuves : 2 mai 2026 (Général Maths + spé scientifique)
+Comment candidater avec un diplôme étranger ? 11 avril 2026 (STI2D et Général autres combinaisons de spécialités)
+Les titulaires d’un baccalauréat scientifique étranger ou + Frais de candidature
+de diplômes exclusivement étrangers doivent candidater Bac général : 120€ (30€ pour les boursiers)
+directement à l’ESILV à partir de novembre 2025 Bac STI2D : 75€ (15€ pour les boursiers)
+sur http://international.leonard-de-vinci.net + Plus d’infos, entraînement en ligne et JPCA (Journées
++ Admission sur dossier scolaire et entretien de motivation de Préparation au Concours Avenir) sur www.concoursavenir.fr
+*Selon le calendrier défini par le Ministère de l'Enseignement
+Supérieur, de la Recherche et de l'Innovation (MESRI)
+PROGRAMME RESTART@DEVINCI ÉLÈVES DE CLASSES PRÉPARATOIRES SCIENTIFIQUES
+Pour une rentrée en février 2026 (Paris uniquement) AUX GRANDES ÉCOLES (MP, PC, PSI, PT, MPI)
+Élèves de 1re année d’enseignement supérieur (L1 PASS, + Nombre de places ESILV Paris (FISE)
+LAS ou Scientifique, Maths Sup, BUT 1ère année ou autres) MP : 63 / PC : 36 / PSI : 63 / MPI : 10 / PT : 36
++ Admission sur dossier scolaire et entretien de motivation + Nombre de places ESILV Paris (FISEA)
++ Nombre de places : 50 MP : 10 / PC : 3 / PSI : 4 / MPI : 2 / PT : 3
++ Inscriptions en ligne, à partir du 6 novembre 2025, + Nombre de places ESILV Nantes
+via le portail Avenir+ sur www.concoursavenir.fr MP : 7 / PC : 4 / PSI : 10 / MPI : 2 / PT : 4
++ Frais de candidature : 100€ (40€ pour les boursiers) + Inscriptions en ligne sur www.scei-concours.fr
++ Frais de candidature :
+Banque e3a-Polytech/Banque PT : 65€ (10€ pour les boursiers)
+TITULAIRES D’UN BAC+1 À BAC+4
+SCIENTIFIQUE OU TECHNIQUE
+Admissions parallèles (hors apprentissage)
++ Admission après examen du dossier
+et entretien de motivation
++ Nombre de places :
+40 en 2e année / 30 (Paris) + 5 (Nantes) + 5 (Montpellier) ADMISSION EN APPRENTISSAGE
+45 en 3e année / 40 (Paris) + 5 (Nantes)
+Pour les titulaires d’un Bac+2, Bac+3 ou Bac+4
+20 en 4e année / 15 (Paris) + 5 (Nantes)
+(BUT, BTS avec mention, L3, Licence professionnelle et M1)
++ Inscriptions en ligne, à partir de mi-janvier 2026,
+via le portail Avenir+ sur www.concoursavenir.fr + Admissibilité après examen du dossier, épreuves de mathématiques
+et d’anglais, entretien de motivation
++ Frais de candidature : 100€ (40€ pour les boursiers)
++ Admission après signature d’un contrat d’apprentissage avec
+une entreprise
++ Nombre de places ESILV Paris : 90 en FISA 1re année du cycle
+ingénieur, 15 places en 2e année du cycle ingénieur, 5 en FISEA
++ Nombre de places ESILV Nantes : 15 en 1re année du cycle ingénieur
++ Inscriptions en ligne, à partir de novembre 2025, sur www.esilv.fr
++ Frais de candidature : 50€ (gratuit pour les boursiers)
+I
+66 ESILV DE VINCI ENGINEERING SCHOOL
+
+--- Page 67 ---
+Financer ses
+études d’ingénieur
++ Frais de scolarité
+Candidats
+. Pour 2025-2026, le coût de la formation est de 11 400 €
+par an.
+internationaux
+. Double diplôme Ingénieur-Manager : 2 000 € par an en sus
+du tarif initial
+. Des frais supplémentaires s’ajoutent à ces montants :
+Vous êtes titulaire d’un baccalauréat CVEC (Contribution Vie Étudiante et de Campus),
+international ou étudiez dans un restauration, transport, ainsi que les frais de vie pour
+établissement d’enseignement supérieur le séjour à l’étranger.
+. I l est possible de financer partiellement ses études
+à l’étranger ?
+par des jobs et des stages : le service admissions
+Vous êtes concerné par la procédure
+de l’ESILV conseille les étudiants et les familles pour trouver
+d’admission internationale. des solutions de financement adaptées.
++ Réduction des frais de scolarité
+Elles sont accordées par l’école sur la base de critères sociaux
+et viennent s’ajouter aux Bourses d’État. Le montant
+des réductions pour les boursiers diffère selon les échelons.
++ Prêts bancaires
+Les banques partenaires de l’ESILV proposent des prêts
+à des taux et conditions préférentiels aux élèves de l’école.
++ Formation par l’alternance
+Pour plus de renseignements, contactez Tout ou partie du cursus ingénieur peut être suivi dans
+le service des admissions internationales le cadre d’un contrat en alternance. Dans ce cas, l’étudiant
+devient salarié, il est rémunéré et c’est l’entreprise qui finance
+international.admission@devinci.fr sa formation.
++33 (0)7 86 16 74 66 via WhatsApp
++ Stages obligatoires
+Une partie du cursus ingénieur (13 à 15 mois) se déroule
+en entreprise, en stage rémunéré.
++ De Vinci Junior
+L’étudiant a la possibilité de réaliser pour des entreprises
+des missions rémunérées d’étude ou de recherche.
++ Monitorat
+L’ESILV propose à ses étudiants des missions administratives
+ou pédagogiques rémunérées.
+I
+DE VINCI ENGINEERING SCHOOL ESILV 67
+
+--- Page 68 ---
+leutcartnoc
+non
+tnemucoD
+-
+5202/11
+-
+©otohpkcotSi
+/
+eB
+ti
+teL
+ecnega
+/
+icniV
+ed
+dranoéL
+elôP
+:
+sotohp
+tidérC
+Journées
+por tes
+ouver tes
+L'ESILV organise des journées portes
+ouvertes, des journées d’immersion
+et des webinaires tout au long de l’année.
+Consultez notre site Internet
+pour découvrir les prochaines dates.
+Pour toute question, contactez
+PLUS D’INFOS SUR ESILV.FR le Service Admissions :
+admissions@esilv.fr / 01 81 00 28 38
+Pôle Léonard de Vinci
+12 avenue Léonard de Vinci
+92400 Courbevoie
+ESILV.FR
+#PoleDeVinci
+
+
 ================================================================================
-SOURCE: https://www.esilv.fr/formations/
-SCRAPED: 2025-12-16T17:22:57.398608
+END OF DOCUMENT
 ================================================================================
-
-Presse Actus Agenda Projets Menu Cursus Généraliste en 5 ans, dédié au numérique Étudier à l’ESILV, c’est acquérir un savoir-faire et des compétences opérationnelles. C’est aussi s’ouvrir à l’entreprise pendant sa formation. Enseignement en petits groupes, travail en équipe, pédagogie par projet, sport, stages, expériences internationales contribuent au développement et à la réussite de chaque étudiant. MSc Innovation & Creative Technology This MSc programme targets engineering or design students aiming to bridge the gap between research, innovation and manufacturing in a transdisciplinary environment. Lire la suite → MSc Financial Engineering Created to master the complexities of modern finance with a focus on quantitative analysis, financial markets, and advanced data-driven decision-making. Lire la suite → MSc Aeronautical & Aerospatial Engineering Designed for engineering students aiming to specialize in the aeronautical and aerospatial sectors, bridging the gap between design, development, and practical applications in a multidisciplinary context. Lire la suite → MSc Fintech & Digital Banking Developed in collaboration with EMLV Business School, combines business principles with engineering expertise to equip students with the skills needed for the rapidly evolving world of financial technology. Lire la suite → Prépa intégrée (Cursus ingénieur) En mettant l’accent sur l’acquisition de connaissances solides et la découverte de l’entreprise, le cycle préparatoire propose une formation généraliste et amène les élèves à acquérir l’ensemble des bases scientifiques nécessaires pour intégrer le cycle ingénieur. Enseignements, projets, développement des soft skills et des méthodologies de travail, contrôle continu des connaissances, stage… la variété des matières construisent […] Lire la suite → Cycle ingénieur Le cycle ingénieur de l’ESILV est composé d’une année de tronc commun et de deux ans de spécialisation via les majeures. La première année ingénieur est dédiée aux consolidations scientifiques et techniques et à l’acquisition des premières compétences professionnelles. Les deux dernières années du parcours sont consacrées à la construction des compétences, au libre choix […] Lire la suite → English Track (Cursus Ingénieur) L’English Track, pour une immersion immédiate dans un environnement international dès la 1ère année du cursus ingénieur Pour accompagner au mieux les élèves de 1ère année de prépa intégrée ayant déjà un bon niveau d’anglais, l’ESILV propose de suivre son cursus ingénieur en « full english » sur 5 ans : English Track : 3 […] Lire la suite → Bachelor Informatique & Cybersécurité L’ESILV propose un Bachelor post-bac en trois ans, conférant le grade de Licence. Le programme est généraliste et forme à toutes les disciplines du numérique, en bénéficiant de l’expertise et des installations d’une école d’ingénieurs. Acquérir un socle solide en développement logiciel, conception et modélisation Choisir le Bachelor Informatique & Cybersécurité de l’ESILV, c’est entrer […] Lire la suite → Bachelor Technologie & Management L’ESILV propose un Bachelor post-bac en trois ans en commun avec l’EMLV, école de commerce. Choisir le Bachelor Technologie & Management, c’est relever le challenge d’adapter les entreprises aux technologies connectées. Acquérir des fondamentaux dans les domaines du numérique et du management Fruit du meilleur de deux grandes écoles du Pôle Léonard de Vinci, l’ESILV […] Lire la suite → MSc Computer Science & Data Science Accessible à bac+3, le MSc Computer Science & Data Science est une formation en alternance en deux ans qui prépare les étudiants aux métiers de l’informatique appliqués au traitement de la donnée. Expertise data & informatique : levier de réussite organisationnelle Le MSc Computer Science & Data Science est destiné à un public d’étudiants en […] Lire la suite → MSc Cyber Resilience & Crisis Leadership Accessible à bac+3, le MSc Cyber Resilience and Crisis Leadership est une formation en alternance en deux ans qui fournit aux étudiants les clés pour engager les organisations dans une démarche de résilience stratégique cruciale pour affronter les dangers numériques. Développer une vision stratégique du risque cyber Le MSc Cyber Resilience and Crisis Leadership est […] Lire la suite → Double-diplôme Design Industriel & Ingénierie Accessible aux titulaires d’un Bac+3, le double diplôme en Design Industriel & Ingénierie est une formation de trois ans, dispensée en anglais, qui prépare les étudiants à devenir des professionnels polyvalents capables de relever les défis complexes liés aux avancées technologiques, aux enjeux écologiques et aux transformations de l’industrie. Allier design et ingénierie pour une […] Lire la suite → Restart-PostBac Vous êtes inscrit en première année et votre orientation ne vous satisfait pas ? Vous voulez être sûr(e) de trouver la formation supérieure qui vous convient sans perdre une année d’étude ? L’ESILV vous offre la possibilité d’intégrer une école d’ingénieur en février 2026 sans perdre votre année. 90% de réussite en passage en année […] Lire la suite → Parcours Sportifs de Haut Niveau Etudes d’ingénieur et Sport de Haut Niveau : Pourquoi Choisir ? Concilier un parcours en école d’ingénieurs et le sport de haut niveau, c’est possible ! L’ESILV accueille les sportifs de haut niveau (SHN) dans les conditions les plus favorables pour leur permettre de concilier les enjeux liés à leur carrière et leurs études supérieures […] Lire la suite → Mastère Spécialisé expert en modélisation numérique des systèmes et processus industriels Une formation en alternance aux métiers du conseil numérique, en partenariat avec Dassault Systèmes Devenez expert en modélisation numérique des systèmes et processus industriels Dotés de compétences fondamentales et techniques en management du cycle de vie de produit (PLM), en méthodes et technologies numériques ainsi qu’en intégration des logiciels et matériels, vous répondrez aux exigences de la performance industrielle. […] Lire la suite → Double diplôme Ingénieur-Manager Le programme Ingénieur-Manager de l’EMLV, développé en partenariat avec l’ESILV incarne pleinement depuis sa création en 2015 la stratégie d’hybridation portée par le Pôle Léonard de Vinci. Il répond à un besoin croissant du marché : former des profils capables d’allier rigueur technique, vision stratégique et compétences humaines dans un monde en transformation technologique accélérée. […] Lire la suite → 1 2 Brochure Candidature En savoir plus ? Demandez-nous une documentation ! Les champs marqués d'un astérisque ( * ) sont à remplir obligatoirement et correctement. Cursus Ingénieur (Paris) Cursus Ingénieur (Nantes) Cursus Ingénieur (Montpellier) Bachelor Ingénierie Numérique Bachelor Technologie & Management MSc Cyber Resilience & Crisis Leadership MSc Computer Science MS Modélisation Numérique Paris Montpellier Nantes Civilité * Madame Monsieur Votre pays FRANCE ETATS-UNIS AFGHANISTAN AFRIQUE DU SUD ALBANIE ALGERIE ALLEMAGNE ANDORRE ANGLETERRE ANGOLA ANTIGUA ET BARBADE ANTILLES BRITANIQUES ANTILLES FRANCAISES ARABIE SAOUDITE ARGENTINE ARMENIE ASIE AUSTRALIE AUTRICHE AZERBAIDJAN BAHAMAS BAHREIN BANGLADESH BARBADE BELGIQUE BELIZE BENIN BERMUDES BHOUTAN BIELORUSSIE BIRMANIE BOLIVIE BOSNIE HERZEGOVINE BOTSWANA BRESIL BRUNEI BULGARIE BURKINA FASO BURUNDI C.E.I CAMBODGE CAMEROUN CANADA CAP-VERT CHILI CHINE CHYPRE COLOMBIE COMMUNAUTE EUROPEENNE COMORES CONGO COREE DU NORD COREE DU SUD COSTA RICA COTE D'IVOIRE CROATIE CUBA DANEMARK DJIBOUTI DOMINIQUE ECOSSE EGYPTE EMIRATS ARABES UNIS EQUATEUR ERYTHREE ESPAGNE ESTONIE ETHIOPIE FIDJI FINLANDE GABON GAMBIE GEORGIE GHANA GRANDE BRETAGNE GRECE GRENADE GUADELOUPE GUATEMALA GUINEE GUINEE BISSAU GUINEE-EQUATORIAL GUYANA GUYANE HAITI HAUTE VOLTA HONDURAS HONG-KONG HONGRIE ILE DE LA REUNION ILES ANGLO NORMANDES ILES CANARIES ILES CAYMANS INDE INDONESIE IRAK IRAN IRLANDE ISLANDE ISRAEL ITALIE JAMAIQUE JAPON JORDANIE KAZAKHSTAN KENYA KIRGHYSTAN KIRIBATI KOWEIT LAOS LESOTHO LETTONIE LIBAN LIBERIA LIBYE LIECHTENSTEIN LITUANIE LUXEMBOURG MACAO MACEDOINE MADAGASCAR MALAISIE MALAWI MALDIVES MALI MALTE MAROC MARSHALL MARTINIQUE MAURICE MAURITANIE MAYOTTE MELANESIE MEXIQUE MICRONESIE MOLDAVIE MONACO MONGOLIE MOZAMBIQUE NAMIBIE NAURU NEPAL NICARAGUA NIGER NIGERIA NORVEGE NOUVELLE-CALEDONIE NOUVELLES-HEBRIDES NOUVELLE-ZELANDE OCEANIE OMAN OUGANDA OUZBEKISTAN PACIFIQUE SUD PAKISTAN PALAOS PANAMA PAPOUASIE-NOUVELLE-GUINEE PARAGUAY PAYS DE GALLES PAYS-BAS PEROU PHILIPPINES POLOGNE POLYNESIE FRANCAISE PORTO RICO PORTUGAL PRINICPAUTE DE MONACO QATAR QUEBEC REPUBLIQUE CENTRAFRICAINE REPUBLIQUE DE NAMIBIE REPUBLIQUE DEMOCRATIQUE DU CONGO REPUBLIQUE DOMINICAINE REPUBLIQUE TCHEQUE ROUMANIE ROYAUME-UNI RUSSIE RWANDA SAINT-CHRISTOPHE-ET-NIEVES SAINTE-LUCIE SAINT-MARIN SAINT-PIERRE-ET-MIQUELON SAINT-VINCENT-ET-LES-GRENADINES SALOMON SALVADOR SAMOA SAOTOME ET PRINCIPE SENEGAL SERBIE ET MONTENEGRO SEYCHELLES SIERRA-LEONE SINGAPOUR SLOVAQUIE SLOVENIE SOMALIE SOUDAN SRI LANKA SUEDE SUISSE SURINAM SWAZILAND SYRIE TADJIKISTAN TAHITI TAIWAN TANZANIE TCHAD THAILANDE TIMOR ORIENTAL TOGO TONGA TRINITE ET TOBAGO TUNISIE TURKMENISTAN TURQUIE TUVALU UKRAINE UNION INDIENNE URUGUAY UZBEKISTAN VANUATU VATICAN VENEZUELA VIET-NAM YEMEN ZAMBIE ZIMBABWE FRANCE (DOM/TOM) Votre niveau actuel* Seconde Seconde Premiere Premiere Terminale Terminale Bac+1 Bac+1 licence Bac+1 Bachelor Bac+1 BTS Bac+1 BUT Bac+1 Ecole de Commerce Bac+1 Ecole d'ingénieur Bac+1 Non précisé Bac+2 Bac+2 CPGE Bac+2 licence Bac+2 Bachelor Bac+2 BTS Bac+2 BUT Bac+2 Ecole de Commerce Bac+2 Ecole d'ingénieur Bac+2 Non précisé Bac+3 Bac+3 licence Bac+3 BUT Bac+3 Bachelor Bac+3 Ecole de Commerce Bac+3 Ecole d'ingénieur Bac+3 Non précisé Bac+4 Bac+4 Master 1 Bac+4 Master 2 Bac+4 Bachelor Bac+4 Ecole de Commerce Bac+4 Ecole d'ingénieur Bac+4 Non précisé Bac+5 Bac+5 Master 2 Bac+5 Ecole de commerce 5ans Bac+5 Ecole ingenieur 5ans Bac+5 Ecole web 5ans Bac+5 Ecole autre 5ans Bac+5 Non précisé Doctorat Doctorat En validant ce formulaire, vous acceptez que De Vinci Higher Education traite vos données à caractère personnel pour répondre à votre demande de contact et ainsi recevoir la documentation demandée. Si vous y avez consenti, vous êtes également susceptible de recevoir la newsletter du Groupe Léonard de Vinci. Vos données sont transmises aux collaborateurs de notre direction marketing ayant besoin d’en connaître et sont conservées pour une durée de deux ans à compter de votre dernière demande. Vous disposez des droits suivants sur vos données : droit d’accès, droit de rectification, droit à l’effacement (droit à l’oubli), droit d’opposition, droit à la limitation du traitement, droit à la portabilité et du droit de retirer votre consentement. Vous pouvez également définir des directives générales ou particulières relatives au sort de vos données à caractère personnel après votre décès. Pour les exercer, merci d’adresser votre demande à DVHE - Pôle Universitaire Léonard De Vinci - 92916 Paris La Défense Cedex ou à webmaster@devinci.fr. En cas de réclamation, vous pouvez choisir de saisir la CNIL. Pour en savoir plus, consultez la politique de protection des données personnelles . Nos brochures en téléchargement : Bochure Cursus Ingénieur Livret pédagogique cursus ingénieur ESILV Brochure Bachelor Informatique & Cybersécurité Brochure FR MSc Cyber Resilience & Crisis Leadership Brochure MS Modélisation & Industrie Brochure Bachelors Brochure Alternance Brochure Bachelor Technologie & Management Brochure FR MSc Computer Science & Data Science Brochure Sportifs de Haut Niveau Prochains évènements 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Evènements 24 Jan : Portes Ouvertes (Campus Nantes) Plus d'infos 24 Jan : Portes Ouvertes (Campus Paris) Plus d'infos 24 Jan : Portes Ouvertes (Campus Montpellier) Plus d'infos 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur Plus d'infos 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Plus d'infos 30 Mar : De Vinci International Week Plus d'infos 02 Avr : Forum Alternance : ingénieur, management, digital Plus d'infos 03 Avr : Showroom projets ingénieurs ESILV 4e année Plus d'infos Ecole Supérieure d'Ingénieurs Léonard de Vinci Paris • Nantes • Montpellier Tél. : +33 1 81 00 28 38 admissions@esilv.fr Recrutement Plan d’accès / Mentions légales / 10 bonnes raisons d’intégrer l’ESILV / 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) X X Ce site utilise des cookies pour améliorer votre expérience En cliquant sur "Je suis d'accord", vous donnez votre consentement pour tous les cookies. Lire la suite Réglages Tout refuser OK, J'ACCEPTE ! Manage consent Fermer Gestion de la vie privée Ce site web utilise des cookies pour améliorer votre expérience lorsque vous naviguez sur le site. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels pour le fonctionnement des fonctionnalités de base du site web. Nous utilisons également des cookies de tiers qui nous aident à analyser et à comprendre comment vous utilisez ce site web. Ces cookies ne seront stockés dans votre navigateur qu'avec votre consentement. Vous avez également la possibilité de refuser ces cookies. Toutefois, la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation. Essentiels Essentiels Toujours activé Ces cookies sont absolument nécessaires pour le bon fonctionnement du site web. Cette catégorie ne comprend que les cookies qui assurent les fonctionnalités de base et les fonctions de sécurité du site web. Ces cookies ne stockent aucune information personnelle. Fonctionnels functional Les cookies fonctionnels permettent de réaliser certaines fonctionnalités comme le partage du contenu du site web sur les plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces. Préférences preferences Les cookies de préférence sont utilisés pour stocker les préférences des utilisateurs afin de fournir un contenu personnalisé et pratique pour les utilisateurs, comme la langue du site web ou l'emplacement du visiteur. Analytics analytics Les cookies analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site web. Ces cookies permettent de fournir des informations sur les mesures du nombre de visiteurs, le taux de rebond, la source de trafic, etc. Marketing advertisement Les cookies publicitaires sont utilisés pour fournir aux visiteurs des publicités et des campagnes de marketing pertinentes. Ces cookies suivent les visiteurs sur les sites web et recueillent des informations pour fournir des publicités personnalisées. Non Necessary non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. Tout refuser Save My Preferences OK, J'ACCEPTE ! English Français
-
-
-================================================================================
-SOURCE: https://www.esilv.fr/formations/cycle-ingenieur/
-SCRAPED: 2025-12-16T17:22:58.594122
-================================================================================
-
-Presse Actus Agenda Projets Menu Cycle ingénieur Ingénieur généraliste au coeur des technologies numériques Le cycle ingénieur de l’ESILV est composé d’une année de tronc commun et de deux ans de spécialisation via les majeures. La première année ingénieur est dédiée aux consolidations scientifiques et techniques et à l’acquisition des premières compétences professionnelles. Les deux dernières années du parcours sont consacrées à la construction des compétences, au libre choix de l’élève. La première année du cycle ingénieur, un tronc commun La troisième année est une année généraliste charnière, correspondant à la fois à la fin du cycle Préparatoire et au début du cycle Ingénieur. L’étudiant a la possibilité de composer une partie de son cursus avec des enseignements correspondant à son projet professionnel. Début du cycle Ingénieur Acquisitions de compétences professionnalisantes : Gestion de projets, statistiques, analyse numérique, programmation orientée objet, gestion financière de l’entreprise Implication individuelle, pédagogie par projets, pédagogie active en petits groupes Choix de modules scientifiques (électifs) pour individualiser son parcours et s’orienter 20% du programme est constitué de cours transversaux : soft skills, ouverture internationale, sport obligatoire Un accueil personnalisé pour les élèves intégrés en 3e année Les élèves qui rejoignent l’école en 3ᵉ année bénéficient d’un accueil spécifique avec un complément de formation dispensé sur plusieurs semaines, axé sur les fondamentaux en informatique et en statistiques, une ouverture sur des compétences pratiques comme la mécatronique, un parcours fabrication exploitant les ressources du Pôle Léonard de Vinci – dont le FabLab – et enfin une composante soft skills appliquée à la communication orale. Choisir sa Majeure et construire son projet professionnel • Cycle de conférences et de séminaires . La carrière d’un ingénieur . Mixité et égalité professionnelle . Construire son réseau professionnel . Éthique de l’ingénieur • Journée du choix de la Majeure . Présentation des enjeux, compétences, secteurs d’activité et métiers pour chaque Majeure . Ateliers questions / réponses . Témoignages d’anciens et d’élèves en dernière année • Les enseignements électifs Les enseignements électifs permettent à l’élève de personnaliser son cursus en cohérence avec son projet professionnel. Chaque élève a l’opportunité de découvrir ou d’approfondir certains sujets, d’élargir le champ de ses connaissances et compétences. Il peut ainsi tester un enseignement afin de choisir sa Majeure de 4ème année en toute connaissance de cause. C’est aussi l’occasion de rencontrer l’équipe pédagogique de la Majeure. L’internationalisation dès la 3ᵉ année La dimension internationale est l’un des enjeux du cycle ingénieur. Dès la 3ᵉ année, les élèves-ingénieurs ont l’opportunité de vivre des expériences internationales. • Départ en semestre académique d’échange De nombreuses destinations sont proposées pour un départ en 3ème année : États-Unis, Espagne, Chine, Italie, Irlande, Finlande, Lettonie, Canada, Corée, Chili, Pays-Bas… Pour affirmer un profil très international, les élèves peuvent aussi repartir en 5ème année, en particulier pour un double diplôme. • Semaine internationale Elle accueille chaque printemps des professeurs et experts du monde entier. Les étudiants de 3ème année peuvent suivre des séminaires et conférences sur des thèmes variés. La Semaine internationale est un moment unique d’échanges et d’ouverture à d’autres connaissances et à d’autres points de vue. La construction des compétences en années 4 et 5 Les deux dernières années du cycle permettent à l’élève-ingénieur de se projeter vers son projet. Chaque élève construit ainsi son propre parcours en affinant ses choix : majeures, parcours, international, stages, doubles diplômes… Deux années rythmées par des enseignements, des projets et des stages La 4ᵉ année est l’année où l’élève entre pleinement dans sa majeure. Enseignée entièrement en langue anglaise, cette année lui permet d’acquérir les fondamentaux de la majeure choisie et de les développer tout au long de l’année dans le cadre du projet PI2 A4. Durant le stage technique de fin de 4ᵉ année, les élèves mettent en œuvre durant 4 à 5 mois leurs apprentissages dans des missions complexes et techniques. Les enseignements de 5ᵉ année développent des savoir-faire de haut niveau et à forte valeur ajoutée. La 5ᵉ année place l’élève au cœur des enjeux et défis de sa majeure et des secteurs d’activité associés. Le projet PI² A5 confronte chaque groupe d’élèves à des projets ambitieux, innovants et complets et leur permet de démontrer leur expertise et leur capacité à mener un projet de bout en bout. Le stage de fin d’études, qui constitue le plus souvent un stage de pré-embauche, finalise l’investissement des cinq années et prend la forme d’une véritable mission d’ingénieur en entreprise. Des parcours multiples Au cours des 4ᵉ et 5ᵉ années, les élèves ont la possibilité de choisir une partie de leur cursus. Un parcours supplémentaire est possible en 4ᵉ ou 5ᵉ année, qui s’articule d’enseignements dédiés à un enjeu d’ouverture. Des électifs d’ouverture. Chaque élève peut suivre, selon son choix, des modules proposés en transversalité avec les entités du Pôle Léonard de Vinci lui permettant de s’ouvrir à de nouvelles thématiques et enjeux industriels de demain. Quelques exemples : UX Design, Quantique, Entrepreneuriat … L’entreprise et l’insertion présentes tout au long du cycle ingénieur Les séminaires métiers en 4ᵉ année constituent un moment d’échanges entre les élèves-ingénieurs et les diplômés de l’école. Ceux-ci viennent partager leurs expériences sur leur parcours et leurs métiers afin d’aider les futurs ingénieurs à construire leur projet professionnel. Des conférences et des interventions d’entreprises ponctuent la 5ᵉ année pour accompagner le début de carrière. Les évènements de recrutements, où plusieurs centaines d’entreprises sont présentes chaque année, est une occasion d’échanges directs avec les entreprises. Les majeures Les majeures sont au libre choix des élèves. L’enseignement est complété par des cours de gestion, de droit, d’innovation, de langues et de sport. La 5ᵉ année peut être consacrée à un projet d’entrepreneuriat avec possibilité de double diplôme avec L’EMLV. Voir les majeures Filière en alternance Le cursus ingénieur peut également s’effectuer en apprentissage, en collaboration avec le CFA du Pôle. Les étudiants apprentis sont issus de BUT, BTS, L2, L3, CPGE et du cycle préparatoire ESILV. Plus sur l’alternance Les stages et projets Les élèves sont au contact de l’entreprise pendant la totalité de leur cursus par le biais de projets, stages ou conférences. Les étudiants travaillent sur des problématiques concrètes et confrontent en permanence leurs connaissances à la réalité de l’entreprise. Plus sur l’insertion professionnelle L’international Les élèves-ingénieurs doivent de façon obligatoire réaliser un semestre d’études à l’étranger au minimum pendant la durée du cycle ingénieur, dans l’une des nombreuses universités partenaires de l’ESILV. 100% des élèves effectuent un semestre à l’étranger. Plus sur l’international Cursus MSc Aeronautical & Aerospatial Engineering MSc Financial Engineering MSc Innovation & Creative Technology MSc Fintech & Digital Banking Prépa intégrée (Cursus ingénieur) Cycle ingénieur English Track (Cursus Ingénieur) Bachelor Informatique & Cybersécurité Bachelor Technologie & Management MSc Computer Science & Data Science MSc Cyber Resilience & Crisis Leadership Double-diplôme Design Industriel & Ingénierie Restart-PostBac Parcours Sportifs de Haut Niveau Mastère Spécialisé expert en modélisation numérique des systèmes et processus industriels Brochure Candidature En savoir plus ? Demandez-nous une documentation ! Les champs marqués d'un astérisque ( * ) sont à remplir obligatoirement et correctement. Cursus Ingénieur (Paris) Cursus Ingénieur (Nantes) Cursus Ingénieur (Montpellier) Bachelor Ingénierie Numérique Bachelor Technologie & Management MSc Cyber Resilience & Crisis Leadership MSc Computer Science MS Modélisation Numérique Paris Montpellier Nantes Civilité * Madame Monsieur Votre pays FRANCE ETATS-UNIS AFGHANISTAN AFRIQUE DU SUD ALBANIE ALGERIE ALLEMAGNE ANDORRE ANGLETERRE ANGOLA ANTIGUA ET BARBADE ANTILLES BRITANIQUES ANTILLES FRANCAISES ARABIE SAOUDITE ARGENTINE ARMENIE ASIE AUSTRALIE AUTRICHE AZERBAIDJAN BAHAMAS BAHREIN BANGLADESH BARBADE BELGIQUE BELIZE BENIN BERMUDES BHOUTAN BIELORUSSIE BIRMANIE BOLIVIE BOSNIE HERZEGOVINE BOTSWANA BRESIL BRUNEI BULGARIE BURKINA FASO BURUNDI C.E.I CAMBODGE CAMEROUN CANADA CAP-VERT CHILI CHINE CHYPRE COLOMBIE COMMUNAUTE EUROPEENNE COMORES CONGO COREE DU NORD COREE DU SUD COSTA RICA COTE D'IVOIRE CROATIE CUBA DANEMARK DJIBOUTI DOMINIQUE ECOSSE EGYPTE EMIRATS ARABES UNIS EQUATEUR ERYTHREE ESPAGNE ESTONIE ETHIOPIE FIDJI FINLANDE GABON GAMBIE GEORGIE GHANA GRANDE BRETAGNE GRECE GRENADE GUADELOUPE GUATEMALA GUINEE GUINEE BISSAU GUINEE-EQUATORIAL GUYANA GUYANE HAITI HAUTE VOLTA HONDURAS HONG-KONG HONGRIE ILE DE LA REUNION ILES ANGLO NORMANDES ILES CANARIES ILES CAYMANS INDE INDONESIE IRAK IRAN IRLANDE ISLANDE ISRAEL ITALIE JAMAIQUE JAPON JORDANIE KAZAKHSTAN KENYA KIRGHYSTAN KIRIBATI KOWEIT LAOS LESOTHO LETTONIE LIBAN LIBERIA LIBYE LIECHTENSTEIN LITUANIE LUXEMBOURG MACAO MACEDOINE MADAGASCAR MALAISIE MALAWI MALDIVES MALI MALTE MAROC MARSHALL MARTINIQUE MAURICE MAURITANIE MAYOTTE MELANESIE MEXIQUE MICRONESIE MOLDAVIE MONACO MONGOLIE MOZAMBIQUE NAMIBIE NAURU NEPAL NICARAGUA NIGER NIGERIA NORVEGE NOUVELLE-CALEDONIE NOUVELLES-HEBRIDES NOUVELLE-ZELANDE OCEANIE OMAN OUGANDA OUZBEKISTAN PACIFIQUE SUD PAKISTAN PALAOS PANAMA PAPOUASIE-NOUVELLE-GUINEE PARAGUAY PAYS DE GALLES PAYS-BAS PEROU PHILIPPINES POLOGNE POLYNESIE FRANCAISE PORTO RICO PORTUGAL PRINICPAUTE DE MONACO QATAR QUEBEC REPUBLIQUE CENTRAFRICAINE REPUBLIQUE DE NAMIBIE REPUBLIQUE DEMOCRATIQUE DU CONGO REPUBLIQUE DOMINICAINE REPUBLIQUE TCHEQUE ROUMANIE ROYAUME-UNI RUSSIE RWANDA SAINT-CHRISTOPHE-ET-NIEVES SAINTE-LUCIE SAINT-MARIN SAINT-PIERRE-ET-MIQUELON SAINT-VINCENT-ET-LES-GRENADINES SALOMON SALVADOR SAMOA SAOTOME ET PRINCIPE SENEGAL SERBIE ET MONTENEGRO SEYCHELLES SIERRA-LEONE SINGAPOUR SLOVAQUIE SLOVENIE SOMALIE SOUDAN SRI LANKA SUEDE SUISSE SURINAM SWAZILAND SYRIE TADJIKISTAN TAHITI TAIWAN TANZANIE TCHAD THAILANDE TIMOR ORIENTAL TOGO TONGA TRINITE ET TOBAGO TUNISIE TURKMENISTAN TURQUIE TUVALU UKRAINE UNION INDIENNE URUGUAY UZBEKISTAN VANUATU VATICAN VENEZUELA VIET-NAM YEMEN ZAMBIE ZIMBABWE FRANCE (DOM/TOM) Votre niveau actuel* Seconde Seconde Premiere Premiere Terminale Terminale Bac+1 Bac+1 licence Bac+1 Bachelor Bac+1 BTS Bac+1 BUT Bac+1 Ecole de Commerce Bac+1 Ecole d'ingénieur Bac+1 Non précisé Bac+2 Bac+2 CPGE Bac+2 licence Bac+2 Bachelor Bac+2 BTS Bac+2 BUT Bac+2 Ecole de Commerce Bac+2 Ecole d'ingénieur Bac+2 Non précisé Bac+3 Bac+3 licence Bac+3 BUT Bac+3 Bachelor Bac+3 Ecole de Commerce Bac+3 Ecole d'ingénieur Bac+3 Non précisé Bac+4 Bac+4 Master 1 Bac+4 Master 2 Bac+4 Bachelor Bac+4 Ecole de Commerce Bac+4 Ecole d'ingénieur Bac+4 Non précisé Bac+5 Bac+5 Master 2 Bac+5 Ecole de commerce 5ans Bac+5 Ecole ingenieur 5ans Bac+5 Ecole web 5ans Bac+5 Ecole autre 5ans Bac+5 Non précisé Doctorat Doctorat En validant ce formulaire, vous acceptez que De Vinci Higher Education traite vos données à caractère personnel pour répondre à votre demande de contact et ainsi recevoir la documentation demandée. Si vous y avez consenti, vous êtes également susceptible de recevoir la newsletter du Groupe Léonard de Vinci. Vos données sont transmises aux collaborateurs de notre direction marketing ayant besoin d’en connaître et sont conservées pour une durée de deux ans à compter de votre dernière demande. Vous disposez des droits suivants sur vos données : droit d’accès, droit de rectification, droit à l’effacement (droit à l’oubli), droit d’opposition, droit à la limitation du traitement, droit à la portabilité et du droit de retirer votre consentement. Vous pouvez également définir des directives générales ou particulières relatives au sort de vos données à caractère personnel après votre décès. Pour les exercer, merci d’adresser votre demande à DVHE - Pôle Universitaire Léonard De Vinci - 92916 Paris La Défense Cedex ou à webmaster@devinci.fr. En cas de réclamation, vous pouvez choisir de saisir la CNIL. Pour en savoir plus, consultez la politique de protection des données personnelles . Nos brochures en téléchargement : Bochure Cursus Ingénieur Livret pédagogique cursus ingénieur ESILV Brochure Bachelor Informatique & Cybersécurité Brochure FR MSc Cyber Resilience & Crisis Leadership Brochure MS Modélisation & Industrie Brochure Bachelors Brochure Alternance Brochure Bachelor Technologie & Management Brochure FR MSc Computer Science & Data Science Brochure Sportifs de Haut Niveau Prochains évènements 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Evènements 24 Jan : Portes Ouvertes (Campus Nantes) Plus d'infos 24 Jan : Portes Ouvertes (Campus Paris) Plus d'infos 24 Jan : Portes Ouvertes (Campus Montpellier) Plus d'infos 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur Plus d'infos 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Plus d'infos 30 Mar : De Vinci International Week Plus d'infos 02 Avr : Forum Alternance : ingénieur, management, digital Plus d'infos 03 Avr : Showroom projets ingénieurs ESILV 4e année Plus d'infos Actualités École d'ingénieurs Capgemini, Renault Group et Dassault Systèmes : Hackathon ESILV autour des enjeux PLM et DPM Date : 03 Dec 2025 Le Hackathon ESILV – PLM (Product Lifecycle Management) & DPM (Data Protection Management) Challenge 2025 a réuni plus de 500 participants de la promo 2026 autour d’enjeux industriels liés au cycle de vie produit...... Lire la suite → MasterClass mc2i : enjeux, cadre légal et usages de l’IA en santé à l’ESILV Date : 28 Nov 2025 La majeure MedTech & Santé a suivi une MasterClass animée par Séfana Benfetita et Amandine Lemay, consultantes mc2i, autour des usages de l’intelligence artificielle en santé, de son cadre réglementaire et des enjeux...... Lire la suite → Rencontres de la Gen’D : les ingénieurs de demain au cœur de la ville durable Date : 12 Nov 2025 La première édition des Rencontres de la Gen’D, organisée par Construction21 en partenariat avec la Fédération CINOV, le CCCA-BTP et Leonard, a réuni étudiants, enseignants-chercheurs et acteurs du monde professionnel...... Lire la suite → Ecole Supérieure d'Ingénieurs Léonard de Vinci Paris • Nantes • Montpellier Tél. : +33 1 81 00 28 38 admissions@esilv.fr Recrutement Plan d’accès / Mentions légales / 10 bonnes raisons d’intégrer l’ESILV / 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) X X Ce site utilise des cookies pour améliorer votre expérience En cliquant sur "Je suis d'accord", vous donnez votre consentement pour tous les cookies. Lire la suite Réglages Tout refuser OK, J'ACCEPTE ! Manage consent Fermer Gestion de la vie privée Ce site web utilise des cookies pour améliorer votre expérience lorsque vous naviguez sur le site. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels pour le fonctionnement des fonctionnalités de base du site web. Nous utilisons également des cookies de tiers qui nous aident à analyser et à comprendre comment vous utilisez ce site web. Ces cookies ne seront stockés dans votre navigateur qu'avec votre consentement. Vous avez également la possibilité de refuser ces cookies. Toutefois, la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation. Essentiels Essentiels Toujours activé Ces cookies sont absolument nécessaires pour le bon fonctionnement du site web. Cette catégorie ne comprend que les cookies qui assurent les fonctionnalités de base et les fonctions de sécurité du site web. Ces cookies ne stockent aucune information personnelle. Fonctionnels functional Les cookies fonctionnels permettent de réaliser certaines fonctionnalités comme le partage du contenu du site web sur les plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces. Préférences preferences Les cookies de préférence sont utilisés pour stocker les préférences des utilisateurs afin de fournir un contenu personnalisé et pratique pour les utilisateurs, comme la langue du site web ou l'emplacement du visiteur. Analytics analytics Les cookies analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site web. Ces cookies permettent de fournir des informations sur les mesures du nombre de visiteurs, le taux de rebond, la source de trafic, etc. Marketing advertisement Les cookies publicitaires sont utilisés pour fournir aux visiteurs des publicités et des campagnes de marketing pertinentes. Ces cookies suivent les visiteurs sur les sites web et recueillent des informations pour fournir des publicités personnalisées. Non Necessary non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. Tout refuser Save My Preferences OK, J'ACCEPTE ! English Français
-
-
-================================================================================
-SOURCE: https://www.esilv.fr/formations/cycle-ingenieur/majeures/
-SCRAPED: 2025-12-16T17:22:59.811561
-================================================================================
-
-Presse Actus Agenda Projets Menu Majeures La construction des compétences de l’ingénieur 15 majeures pour se spécialiser dont 14 possibles en alternance. Les majeures du cursus ingénieur ESILV sont au libre choix des élèves : il n’y a pas de quota. Éco-innovation Alternance | Nantes Développez des solutions innovantes, durables et économes, adaptées aux contextes à faibles ressources Majeure Éco-innovation. Lire la suite → Ingénierie logicielle & IA Alternance | Nantes Développez votre expertise dans la conception de logiciels et d’applications informatiques Majeure Ingénierie Logicielle & Intelligence Artificielle en école d’ingénieurs. Lire la suite → Conception mécanique et Industrie durable Alternance | Nantes Comprenez et maîtrisez les enjeux de la production durable La majeure Conception mécanique et Industrie durable en école d’ingénieurs, diplôme d’ingénieur conférant le grade de master sous réserve de l’autorisation de la CTI. Lire la suite → Cloud computing & cybersécurité Alternance La majeure prépare aux enjeux majeurs que sont la cybersécurité et le cloud computing auxquels sont confrontés toutes les entreprises. Lire la suite → Creative Technology Paris Cette majeure forme au métier de « Creative Technologist » qui consiste à inventer de nouveaux produits ou de nouveaux usages à partir de technologies et connaissances scientifiques de pointe. Lire la suite → MedTech & Santé Alternance | Paris La majeure Santé biotech forme des ingénieurs à même d’évoluer dans l’écosystème pluridisciplinaire de la technologie pour la santé. Lire la suite → Industrie et robotique Alternance | Paris La majeure Industrie et Robotique forme des ingénieurs qui conçoivent et mettent en œuvre des systèmes industriels modernes intégrant nativement les outils et technologies de la révolution digitale. Lire la suite → Data et intelligence artificielle Alternance | Paris Les ingénieurs de cette majeure sont des spécialistes de la donnée : collecte, modélisation, stockage, analyse et interprétation. Lire la suite → Fintech Alternance | Paris Les fintechs forment une nouvelle industrie financière, qui déploie la technologie pour améliorer les activités financières. Lire la suite → Actuariat Alternance | Paris La majeure actuariat forme des ingénieurs rompus aux méthodes de gestion et de prévention du risque, de l’analyse des données et des techniques actuarielles. Lire la suite → Énergie et villes durables Alternance | Paris La majeure forme les ingénieurs à la conception, au développement et à la gouvernance des bâtiments intelligents et des villes durables. Lire la suite → Aérospatial et Défense Plongez au cœur des enjeux technologiques et stratégiques du spatial et de la défense. Cette majeure forme des ingénieurs capables de concevoir, modéliser et piloter des systèmes complexes dans les domaines du spatial et de la sécurité. La Majeure Aérospatial et Défense de l’ESILV propose aux futurs ingénieurs généralistes de développer en 4e et 5e […] Lire la suite → Modélisation et mécanique numérique Alternance | Paris La majeure forme des ingénieurs aptes à concevoir de nouveaux produits et systèmes complexes, en particulier dans l’aéronautique et l’automobile. Lire la suite → Ingénierie financière Alternance | Paris La majeure développe l’ensemble des compétences nécessaires pour comprendre et maîtriser la complexité des marchés financiers. Lire la suite → Objets connectés & cybersécurité Alternance | Paris La majeure forme des ingénieurs à même d’appréhender la conception et le développement d’objets ou de services connectés, de systèmes sécurisés et de les intégrer dans les écosystèmes d’entreprise. Lire la suite → Brochure Candidature En savoir plus ? Demandez-nous une documentation ! Les champs marqués d'un astérisque ( * ) sont à remplir obligatoirement et correctement. Cursus Ingénieur (Paris) Cursus Ingénieur (Nantes) Cursus Ingénieur (Montpellier) Bachelor Ingénierie Numérique Bachelor Technologie & Management MSc Cyber Resilience & Crisis Leadership MSc Computer Science MS Modélisation Numérique Paris Montpellier Nantes Civilité * Madame Monsieur Votre pays FRANCE ETATS-UNIS AFGHANISTAN AFRIQUE DU SUD ALBANIE ALGERIE ALLEMAGNE ANDORRE ANGLETERRE ANGOLA ANTIGUA ET BARBADE ANTILLES BRITANIQUES ANTILLES FRANCAISES ARABIE SAOUDITE ARGENTINE ARMENIE ASIE AUSTRALIE AUTRICHE AZERBAIDJAN BAHAMAS BAHREIN BANGLADESH BARBADE BELGIQUE BELIZE BENIN BERMUDES BHOUTAN BIELORUSSIE BIRMANIE BOLIVIE BOSNIE HERZEGOVINE BOTSWANA BRESIL BRUNEI BULGARIE BURKINA FASO BURUNDI C.E.I CAMBODGE CAMEROUN CANADA CAP-VERT CHILI CHINE CHYPRE COLOMBIE COMMUNAUTE EUROPEENNE COMORES CONGO COREE DU NORD COREE DU SUD COSTA RICA COTE D'IVOIRE CROATIE CUBA DANEMARK DJIBOUTI DOMINIQUE ECOSSE EGYPTE EMIRATS ARABES UNIS EQUATEUR ERYTHREE ESPAGNE ESTONIE ETHIOPIE FIDJI FINLANDE GABON GAMBIE GEORGIE GHANA GRANDE BRETAGNE GRECE GRENADE GUADELOUPE GUATEMALA GUINEE GUINEE BISSAU GUINEE-EQUATORIAL GUYANA GUYANE HAITI HAUTE VOLTA HONDURAS HONG-KONG HONGRIE ILE DE LA REUNION ILES ANGLO NORMANDES ILES CANARIES ILES CAYMANS INDE INDONESIE IRAK IRAN IRLANDE ISLANDE ISRAEL ITALIE JAMAIQUE JAPON JORDANIE KAZAKHSTAN KENYA KIRGHYSTAN KIRIBATI KOWEIT LAOS LESOTHO LETTONIE LIBAN LIBERIA LIBYE LIECHTENSTEIN LITUANIE LUXEMBOURG MACAO MACEDOINE MADAGASCAR MALAISIE MALAWI MALDIVES MALI MALTE MAROC MARSHALL MARTINIQUE MAURICE MAURITANIE MAYOTTE MELANESIE MEXIQUE MICRONESIE MOLDAVIE MONACO MONGOLIE MOZAMBIQUE NAMIBIE NAURU NEPAL NICARAGUA NIGER NIGERIA NORVEGE NOUVELLE-CALEDONIE NOUVELLES-HEBRIDES NOUVELLE-ZELANDE OCEANIE OMAN OUGANDA OUZBEKISTAN PACIFIQUE SUD PAKISTAN PALAOS PANAMA PAPOUASIE-NOUVELLE-GUINEE PARAGUAY PAYS DE GALLES PAYS-BAS PEROU PHILIPPINES POLOGNE POLYNESIE FRANCAISE PORTO RICO PORTUGAL PRINICPAUTE DE MONACO QATAR QUEBEC REPUBLIQUE CENTRAFRICAINE REPUBLIQUE DE NAMIBIE REPUBLIQUE DEMOCRATIQUE DU CONGO REPUBLIQUE DOMINICAINE REPUBLIQUE TCHEQUE ROUMANIE ROYAUME-UNI RUSSIE RWANDA SAINT-CHRISTOPHE-ET-NIEVES SAINTE-LUCIE SAINT-MARIN SAINT-PIERRE-ET-MIQUELON SAINT-VINCENT-ET-LES-GRENADINES SALOMON SALVADOR SAMOA SAOTOME ET PRINCIPE SENEGAL SERBIE ET MONTENEGRO SEYCHELLES SIERRA-LEONE SINGAPOUR SLOVAQUIE SLOVENIE SOMALIE SOUDAN SRI LANKA SUEDE SUISSE SURINAM SWAZILAND SYRIE TADJIKISTAN TAHITI TAIWAN TANZANIE TCHAD THAILANDE TIMOR ORIENTAL TOGO TONGA TRINITE ET TOBAGO TUNISIE TURKMENISTAN TURQUIE TUVALU UKRAINE UNION INDIENNE URUGUAY UZBEKISTAN VANUATU VATICAN VENEZUELA VIET-NAM YEMEN ZAMBIE ZIMBABWE FRANCE (DOM/TOM) Votre niveau actuel* Seconde Seconde Premiere Premiere Terminale Terminale Bac+1 Bac+1 licence Bac+1 Bachelor Bac+1 BTS Bac+1 BUT Bac+1 Ecole de Commerce Bac+1 Ecole d'ingénieur Bac+1 Non précisé Bac+2 Bac+2 CPGE Bac+2 licence Bac+2 Bachelor Bac+2 BTS Bac+2 BUT Bac+2 Ecole de Commerce Bac+2 Ecole d'ingénieur Bac+2 Non précisé Bac+3 Bac+3 licence Bac+3 BUT Bac+3 Bachelor Bac+3 Ecole de Commerce Bac+3 Ecole d'ingénieur Bac+3 Non précisé Bac+4 Bac+4 Master 1 Bac+4 Master 2 Bac+4 Bachelor Bac+4 Ecole de Commerce Bac+4 Ecole d'ingénieur Bac+4 Non précisé Bac+5 Bac+5 Master 2 Bac+5 Ecole de commerce 5ans Bac+5 Ecole ingenieur 5ans Bac+5 Ecole web 5ans Bac+5 Ecole autre 5ans Bac+5 Non précisé Doctorat Doctorat En validant ce formulaire, vous acceptez que De Vinci Higher Education traite vos données à caractère personnel pour répondre à votre demande de contact et ainsi recevoir la documentation demandée. Si vous y avez consenti, vous êtes également susceptible de recevoir la newsletter du Groupe Léonard de Vinci. Vos données sont transmises aux collaborateurs de notre direction marketing ayant besoin d’en connaître et sont conservées pour une durée de deux ans à compter de votre dernière demande. Vous disposez des droits suivants sur vos données : droit d’accès, droit de rectification, droit à l’effacement (droit à l’oubli), droit d’opposition, droit à la limitation du traitement, droit à la portabilité et du droit de retirer votre consentement. Vous pouvez également définir des directives générales ou particulières relatives au sort de vos données à caractère personnel après votre décès. Pour les exercer, merci d’adresser votre demande à DVHE - Pôle Universitaire Léonard De Vinci - 92916 Paris La Défense Cedex ou à webmaster@devinci.fr. En cas de réclamation, vous pouvez choisir de saisir la CNIL. Pour en savoir plus, consultez la politique de protection des données personnelles . Nos brochures en téléchargement : Bochure Cursus Ingénieur Livret pédagogique cursus ingénieur ESILV Brochure Bachelor Informatique & Cybersécurité Brochure FR MSc Cyber Resilience & Crisis Leadership Brochure MS Modélisation & Industrie Brochure Bachelors Brochure Alternance Brochure Bachelor Technologie & Management Brochure FR MSc Computer Science & Data Science Brochure Sportifs de Haut Niveau Prochains évènements 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Evènements 24 Jan : Portes Ouvertes (Campus Nantes) Plus d'infos 24 Jan : Portes Ouvertes (Campus Paris) Plus d'infos 24 Jan : Portes Ouvertes (Campus Montpellier) Plus d'infos 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur Plus d'infos 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Plus d'infos 30 Mar : De Vinci International Week Plus d'infos 02 Avr : Forum Alternance : ingénieur, management, digital Plus d'infos 03 Avr : Showroom projets ingénieurs ESILV 4e année Plus d'infos Ecole Supérieure d'Ingénieurs Léonard de Vinci Paris • Nantes • Montpellier Tél. : +33 1 81 00 28 38 admissions@esilv.fr Recrutement Plan d’accès / Mentions légales / 10 bonnes raisons d’intégrer l’ESILV / 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) X X Ce site utilise des cookies pour améliorer votre expérience En cliquant sur "Je suis d'accord", vous donnez votre consentement pour tous les cookies. Lire la suite Réglages Tout refuser OK, J'ACCEPTE ! Manage consent Fermer Gestion de la vie privée Ce site web utilise des cookies pour améliorer votre expérience lorsque vous naviguez sur le site. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels pour le fonctionnement des fonctionnalités de base du site web. Nous utilisons également des cookies de tiers qui nous aident à analyser et à comprendre comment vous utilisez ce site web. Ces cookies ne seront stockés dans votre navigateur qu'avec votre consentement. Vous avez également la possibilité de refuser ces cookies. Toutefois, la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation. Essentiels Essentiels Toujours activé Ces cookies sont absolument nécessaires pour le bon fonctionnement du site web. Cette catégorie ne comprend que les cookies qui assurent les fonctionnalités de base et les fonctions de sécurité du site web. Ces cookies ne stockent aucune information personnelle. Fonctionnels functional Les cookies fonctionnels permettent de réaliser certaines fonctionnalités comme le partage du contenu du site web sur les plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces. Préférences preferences Les cookies de préférence sont utilisés pour stocker les préférences des utilisateurs afin de fournir un contenu personnalisé et pratique pour les utilisateurs, comme la langue du site web ou l'emplacement du visiteur. Analytics analytics Les cookies analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site web. Ces cookies permettent de fournir des informations sur les mesures du nombre de visiteurs, le taux de rebond, la source de trafic, etc. Marketing advertisement Les cookies publicitaires sont utilisés pour fournir aux visiteurs des publicités et des campagnes de marketing pertinentes. Ces cookies suivent les visiteurs sur les sites web et recueillent des informations pour fournir des publicités personnalisées. Non Necessary non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. Tout refuser Save My Preferences OK, J'ACCEPTE ! English Français
-
-
-================================================================================
-SOURCE: https://www.esilv.fr/admissions/
-SCRAPED: 2025-12-16T17:23:01.017501
-================================================================================
-
-Presse Actus Agenda Projets Menu Admissions Concours Avenir, Concours e3a, Admission sur titre ... Les deux flux principaux d’intégration à l’ESILV sont le Concours AVENIR BAC en admission post-bac via la procédure Parcoursup, et le concours AVENIR PREPAS après une classe préparatoire aux grandes écoles. Hors ces procédures spécifiques aux étudiants de Terminale Générale et CPGE, vous pouvez intégrer l’ESILV de bac à bac+4, en admissions parallèles, par exemple après un DUT/BUT ou une Licence scientifique via le concours AVENIR PLUS. Quels profils sont recrutés à l’ESILV ? Devenir ingénieur avec : Bac général – Bac STI2D – Bac scientifique étranger – Bac+1 scientifique et technique – CPGE MP, MPI, PC, PSI, PT- Prépas ATS, TSI – Licence 1, 2 ou 3 – Master 1 scientifique et technique- DUT/BUT scientifiques : génie mécanique et productique, informatique, mesures physiques, génie industriel et maintenance, génie électrique et informatique industrielle, génie thermique et énergie, sciences et génie des matériaux, réseaux et télécommunication, statistiques et informatique décisionnelle… – BTS scientifiques avec mention (uniquement pour la filière apprentissage) Les procédures en détails : Concours AVENIR PLUS Admission à l’ESILV de bac+1 à bac+4 : Licence, PASS, DUT, Prépa ATS ou TSI, Master 1. Lire la suite → Concours AVENIR PRÉPAS Admission en cycle ingénieur après une classe préparatoire MP, MPI, PC, PSI et PT, via les banques CCINP, e3a-Polytech et PT. Lire la suite → Concours AVENIR BAC – Parcoursup Admission post-bac en prépa intégrée pour les candidats de Terminale Générale & STI2D, via la procédure nationale Parcoursup. Lire la suite → Candidats en alternance Admission en cycle ingénieur, bachelor ou MSc en alternance pour les titulaires d’un bac+2 ou 3 : BUT, Licence, Bachelors, … Lire la suite → Concours AVENIR BACHELORS Admission en Bachelor à l’ESILV Lire la suite → Candidats étrangers Admission en prépa intégrée, en cycle ingénieur ou bachelor de bac à bac+4 pour les candidats évoluant hors système Français. Lire la suite → Logement L’ESILV vous accompagne dans votre recherche de logement à Paris, pour que trouver un logement à Paris lorsqu’on est étudiant soit le plus simple possible. L’ESILV dispose d’une plateforme logement Elle permet aux étudiants de trouver un logement en France et à l’international. Vous êtes étudiant(e) ou futur(e) étudiant(e) de l’ESILV, utilisez la plateforme logement […] Lire la suite → Rencontrez-nous Journées Portes Ouvertes : Rien ne vaut une visite sur place pour découvrir une école, ses spécificités et son environnement. Venez visiter l’ESILV, rencontrer ses professeurs et étudiants lors des JPOs ! Voir les dates de JPO Inside ESILV : Une journée d’immersion dans la peau d’un élève de l’ESILV, sur le campus ! Paris […] Lire la suite → Tarifs et financement Financement des études en école d’ingénieurs et frais de scolarité des programmes ESILV Droits d’inscriptions 2026-2027 Prépa intégrée et Cycle ingénieur : 11 400 euros par an Double diplôme ingénieur manager : 2 000 euros par an en sus (post-bac) Restart Postbac : 7 700 euros par an (rentrée février 2026) Bachelors : 7 900 […] Lire la suite → Vos contacts admissions Ghislaine LOSQ-JUNCKER Admissions Paris 01 81 00 83 34 Téo LUCCHINI Admissions Bachelors Paris 01 81 00 27 70 Audrey MONTROUGE Admissions Paris (Apprentissage) 01 81 00 39 53 Bouchra SAO Admissions Montpellier 04 11 62 09 38 Clémence BESSON Admissions Nantes 02 30 79 04 45 Brochure Candidature En savoir plus ? Demandez-nous une documentation ! Les champs marqués d'un astérisque ( * ) sont à remplir obligatoirement et correctement. Cursus Ingénieur (Paris) Cursus Ingénieur (Nantes) Cursus Ingénieur (Montpellier) Bachelor Ingénierie Numérique Bachelor Technologie & Management MSc Cyber Resilience & Crisis Leadership MSc Computer Science MS Modélisation Numérique Paris Montpellier Nantes Civilité * Madame Monsieur Votre pays FRANCE ETATS-UNIS AFGHANISTAN AFRIQUE DU SUD ALBANIE ALGERIE ALLEMAGNE ANDORRE ANGLETERRE ANGOLA ANTIGUA ET BARBADE ANTILLES BRITANIQUES ANTILLES FRANCAISES ARABIE SAOUDITE ARGENTINE ARMENIE ASIE AUSTRALIE AUTRICHE AZERBAIDJAN BAHAMAS BAHREIN BANGLADESH BARBADE BELGIQUE BELIZE BENIN BERMUDES BHOUTAN BIELORUSSIE BIRMANIE BOLIVIE BOSNIE HERZEGOVINE BOTSWANA BRESIL BRUNEI BULGARIE BURKINA FASO BURUNDI C.E.I CAMBODGE CAMEROUN CANADA CAP-VERT CHILI CHINE CHYPRE COLOMBIE COMMUNAUTE EUROPEENNE COMORES CONGO COREE DU NORD COREE DU SUD COSTA RICA COTE D'IVOIRE CROATIE CUBA DANEMARK DJIBOUTI DOMINIQUE ECOSSE EGYPTE EMIRATS ARABES UNIS EQUATEUR ERYTHREE ESPAGNE ESTONIE ETHIOPIE FIDJI FINLANDE GABON GAMBIE GEORGIE GHANA GRANDE BRETAGNE GRECE GRENADE GUADELOUPE GUATEMALA GUINEE GUINEE BISSAU GUINEE-EQUATORIAL GUYANA GUYANE HAITI HAUTE VOLTA HONDURAS HONG-KONG HONGRIE ILE DE LA REUNION ILES ANGLO NORMANDES ILES CANARIES ILES CAYMANS INDE INDONESIE IRAK IRAN IRLANDE ISLANDE ISRAEL ITALIE JAMAIQUE JAPON JORDANIE KAZAKHSTAN KENYA KIRGHYSTAN KIRIBATI KOWEIT LAOS LESOTHO LETTONIE LIBAN LIBERIA LIBYE LIECHTENSTEIN LITUANIE LUXEMBOURG MACAO MACEDOINE MADAGASCAR MALAISIE MALAWI MALDIVES MALI MALTE MAROC MARSHALL MARTINIQUE MAURICE MAURITANIE MAYOTTE MELANESIE MEXIQUE MICRONESIE MOLDAVIE MONACO MONGOLIE MOZAMBIQUE NAMIBIE NAURU NEPAL NICARAGUA NIGER NIGERIA NORVEGE NOUVELLE-CALEDONIE NOUVELLES-HEBRIDES NOUVELLE-ZELANDE OCEANIE OMAN OUGANDA OUZBEKISTAN PACIFIQUE SUD PAKISTAN PALAOS PANAMA PAPOUASIE-NOUVELLE-GUINEE PARAGUAY PAYS DE GALLES PAYS-BAS PEROU PHILIPPINES POLOGNE POLYNESIE FRANCAISE PORTO RICO PORTUGAL PRINICPAUTE DE MONACO QATAR QUEBEC REPUBLIQUE CENTRAFRICAINE REPUBLIQUE DE NAMIBIE REPUBLIQUE DEMOCRATIQUE DU CONGO REPUBLIQUE DOMINICAINE REPUBLIQUE TCHEQUE ROUMANIE ROYAUME-UNI RUSSIE RWANDA SAINT-CHRISTOPHE-ET-NIEVES SAINTE-LUCIE SAINT-MARIN SAINT-PIERRE-ET-MIQUELON SAINT-VINCENT-ET-LES-GRENADINES SALOMON SALVADOR SAMOA SAOTOME ET PRINCIPE SENEGAL SERBIE ET MONTENEGRO SEYCHELLES SIERRA-LEONE SINGAPOUR SLOVAQUIE SLOVENIE SOMALIE SOUDAN SRI LANKA SUEDE SUISSE SURINAM SWAZILAND SYRIE TADJIKISTAN TAHITI TAIWAN TANZANIE TCHAD THAILANDE TIMOR ORIENTAL TOGO TONGA TRINITE ET TOBAGO TUNISIE TURKMENISTAN TURQUIE TUVALU UKRAINE UNION INDIENNE URUGUAY UZBEKISTAN VANUATU VATICAN VENEZUELA VIET-NAM YEMEN ZAMBIE ZIMBABWE FRANCE (DOM/TOM) Votre niveau actuel* Seconde Seconde Premiere Premiere Terminale Terminale Bac+1 Bac+1 licence Bac+1 Bachelor Bac+1 BTS Bac+1 BUT Bac+1 Ecole de Commerce Bac+1 Ecole d'ingénieur Bac+1 Non précisé Bac+2 Bac+2 CPGE Bac+2 licence Bac+2 Bachelor Bac+2 BTS Bac+2 BUT Bac+2 Ecole de Commerce Bac+2 Ecole d'ingénieur Bac+2 Non précisé Bac+3 Bac+3 licence Bac+3 BUT Bac+3 Bachelor Bac+3 Ecole de Commerce Bac+3 Ecole d'ingénieur Bac+3 Non précisé Bac+4 Bac+4 Master 1 Bac+4 Master 2 Bac+4 Bachelor Bac+4 Ecole de Commerce Bac+4 Ecole d'ingénieur Bac+4 Non précisé Bac+5 Bac+5 Master 2 Bac+5 Ecole de commerce 5ans Bac+5 Ecole ingenieur 5ans Bac+5 Ecole web 5ans Bac+5 Ecole autre 5ans Bac+5 Non précisé Doctorat Doctorat En validant ce formulaire, vous acceptez que De Vinci Higher Education traite vos données à caractère personnel pour répondre à votre demande de contact et ainsi recevoir la documentation demandée. Si vous y avez consenti, vous êtes également susceptible de recevoir la newsletter du Groupe Léonard de Vinci. Vos données sont transmises aux collaborateurs de notre direction marketing ayant besoin d’en connaître et sont conservées pour une durée de deux ans à compter de votre dernière demande. Vous disposez des droits suivants sur vos données : droit d’accès, droit de rectification, droit à l’effacement (droit à l’oubli), droit d’opposition, droit à la limitation du traitement, droit à la portabilité et du droit de retirer votre consentement. Vous pouvez également définir des directives générales ou particulières relatives au sort de vos données à caractère personnel après votre décès. Pour les exercer, merci d’adresser votre demande à DVHE - Pôle Universitaire Léonard De Vinci - 92916 Paris La Défense Cedex ou à webmaster@devinci.fr. En cas de réclamation, vous pouvez choisir de saisir la CNIL. Pour en savoir plus, consultez la politique de protection des données personnelles . Nos brochures en téléchargement : Bochure Cursus Ingénieur Livret pédagogique cursus ingénieur ESILV Brochure Bachelor Informatique & Cybersécurité Brochure FR MSc Cyber Resilience & Crisis Leadership Brochure MS Modélisation & Industrie Brochure Bachelors Brochure Alternance Brochure Bachelor Technologie & Management Brochure FR MSc Computer Science & Data Science Brochure Sportifs de Haut Niveau Prochains évènements 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Evènements 24 Jan : Portes Ouvertes (Campus Nantes) Plus d'infos 24 Jan : Portes Ouvertes (Campus Paris) Plus d'infos 24 Jan : Portes Ouvertes (Campus Montpellier) Plus d'infos 11 Fév : Inside ESILV Nantes : immersion en école d’ingénieur Plus d'infos 24 Fév : Inside ESILV Paris : immersion en école d’ingénieur Plus d'infos 30 Mar : De Vinci International Week Plus d'infos 02 Avr : Forum Alternance : ingénieur, management, digital Plus d'infos 03 Avr : Showroom projets ingénieurs ESILV 4e année Plus d'infos Ecole Supérieure d'Ingénieurs Léonard de Vinci Paris • Nantes • Montpellier Tél. : +33 1 81 00 28 38 admissions@esilv.fr Recrutement Plan d’accès / Mentions légales / 10 bonnes raisons d’intégrer l’ESILV / 24 Jan : Portes Ouvertes (Campus Nantes) 24 Jan : Portes Ouvertes (Campus Paris) 24 Jan : Portes Ouvertes (Campus Montpellier) X X Ce site utilise des cookies pour améliorer votre expérience En cliquant sur "Je suis d'accord", vous donnez votre consentement pour tous les cookies. Lire la suite Réglages Tout refuser OK, J'ACCEPTE ! Manage consent Fermer Gestion de la vie privée Ce site web utilise des cookies pour améliorer votre expérience lorsque vous naviguez sur le site. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels pour le fonctionnement des fonctionnalités de base du site web. Nous utilisons également des cookies de tiers qui nous aident à analyser et à comprendre comment vous utilisez ce site web. Ces cookies ne seront stockés dans votre navigateur qu'avec votre consentement. Vous avez également la possibilité de refuser ces cookies. Toutefois, la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation. Essentiels Essentiels Toujours activé Ces cookies sont absolument nécessaires pour le bon fonctionnement du site web. Cette catégorie ne comprend que les cookies qui assurent les fonctionnalités de base et les fonctions de sécurité du site web. Ces cookies ne stockent aucune information personnelle. Fonctionnels functional Les cookies fonctionnels permettent de réaliser certaines fonctionnalités comme le partage du contenu du site web sur les plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces. Préférences preferences Les cookies de préférence sont utilisés pour stocker les préférences des utilisateurs afin de fournir un contenu personnalisé et pratique pour les utilisateurs, comme la langue du site web ou l'emplacement du visiteur. Analytics analytics Les cookies analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site web. Ces cookies permettent de fournir des informations sur les mesures du nombre de visiteurs, le taux de rebond, la source de trafic, etc. Marketing advertisement Les cookies publicitaires sont utilisés pour fournir aux visiteurs des publicités et des campagnes de marketing pertinentes. Ces cookies suivent les visiteurs sur les sites web et recueillent des informations pour fournir des publicités personnalisées. Non Necessary non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. Tout refuser Save My Preferences OK, J'ACCEPTE ! English Français
-

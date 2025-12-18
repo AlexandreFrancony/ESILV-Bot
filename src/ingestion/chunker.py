@@ -128,7 +128,7 @@ class ESILVChunker:
         documents = []
         
         # Split by SOURCE: markers (more reliable than counting equals)
-        source_pattern = r"SOURCE:\s*(https?://[^\s\n]+)"
+        source_pattern = r"SOURCE:\s*(.+)"
         sources = list(re.finditer(source_pattern, content))
         
         for i, match in enumerate(sources):
