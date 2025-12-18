@@ -138,6 +138,10 @@ class PDFLoader:
     def _extract_with_pdfplumber(self) -> bool:
         """Extract text using pdfplumber (recommended)"""
         try:
+            if not pdfplumber:
+                self.logger.error("pdfplumber is not available")
+                return False
+            
             self.logger.info("Extracting text with pdfplumber...")
             
             with pdfplumber.open(self.pdf_path) as pdf:
@@ -167,6 +171,10 @@ class PDFLoader:
     def _extract_with_pypdf2(self) -> bool:
         """Extract text using PyPDF2 (fallback)"""
         try:
+            if not PyPDF2:
+                self.logger.error("PyPDF2 is not available")
+                return False
+            
             self.logger.info("Extracting text with PyPDF2...")
             
             with open(self.pdf_path, "rb") as f:
