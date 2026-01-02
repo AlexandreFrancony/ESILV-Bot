@@ -9,3 +9,4 @@ vectorstore/
 dist/
 build/
 logs/
+data
