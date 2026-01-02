@@ -18,11 +18,13 @@ chromadb>=0.4.0             # Vector database (embedded)
 # faiss-cpu>=1.7.4          # OR faiss-gpu for GPU acceleration
 
 # ============================================================================
-# WEB SCRAPING
+# SCRAPING
 # ============================================================================
 requests>=2.31.0            # HTTP requests
 beautifulsoup4>=4.12.0      # HTML parsing
 lxml>=4.9.0                 # XML/HTML parser backend
+pdfplumber>=0.9.0          # PDF text extraction
+PyPDF2>=3.0.0                # PDF manipulation
 
 # ============================================================================
 # FRONTEND & UI
