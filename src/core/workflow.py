@@ -152,9 +152,29 @@ class WorkflowManager:
             }
         
         else:
-            logger.warning("Unknown intent")
-            answer = "Je peux vous aider avec des questions sur ESILV."
-            sources = []
+            # unknown ou autres intents → Tenter du RAG quand même
+            logger.warning(f"Unknown or unhandled intent: {intent}")
+            
+            # Tenter retrieval + génération
+            retrieved = self.retriever.retrieve_with_context(question)
+            
+            if retrieved["sources"]:
+                # On a trouvé des docs → générer une réponse
+                prompt = self.qa_generator._build_prompt(question, retrieved["context"])
+                response = self.qa_generator.ollama_client.generate(
+                    model=self.qa_generator.model,
+                    prompt=prompt,
+                    stream=False
+                )
+                answer = response.get("response", "").strip()
+                sources = retrieved["sources"]
+                
+                # Ajouter une note
+                answer = "Je ne suis pas certain d'avoir bien compris votre question, mais voici ce que j'ai trouvé:\n\n" + answer
+            else:
+                # Aucun doc trouvé → message d'aide
+                answer = "Je n'ai pas trouvé d'informations pour répondre à votre question. Pourriez-vous la reformuler ? Par exemple, vous pouvez me demander:\n- Quelles sont les majeures disponibles ?\n- Comment postuler à ESILV ?\n- Où se trouve le campus ?"
+                sources = []
         
         return {
             "answer": answer,

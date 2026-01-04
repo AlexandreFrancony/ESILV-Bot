@@ -1,6 +1,11 @@
 # ESILV-Bot  
 # ESILV Smart Assistant – Multi-Agent RAG Chatbot
 
+Authors:
+ - Alexandre Franconny
+ - Romain Requena
+ - Léonard Seidlitz
+
 ## 1. Overview
 
 ESILV-Bot is an intelligent conversational assistant for ESILV engineering school, built on a multi-agent architecture with Retrieval-Augmented Generation (RAG).

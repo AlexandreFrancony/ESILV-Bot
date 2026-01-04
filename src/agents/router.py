@@ -123,7 +123,7 @@ JSON:"""
             "admission_help": ["admission", "postuler", "candidature", "inscription"],
             "course_details": ["cours", "matière", "module"],
             "general_info": ["esilv", "école", "campus", "où"],
-            "contact_collection": ["contact", "email", "téléphone", "numéro", "prénom", "nom"],
+            "contact_collection": ["contact", "brochures", "téléphone", "rappelé", "visite", "documentation", "informations", "intéressé"],
             "small_talk": ["bonjour", "salut", "merci", "bye"]
         }
         
