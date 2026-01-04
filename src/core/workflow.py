@@ -142,13 +142,53 @@ class WorkflowManager:
             
             sources = []
             
-            # MODIFICATION: Ajouter flag pour reset
             return {
                 "answer": answer,
                 "sources": sources,
                 "intent": intent,
                 "intent_confidence": confidence,
-                "form_complete": result["complete"]
+                "form_complete": result["complete"],
+                "recommendation_complete": result.get("recommendation_complete", False)
+            }
+        
+        elif intent == "program_recommendation":
+            logger.info("Program recommendation flow")
+            
+            if not chat_history:
+                chat_history = []
+            
+            from src.agents.program_recommender import ProgramRecommenderAgent
+            recommender = ProgramRecommenderAgent()
+            
+            # IMPORTANT: Passer TOUT l'historique au recommender
+            result = recommender.process(chat_history)
+            
+            if result["complete"]:
+                logger.info(f"Recommending: {result['recommended_program']}")
+                
+                rag_query = result["recommendation_query"]
+                retrieved = self.retriever.retrieve_with_context(rag_query)
+                prompt = self.qa_generator._build_prompt(rag_query, retrieved["context"])
+                response = self.qa_generator.ollama_client.generate(
+                    model=self.qa_generator.model,
+                    prompt=prompt,
+                    stream=False
+                )
+                
+                rag_answer = response.get("response", "").strip()
+                answer = f"{result['next_question']}\n\n{rag_answer}"
+                sources = retrieved["sources"]
+            else:
+                answer = result["next_question"]
+                sources = []
+            
+            return {
+                "answer": answer,
+                "sources": sources,
+                "intent": intent,
+                "intent_confidence": confidence,
+                "form_complete": False,
+                "recommendation_complete": result.get("recommendation_complete", False)
             }
         
         else:

@@ -28,12 +28,13 @@ LLM_MODEL = "mistral:7b-instruct-q4_0"
 OLLAMA_HOST = "http://localhost:11434"
 
 INTENT_TYPES = {
-    "program_info": "Questions sur programmes/formations/majeures",
+    "program_info": "Questions DESCRIPTIVES sur les programmes/majeures (liste, contenu, détails d'un programme)",
     "admission_help": "Questions sur admission/candidature",
     "course_details": "Questions sur cours/matières",
     "general_info": "Infos générales ESILV",
     "contact_collection": "Collecte d'informations de contact (nom, email, téléphone, programme d'intérêt)",
     "small_talk": "Salutations (bonjour/merci/bye) MÊME avec 'peux-tu m'aider', 'comment vas-tu', etc.",
+    "program_recommendation": "Demande d'AIDE au CHOIX - hésitation, conseil personnalisé, orientation ('aide-moi', 'conseille-moi', 'lequel choisir')",
     "unknown": "Non classifiable"
 }
 
@@ -124,7 +125,8 @@ JSON:"""
             "course_details": ["cours", "matière", "module"],
             "general_info": ["esilv", "école", "campus", "où"],
             "contact_collection": ["contact", "email", "téléphone", "numéro", "prénom", "nom"],
-            "small_talk": ["bonjour", "salut", "merci", "bye"]
+            "small_talk": ["bonjour", "salut", "merci", "bye"],
+            "program_recommendation": ["aide", "choisir", "hésite", "conseille", "recommande", "lequel", "orientation"],
         }
         
         for intent, words in keywords.items():

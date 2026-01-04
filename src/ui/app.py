@@ -42,6 +42,8 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 if "last_sources" not in st.session_state:
     st.session_state.last_sources = []
+if "active_flow" not in st.session_state:
+    st.session_state.active_flow = None
 
 
 # ---------------------------------------------------------
@@ -104,30 +106,32 @@ if show_contact:
 prompt = st.chat_input("Pose une question sur l'ESILV (admissions, majeures, campus, etc.)")
 
 if prompt:
-    # Afficher le message utilisateur
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # Générer la réponse
     with st.chat_message("assistant"):
         import time
         start_time = time.time()
-        # Créer les placeholders pour affichage progressif
         intent_placeholder = st.empty()
         answer_placeholder = st.empty()
         sources_placeholder = st.empty()
         
         manager = get_workflow_manager()
 
-        # Phase 1: Classification uniquement (rapide)
-        with st.spinner("Classification de l'intent..."):
-            intent_result = manager.router.classify(prompt)
-            intent = intent_result["intent"]
-            confidence = intent_result["confidence"]
-        
-        # Afficher l'intent immédiatement
-        intent_placeholder.info(f"Intent détecté: {intent} (confiance: {confidence:.0%})")
+        # Phase 1: Classification (SAUF si on est dans un flux actif)
+        if st.session_state.active_flow:
+            # On est dans un flux (program_recommendation ou autre), garder l'intent
+            intent = st.session_state.active_flow
+            confidence = 1.0
+            intent_placeholder.info(f"Intent actif: {intent} (conversation en cours)")
+        else:
+            # Classification normale
+            with st.spinner("Classification de l'intent..."):
+                intent_result = manager.router.classify(prompt)
+                intent = intent_result["intent"]
+                confidence = intent_result["confidence"]
+            intent_placeholder.info(f"Intent détecté: {intent} (confiance: {confidence:.0%})")
         
         # Phase 2: Génération de la réponse
         with st.spinner("Génération de la réponse..."):
@@ -135,16 +139,18 @@ if prompt:
                 {"role": msg["role"], "content": msg["content"]}
                 for msg in st.session_state.messages
             ]
-            result = manager.run(prompt, intent_data={"intent": intent, "confidence": confidence}, chat_history=chat_history)
+            result = manager.run(
+                prompt, 
+                intent_data={"intent": intent, "confidence": confidence}, 
+                chat_history=chat_history
+            )
             answer = result["answer"]
             sources = result["sources"]
 
         elapsed_time = time.time() - start_time
 
-
         # Afficher la réponse
         answer_placeholder.markdown(answer or "Aucune réponse générée.")
-        
         st.caption(f"Réponse générée en {elapsed_time:.2f} secondes.")
 
         # Afficher les sources
@@ -154,6 +160,19 @@ if prompt:
                     source_name = s.get("source", "Document")
                     score = s.get("score", 0.0)
                     st.markdown(f"[{i}] {source_name} (score: {score:.3f})")
+        
+        # Gérer l'état du flux
+        if result.get("recommendation_complete", False):
+            # Désactiver le flux quand la recommandation est terminée
+            st.session_state.active_flow = None
+        elif intent == "program_recommendation" and not result.get("recommendation_complete", False):
+            # Activer le flux program_recommendation
+            st.session_state.active_flow = "program_recommendation"
+        elif intent == "contact_collection" and not result.get("form_complete", False):
+            # Gérer aussi le flux contact_collection dans le chat principal
+            st.session_state.active_flow = "contact_collection"
+        elif result.get("form_complete", False):
+            st.session_state.active_flow = None
 
     # Sauvegarder dans l'historique
     st.session_state.messages.append({
