@@ -15,9 +15,9 @@ import logging
 from typing import Dict, Any
 from datetime import datetime
 
-from src.agents.retriever import create_retriever_node
-from src.agents.qa_generator import create_qa_node
-
+from src.agents.router import RouterAgent
+from src.agents.retriever import RetrieverAgent
+from src.agents.qa_generator import QAGeneratorAgent
 
 # ============================================================================
 # LOGGING SETUP
@@ -48,51 +48,108 @@ def setup_logger(name: str) -> logging.Logger:
 
 logger = setup_logger("ESILVWorkflow")
 
-
 # ============================================================================
-# WORKFLOW EXECUTION
+# WORKFLOW MANAGER
 # ============================================================================
-
-def run_workflow(question: str) -> Dict[str, Any]:
+class WorkflowManager:
     """
-    Run mono-turn RAG workflow.
-
-    Args:
-        question: user question in natural language
-
-    Returns:
-        dict with:
-            - answer: final answer string
-            - sources: list of source metadata
-            - retrieved_context: raw context from retriever
-            - retrieval_count: number of retrieved documents
+    Gestionnaire de workflow qui maintient les agents en mémoire.
+    Utilisé par Streamlit avec cache pour éviter de recharger les agents.
     """
-    # Initial state
-    state: Dict[str, Any] = {
-        "user_message": question,
-        "query": question,
-    }
+    
+    def __init__(self):
+        logger.info("Initialisation du WorkflowManager")
+        self.router = RouterAgent()
+        self.retriever = RetrieverAgent()
+        self.qa_generator = QAGeneratorAgent()
+        logger.info("WorkflowManager initialisé")
+    
+    def run(self, question: str, intent_data: dict = None) -> Dict[str, Any]:
+        """
+        Execute le workflow complet.
+        
+        Args:
+            question: Question de l'utilisateur
+            intent_data: Intent pré-classifié (optionnel)
+        
+        Returns:
+            Dict avec answer, sources, intent, intent_confidence
+        """
+        logger.info(f"Running workflow for question: {question}")
+        
+        # Classification de l'intent
+        if intent_data:
+            intent = intent_data["intent"]
+            confidence = intent_data["confidence"]
+        else:
+            result = self.router.classify(question)
+            intent = result["intent"]
+            confidence = result["confidence"]
+        
+        logger.info(f"Intent: {intent} ({confidence:.2f})")
+        
+        # Routing selon l'intent
+        rag_intents = ["program_info", "admission_help", "course_details", "general_info"]
+        
+        if intent in rag_intents:
+            # RAG flow
+            logger.info("Using RAG flow")
+            retrieved = self.retriever.retrieve_with_context(question)
+            prompt = self.qa_generator._build_prompt(question, retrieved["context"])
+            response = self.qa_generator.ollama_client.generate(
+                model=self.qa_generator.model,
+                prompt=prompt,
+                stream=False
+            )
+            answer = response.get("response", "").strip()
+            sources = retrieved["sources"]
+        
+        elif intent == "small_talk":
+            # Small talk sans RAG
+            logger.info("Small talk - direct response")
+            prompt = self.qa_generator._build_prompt(question, "")
+            response = self.qa_generator.ollama_client.generate(
+                model=self.qa_generator.model,
+                prompt=prompt,
+                stream=False
+            )
+            answer = response.get("response", "").strip()
+            sources = []
+        
+        elif intent == "contact_collection":
+            logger.info("Contact collection intent")
+            answer = "Je peux collecter vos informations. Quel est votre nom et email ?"
+            sources = []
+        
+        else:
+            logger.warning("Unknown intent")
+            answer = "Je peux vous aider avec des questions sur ESILV."
+            sources = []
+        
+        return {
+            "answer": answer,
+            "sources": sources,
+            "intent": intent,
+            "intent_confidence": confidence
+        }
+    
 
-    logger.info(f"Running workflow for question: {question}")
+_manager_instance = None
 
-    # 1. Retriever node
-    state = create_retriever_node(state)
+def get_manager() -> WorkflowManager:
+    """Retourne une instance singleton du WorkflowManager"""
+    global _manager_instance
+    if _manager_instance is None:
+        _manager_instance = WorkflowManager()
+    return _manager_instance
 
-    # 2. QA node
-    state = create_qa_node(state)
-
-    # 3. Extract final data
-    answer = state.get("answer", "")
-    sources = state.get("answer_sources", [])
-    retrieved_context = state.get("retrieved_context", "")
-    retrieval_count = state.get("retrieval_count", 0)
-
-    return {
-        "answer": answer,
-        "sources": sources,
-        "retrieved_context": retrieved_context,
-        "retrieval_count": retrieval_count,
-    }
+def run_workflow(question: str, intent_data: dict = None) -> Dict[str, Any]:
+    """
+    Fonction wrapper pour run_workflow (compatibilité).
+    Utilise un singleton pour éviter de recharger les agents.
+    """
+    manager = get_manager()
+    return manager.run(question, intent_data)
 
 
 # ============================================================================

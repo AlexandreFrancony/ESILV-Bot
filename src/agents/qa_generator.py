@@ -52,7 +52,7 @@ logger = setup_logger("ESILVQAGenerator")
 # CONFIGURATION
 # ============================================================================
 
-LLM_MODEL = "mistral"
+LLM_MODEL = "mistral:7b-instruct-q4_0"
 OLLAMA_HOST = "http://localhost:11434"
 DEFAULT_TOP_K = 3
 TEMPERATURE = 0.3  # Lower = more deterministic, better for FAQ style
@@ -125,17 +125,25 @@ class QAGeneratorAgent:
         
         Style: FAQ concis, réponses courtes et directes
         """
-        prompt = f"""Tu es un assistant FAQ officiel de l'école ESILV.
-Réponds de manière concise et directe, en 2-3 phrases maximum.
-Utilise les numéros [1], [2], [3] pour citer tes sources.
-Réponds en français.
+        if not context:
+            prompt = f"""Tu es un assistant FAQ de l'école ESILV.
+    Réponds brièvement et poliment.
 
-Documents:
-{context}
+    Question: {query}
 
-Question: {query}
+    Réponse:"""
+        else:
+            prompt = f"""Tu es un assistant FAQ officiel de l'école ESILV.
+    Réponds de manière concise et directe, en 2-3 phrases maximum.
+    Utilise les numéros [1], [2], [3] pour citer tes sources.
+    Réponds en français.
 
-Réponse:"""
+    Documents:
+    {context}
+
+    Question: {query}
+
+    Réponse:"""
         return prompt
     
     def answer(self, query: str) -> Dict[str, Any]:
@@ -258,8 +266,31 @@ def create_qa_node(state: Dict[str, Any]) -> Dict[str, Any]:
             logger.warning("No query provided to QA generator")
             return state
         
-        # Generate answer
-        result = qa_generator.answer(query)
+        # Check if context already retrieved
+        if "retrieved_context" in state and state["retrieved_context"] is not None:
+            # Use existing context (for small_talk with empty context)
+            context = state["retrieved_context"]
+            sources = state.get("retrieved_sources", [])
+            
+            # Build prompt and call LLM directly
+            prompt = qa_generator._build_prompt(query, context)
+            response = qa_generator.ollama_client.generate(
+                model=qa_generator.model,
+                prompt=prompt,
+                stream=False,
+            )
+            
+            answer_text = response.get("response", "").strip()
+            
+            result = {
+                "answer": answer_text,
+                "sources": sources,
+                "raw_context": context,
+                "num_sources": len(sources)
+            }
+        else:
+            # Normal flow: retrieve then generate
+            result = qa_generator.answer(query)
         
         # Update state
         state["answer"] = result["answer"]
