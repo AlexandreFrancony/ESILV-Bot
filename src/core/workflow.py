@@ -64,13 +64,14 @@ class WorkflowManager:
         self.qa_generator = QAGeneratorAgent()
         logger.info("WorkflowManager initialisé")
     
-    def run(self, question: str, intent_data: dict = None) -> Dict[str, Any]:
+    def run(self, question: str, intent_data: dict = None, chat_history: list = None) -> Dict[str, Any]:
         """
         Execute le workflow complet.
         
         Args:
             question: Question de l'utilisateur
             intent_data: Intent pré-classifié (optionnel)
+            chat_history: Historique du chat (pour contexte, optionnel)
         
         Returns:
             Dict avec answer, sources, intent, intent_confidence
@@ -117,9 +118,38 @@ class WorkflowManager:
             sources = []
         
         elif intent == "contact_collection":
-            logger.info("Contact collection intent")
-            answer = "Je peux collecter vos informations. Quel est votre nom et email ?"
+            logger.info("Contact collection flow")
+
+            if not chat_history:
+                chat_history = []
+                            
+            # Initialiser FormFiller
+            from src.agents.form_filler import FormFillerAgent
+            form_filler = FormFillerAgent()
+            
+            # Traiter
+            result = form_filler.process(chat_history)
+            
+            if result["complete"]:
+                # Sauvegarder
+                from src.utils.save_data import save_contact
+                save_contact(result["data"])
+                
+                answer = result["next_question"]  # Message de confirmation personnalisé
+            else:
+                # Demander le prochain champ
+                answer = result["next_question"]
+            
             sources = []
+            
+            # MODIFICATION: Ajouter flag pour reset
+            return {
+                "answer": answer,
+                "sources": sources,
+                "intent": intent,
+                "intent_confidence": confidence,
+                "form_complete": result["complete"]
+            }
         
         else:
             logger.warning("Unknown intent")
@@ -130,7 +160,8 @@ class WorkflowManager:
             "answer": answer,
             "sources": sources,
             "intent": intent,
-            "intent_confidence": confidence
+            "intent_confidence": confidence,
+            "form_complete": False
         }
     
 

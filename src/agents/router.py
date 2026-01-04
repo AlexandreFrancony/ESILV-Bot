@@ -32,6 +32,7 @@ INTENT_TYPES = {
     "admission_help": "Questions sur admission/candidature",
     "course_details": "Questions sur cours/matières",
     "general_info": "Infos générales ESILV",
+    "contact_collection": "Collecte d'informations de contact (nom, email, téléphone, programme d'intérêt)",
     "small_talk": "Salutations (bonjour/merci/bye) MÊME avec 'peux-tu m'aider', 'comment vas-tu', etc.",
     "unknown": "Non classifiable"
 }
@@ -122,6 +123,7 @@ JSON:"""
             "admission_help": ["admission", "postuler", "candidature", "inscription"],
             "course_details": ["cours", "matière", "module"],
             "general_info": ["esilv", "école", "campus", "où"],
+            "contact_collection": ["contact", "email", "téléphone", "numéro", "prénom", "nom"],
             "small_talk": ["bonjour", "salut", "merci", "bye"]
         }
         
