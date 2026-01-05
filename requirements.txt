@@ -75,3 +75,10 @@ mypy>=1.7.0                 # Type checking
 jupyter>=1.0.0              # Jupyter notebooks
 notebook>=7.0.0             # Notebook interface
 ipython>=8.16.0             # Interactive Python
+
+# ============================================================================
+# Notebook-specific (if using Jupyter)
+# ============================================================================
+ipykernel>=6.28.0           # Jupyter kernel
+matplotlib>=3.8.0          # Plotting
+seaborn>=0.13.0             # Statistical data visualization
